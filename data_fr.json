@@ -1,0 +1,5008 @@
+{
+  "userAvailabilityTypes": [
+    {
+      "name": "Parent non inscrit"
+    },
+    {
+      "name": "Témoin non disponible"
+    },
+    {
+      "name": "Aucune pièce d'identité disponible"
+    }
+  ],
+  "trafficFineRetrievalOptions": [
+    {
+      "name": "Numéro de plaque"
+    },
+    {
+      "name": "Numéro du Ticket"
+    }
+  ],
+  "operationalErea": [
+    {
+      "name": "Ville de Kigali"
+    },
+    {
+      "name": "Province"
+    }
+  ],
+  "organizationTypes": [
+    {
+      "name": "Société"
+    },
+    {
+      "name": "Coopérative"
+    }
+  ],
+  "insurances": [
+    {
+      "name": "BK Insurance"
+    },
+    {
+      "name": "Prime"
+    },
+    {
+      "name": "Radiant"
+    },
+    {
+      "name": "Sanlam"
+    },
+    {
+      "name": "Sonarwa"
+    },
+    {
+      "name": "UAP Insurance"
+    },
+    {
+      "name": "MUA Insurance"
+    }
+  ],
+  "reasonForRequest": [
+    {
+      "name": "Perte"
+    },
+    {
+      "name": "Vol"
+    },
+    {
+      "name": "Dommage"
+    }
+  ],
+  "authorizationTypes": [
+    {
+      "name": "Entreprise / Cooperative"
+    },
+    {
+      "name": "Individu"
+    }
+  ],
+  "educationLevels": [
+    {
+      "name": "Cycle Primaire"
+    },
+    {
+      "name": "Niveau Ordinaire"
+    },
+    {
+      "name": "Niveau avancé"
+    }
+  ],
+  "identificationDocument": [
+    {
+      "name": "Document de Naissance"
+    },
+    {
+      "name": "Autres documents"
+    }
+  ],
+  "correctionReasons": [
+    {
+      "name": "Date de Naissance"
+    },
+    {
+      "name": "Sexe"
+    },
+    {
+      "name": "Noms"
+    },
+    {
+      "name": "Photo"
+    }
+  ],
+  "civilStatuses": [
+    {
+      "status": "Marié"
+    },
+    {
+      "status": "Célibataire"
+    },
+    {
+      "status": "Divorcé"
+    },
+    {
+      "status": "Veuve"
+    },
+    {
+      "status": "Veuf"
+    }
+  ],
+  "gender": [
+    {
+      "name": "Mâle"
+    },
+    {
+      "name": "Femelle"
+    }
+  ],
+  "relationship": [
+    {
+      "name": "Enfant"
+    },
+    {
+      "name": "Parent"
+    },
+    {
+      "name": "Conjoint/e"
+    },
+    {
+      "name": "Autre"
+    }
+  ],
+  "marriagePlace": [
+    {
+      "name": "Rwanda"
+    },
+    {
+      "name": "Autre pays"
+    }
+  ],
+  "idtypes": [
+    {
+      "name": "Numéro de la Carte d'Identité"
+    },
+    {
+      "name": "Numéro de Passeport"
+    }
+  ],
+  "citizenship": [
+    {
+      "name": "Rwandais"
+    },
+    {
+      "name": "Etranger"
+    }
+  ],
+  "citizenshipAndRefugee": [
+    {
+      "name": "Rwandais"
+    },
+    {
+      "name": "Etranger"
+    },
+    {
+      "name": "Refugié"
+    }
+  ],
+  "citizenshipAndForeignerAndRefugee": [
+    {
+      "name": "Rwandais"
+    },
+    {
+      "name": "Etranger"
+    },
+    {
+      "name": "Étranger avec Carte de Résident"
+    },
+    {
+      "name": "Refugié"
+    }
+  ],
+  "crvsDocumentType": [
+    {
+      "name": "Numéro de la Carte d'Identité Nationale"
+    },
+    {
+      "name": "Numéro de Fiche du Citoyen"
+    },
+    {
+      "name": "NIN"
+    }
+  ],
+  "rwandanAndRefugee": [
+    {
+      "name": "Rwandais"
+    },
+    {
+      "name": "Refugié"
+    }
+  ],
+  "filter": [
+    {
+      "name": "Mensuel"
+    },
+    {
+      "name": "Annuel"
+    },
+    {
+      "name": "Journalier"
+    },
+    {
+      "name": "Tous"
+    }
+  ],
+  "yesorno": [
+    {
+      "name": "Oui"
+    },
+    {
+      "name": "Non"
+    }
+  ],
+  "paymentMethod": [
+    {
+      "name": "Cash"
+    },
+    {
+      "name": "Card (POS)"
+    }
+  ],
+  "actionType": [
+    {
+      "name": "Add"
+    },
+    {
+      "name": "Remove"
+    }
+  ],
+  "reportDataType": [
+    {
+      "name": "Détails "
+    },
+    {
+      "name": "Compter"
+    }
+  ],
+  "reportType": [
+    {
+      "name": "Tous"
+    },
+    {
+      "name": "Rapport du Responsable des Affaires Foncières du Secteur"
+    },
+    {
+      "name": "Rapport du Statut"
+    }
+  ],
+  "applicants": [
+    {
+      "name": "Rwandais"
+    },
+    {
+      "name": "Etranger"
+    },
+    {
+      "name": "Diaspora"
+    }
+  ],
+  "slaReport": [
+    {
+      "name": "Tous"
+    },
+    {
+      "name": "Au sein des Entités Foncières des Secteurs"
+    },
+    {
+      "name": "Au-delà des Entités Foncières des Secteurs"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Kinyarwanda"
+    },
+    {
+      "name": "Anglais"
+    },
+    {
+      "name": "Français"
+    }
+  ],
+  "matrimonialRegimeOptions": [
+    {
+      "name": "Régime de la communauté des universelle"
+    },
+    {
+      "name": "Régime de la communauté réduite aux acquêts"
+    },
+    {
+      "name": "Régime de la séparation des biens"
+    }
+  ],
+  "searchOptions": [
+    {
+      "name": "No de la Carte d'Identité"
+    },
+    {
+      "name": "No du Dossier"
+    },
+    {
+      "name": "No de Passeport"
+    },
+    {
+      "name": "Code de facturation"
+    }
+  ],
+  "serviceSearchOptions": [
+    {
+      "name": "Code du service"
+    },
+    {
+      "name": "Nom du service"
+    }
+  ],
+  "tagSearchOptions": [
+    {
+      "name": "Code du Tag"
+    },
+    {
+      "name": "Nom du Tag"
+    }
+  ],
+  "paymentFilter": [
+    {
+      "name": "Tous les dossiers"
+    },
+    {
+      "name": "Paiement expiré"
+    },
+    {
+      "name": "En attente de paiement"
+    },
+    {
+      "name": "Payé"
+    }
+  ],
+  "statusReport": [
+    {
+      "name": "Tous"
+    },
+    {
+      "name": "Approuvé"
+    },
+    {
+      "name": "Refusé"
+    },
+    {
+      "name": "En attente "
+    }
+  ],
+  "miscellaneousTranslations": [
+    {
+      "name": "Tous les services"
+    },
+    {
+      "name": "Vous n'êtes pas connecté depuis un moment, veuillez ouvrir votre compte pour accéder à cette page"
+    }
+  ],
+  "summaryTitle": [
+    {
+      "name": "Identification du demandeur"
+    },
+    {
+      "name": "Pièces jointes"
+    },
+    {
+      "name": "Bureau de retrait"
+    },
+    {
+      "name": " Identification de l'enfant"
+    },
+    {
+      "name": "Identification du Conjoint"
+    },
+    {
+      "name": "Identification du Père de l'enfant"
+    },
+    {
+      "name": "Identification de la Mère de l'enfant"
+    },
+    {
+      "name": "Identification du Chef de Famille"
+    },
+    {
+      "name": "Identification des Témoins"
+    },
+    {
+      "name": "Identification du Père "
+    },
+    {
+      "name": "Identification de la Mère"
+    },
+    {
+      "name": "Lieu de naissance"
+    },
+    {
+      "name": "Identification du Partenaire"
+    },
+    {
+      "name": "Détails du Mariage Civil"
+    },
+    {
+      "name": "Identification du Défunt"
+    },
+    {
+      "name": "Détails du Décès"
+    },
+    {
+      "name": "Identification du Père du Défunt"
+    },
+    {
+      "name": "Identification de la Mère du Défunt"
+    },
+    {
+      "name": "Détails du Tribunal"
+    },
+    {
+      "name": "Détails de la Profession"
+    },
+    {
+      "name": "Identification du Président"
+    },
+    {
+      "name": "Détails de Tutelle et du Testament"
+    },
+    {
+      "name": "Détails de l'émission de la Carte d'Identité"
+    },
+    {
+      "name": "Détails du Mariage Religieux"
+    },
+    {
+      "name": "Identification du Représentant"
+    },
+    {
+      "name": "Identification du Demandeur"
+    },
+    {
+      "name": "Identification des Membres de Famille"
+    },
+    {
+      "name": "Sommaire des Détails"
+    },
+    {
+      "name": "Autres détails"
+    },
+    {
+      "name": "Détails du document"
+    },
+    {
+      "name": "Détails du bureau d'approbation"
+    },
+    {
+      "name": "Identification du Receveur"
+    },
+    {
+      "name": "Coordonnées du terrain"
+    },
+    {
+      "name": "Détails de la 2ème parcelle"
+    },
+    {
+      "name": "Détails du Transfert"
+    },
+    {
+      "name": "Détails de la Subdivision"
+    },
+    {
+      "name": "Propriétaire foncier ajouté"
+    },
+    {
+      "name": "Propriétaire foncier supprimé"
+    },
+    {
+      "name": "Propriétaire foncier"
+    },
+    {
+      "name": "Détails du terrain"
+    },
+    {
+      "name": "Détails du Journal Officiel"
+    },
+    {
+      "name": "Détails de publication"
+    },
+    {
+      "name": "Détails du ticket"
+    },
+    {
+      "name": "Détails du test"
+    },
+    {
+      "name": "Details du dossier"
+    },
+    {
+      "name": "Résultat du Code d'Inscription"
+    },
+    {
+      "name": "Identification de la Société"
+    },
+    {
+      "name": "Détails du rendez-vous"
+    },
+    {
+      "name": "Détails du Dépôt"
+    },
+    {
+      "name": "Résidence"
+    },
+    {
+      "name": "Ambassade qui traite le dossier"
+    },
+    {
+      "name": "Détails de la qualification"
+    },
+    {
+      "name": "Détails de votre adresse actuelle"
+    },
+    {
+      "name": "Détails du Bureau"
+    },
+    {
+      "name": "Coordonnées de la personne de contact"
+    },
+    {
+      "name": "Détails du travail"
+    },
+    {
+      "name": "Détails de l'Assurance"
+    },
+    {
+      "name": "Détails des installations scolaires"
+    },
+    {
+      "name": "Détails du rendez-vous"
+    },
+    {
+      "name": "Membres du foyer"
+    },
+    {
+      "name": "Membre"
+    },
+    {
+      "name": "Détails de la demande"
+    },
+    {
+      "name": "Détails des données biométriques"
+    },
+    {
+      "name": "Détails de traitement"
+    },
+    {
+      "name": "Identification du Tuteur"
+    },
+    {
+      "name": "Laissez-passer précédent"
+    },
+    {
+      "name": "Détails démographiques"
+    },
+    {
+      "name": "Détails de la visite"
+    },
+    {
+      "name": "Group Details"
+    },
+    {
+      "name": "Détails du visa"
+    },
+    {
+      "name": "Détails de la pénalite"
+    },
+    {
+      "name": "Cooperative & Insurance details"
+    },
+    {
+      "name": "Zone details"
+    },
+    {
+      "name": "Legal Representative Supporting Documents"
+    },
+    {
+      "name": "Pièces Justificatives du Représentant Légal"
+    },
+    {
+      "name": "Détails du Personnel"
+    },
+    {
+      "name": "Détails de l'Assemblée Générale"
+    },
+    {
+      "name": "Détails du Comité Exécutif"
+    },
+    {
+      "name": "Zone d'opération"
+    },
+    {
+      "name": "Représentant Légal"
+    },
+    {
+      "name": "Plan d'Action"
+    },
+    {
+      "name": "Authorization Details"
+    },
+    {
+      "name": "Détails dépendants"
+    },
+    {
+      "name": "License Details"
+    },
+    {
+      "name": "Dependant"
+    },
+    {
+      "name": "représentant du mineur"
+    },
+    {
+      "name": "Identification de parent"
+    },
+    {
+      "name": "Frais de service"
+    },
+    {
+      "name": "Détails du premiere Témoin"
+    },
+    {
+      "name": "Détails du dexieme Témoin"
+    },
+    {
+      "name": "Détails du Declarant"
+    },
+    {
+      "name": "Lieu de retrait de la carte d'identité"
+    },
+    {
+      "name": "Bureau de traitement du RIB"
+    }
+  ],
+  "summaryObjectTitles": [
+    {
+      "name": "Noms"
+    },
+    {
+      "name": "No de la Carte d'Identité"
+    },
+    {
+      "name": "No de Passeport"
+    },
+    {
+      "name": "Date de Naissance"
+    },
+    {
+      "name": "Sexe"
+    },
+    {
+      "name": "Noms du Père"
+    },
+    {
+      "name": "Noms de la Mére"
+    },
+    {
+      "name": "Résidence"
+    },
+    {
+      "name": "District"
+    },
+    {
+      "name": "Secteur"
+    },
+    {
+      "name": "Cellule"
+    },
+    {
+      "name": "Identification"
+    },
+    {
+      "name": "Nationalité"
+    },
+    {
+      "name": "Citoyenneté"
+    },
+    {
+      "name": "Numéro d'Identification"
+    },
+    {
+      "name": "Relations avec le Demandeur"
+    },
+    {
+      "name": "Date de Décès du Conjoint"
+    },
+    {
+      "name": "Lieu d'Enregistrement du mariage"
+    },
+    {
+      "name": "Lieu du Décès"
+    },
+    {
+      "name": "Date du Conseil de Tutelle"
+    },
+    {
+      "name": "Date du Testament"
+    },
+    {
+      "name": "Nom du Bénéficiaire du Testament"
+    },
+    {
+      "name": "Numéro de la Carte d'Identité du Beneficiaire du Testament"
+    },
+    {
+      "name": "Prénom"
+    },
+    {
+      "name": "Nom de Famille"
+    },
+    {
+      "name": "Etat Civil"
+    },
+    {
+      "name": "Adresse Email"
+    },
+    {
+      "name": "Numéro de téléphone"
+    },
+    {
+      "name": "Lieu de naissance"
+    },
+    {
+      "name": "Lieu de résidence"
+    },
+    {
+      "name": "Date du Mariage Civil"
+    },
+    {
+      "name": "Lieu du Mariage Civil"
+    },
+    {
+      "name": "Nom de l'Officier d'Etat Civil qui a célébré le mariage"
+    },
+    {
+      "name": "Régime Matrimonial"
+    },
+    {
+      "name": "Date du Mariage Religeux"
+    },
+    {
+      "name": "Lieu du Mariage Religieux"
+    },
+    {
+      "name": "Officiant du Mariage Religieux"
+    },
+    {
+      "name": "Date de Décès"
+    },
+    {
+      "name": "Motif de Décès"
+    },
+    {
+      "name": "Profession"
+    },
+    {
+      "name": "Nom du Conjoint décédé"
+    },
+    {
+      "name": "Centre de Santé"
+    },
+    {
+      "name": "Date de l'Attestation du Centre de Santé"
+    },
+    {
+      "name": "Autorité émettrice"
+    },
+    {
+      "name": "Date de l'Attestation délivrée par l'Autorité"
+    },
+    {
+      "name": "Lieu de la dernière résidence"
+    },
+    {
+      "name": "Lieu  de délivrance de l'identité précédente"
+    },
+    {
+      "name": "Il est en prison"
+    },
+    {
+      "name": "Date du jugement du tribunal"
+    },
+    {
+      "name": "Numéro du Dossier du Tribunal"
+    },
+    {
+      "name": "Le conjoint est-il en vie?"
+    },
+    {
+      "name": "Résidence du Conjoint"
+    },
+    {
+      "name": "Relations avec le Défunt"
+    },
+    {
+      "name": "Carte d'identité du Père"
+    },
+    {
+      "name": "Carte d'identité de la Mère"
+    },
+    {
+      "name": "Nom"
+    },
+    {
+      "name": "Prénoms"
+    },
+    {
+      "name": "Nom de l'Hôpital"
+    },
+    {
+      "name": "Profession du conjoint"
+    },
+    {
+      "name": "Autre motif"
+    },
+    {
+      "name": "Type de document"
+    },
+    {
+      "name": "Nom de l'Agence"
+    },
+    {
+      "name": "Nombre de copies par Publication"
+    },
+    {
+      "name": "Nom de la banque"
+    },
+    {
+      "name": "Document de la banque"
+    },
+    {
+      "name": "Frais (Frw)"
+    },
+    {
+      "name": "Numéro de téléphone de la banque"
+    },
+    {
+      "name": "Type de postulant"
+    },
+    {
+      "name": "Numéro TIN"
+    },
+    {
+      "name": "Nom de la société"
+    },
+    {
+      "name": "Numéro du Journal Officiel"
+    },
+    {
+      "name": "Nom de l'Institution"
+    },
+    {
+      "name": "Province"
+    },
+    {
+      "name": "Siège"
+    },
+    {
+      "name": "Taille"
+    },
+    {
+      "name": "Numéro de la parcelle"
+    },
+    {
+      "name": "Utilisation du terrain"
+    },
+    {
+      "name": "Hypothèque"
+    },
+    {
+      "name": "Prix de vente"
+    },
+    {
+      "name": "UPI"
+    },
+    {
+      "name": "Numéro de dossier"
+    },
+    {
+      "name": "Nombre de subdivisions"
+    },
+    {
+      "name": "Type de régime foncier"
+    },
+    {
+      "name": "Opposition"
+    },
+    {
+      "name": "Prénom"
+    },
+    {
+      "name": "Numérateur par Action"
+    },
+    {
+      "name": "Dénominateur par Action"
+    },
+    {
+      "name": "Représentant"
+    },
+    {
+      "name": "Succession"
+    },
+    {
+      "name": "Fiche cadastrale requise"
+    },
+    {
+      "name": "Localisation du terrain"
+    },
+    {
+      "name": "Nombre de fiches cadastrales"
+    },
+    {
+      "name": "Motif de demande"
+    },
+    {
+      "name": "Noms du Postulant"
+    },
+    {
+      "name": "Type de produit"
+    },
+    {
+      "name": "Méthode de livraison"
+    },
+    {
+      "name": "Numéro du Journal Officiel"
+    },
+    {
+      "name": "Gazette Release Date"
+    },
+    {
+      "name": "Mois du Journal Officiel"
+    },
+    {
+      "name": "Titre du Journal officiel"
+    },
+    {
+      "name": "Adresse"
+    },
+    {
+      "name": "Montant total"
+    },
+    {
+      "name": "Nouveau Nom Complet"
+    },
+    {
+      "name": "Nom complet"
+    },
+    {
+      "name": "Prix par ligne"
+    },
+    {
+      "name": "Prix par page"
+    },
+    {
+      "name": "Prix total"
+    },
+    {
+      "name": "Boîte Postale"
+    },
+    {
+      "name": "Catégorie"
+    },
+    {
+      "name": "Numéro du ticket"
+    },
+    {
+      "name": "Montant de la contravention"
+    },
+    {
+      "name": "A payer avant"
+    },
+    {
+      "name": "Date de délivrance"
+    },
+    {
+      "name": "Numéro de plaque"
+    },
+    {
+      "name": "Description de la contravention"
+    },
+    {
+      "name": "Mode de test"
+    },
+    {
+      "name": "Langue du test"
+    },
+    {
+      "name": "Date du test"
+    },
+    {
+      "name": "Centre du test"
+    },
+    {
+      "name": "Numéro du permis provisoire"
+    },
+    {
+      "name": "Catégorie"
+    },
+    {
+      "name": "Code d'inscription"
+    },
+    {
+      "name": "Station de retrait"
+    },
+    {
+      "name": "Statut"
+    },
+    {
+      "name": "Numéro du permis de conduire"
+    },
+    {
+      "name": "Date d'expiration du permis de conduire"
+    },
+    {
+      "name": "Numéro du permis précèdent"
+    },
+    {
+      "name": "Numéro du permis"
+    },
+    {
+      "name": "Catégorie"
+    },
+    {
+      "name": "Pays émetteur"
+    },
+    {
+      "name": "Type de visite"
+    },
+    {
+      "name": "Numéro de plaque du véhicule"
+    },
+    {
+      "name": "Carte d'identité du propriétaire du véhicule"
+    },
+    {
+      "name": "Montant"
+    },
+    {
+      "name": "Type de permis de conduire"
+    },
+    {
+      "name": "Centre du contrôle technique"
+    },
+    {
+      "name": "Date de rendez-vous"
+    },
+    {
+      "name": "Code de la société"
+    },
+    {
+      "name": "Adresse de la société"
+    },
+    {
+      "name": "Share Percentage"
+    },
+    {
+      "name": "Autre relation"
+    },
+    {
+      "name": "Nom du Conjoint"
+    },
+    {
+      "name": "Niveau d'Etudes"
+    },
+    {
+      "name": "Pays"
+    },
+    {
+      "name": "Ville"
+    },
+    {
+      "name": "Ambassade"
+    },
+    {
+      "name": "Bureau de retrait"
+    },
+    {
+      "name": "Occupation"
+    },
+    {
+      "name": "Village"
+    },
+    {
+      "name": "No de la Carte d'identité de l'enfant"
+    },
+    {
+      "name": "Niveau d'Education"
+    },
+    {
+      "name": "Pays de Délivrance"
+    },
+    {
+      "name": "Localisation"
+    },
+    {
+      "name": "Date d'Arrivée"
+    },
+    {
+      "name": "Calendrier d'Accréditation"
+    },
+    {
+      "name": "Maisons/Compagnie de Médias"
+    },
+    {
+      "name": "Site Web"
+    },
+    {
+      "name": "Détails de Couverture"
+    },
+    {
+      "name": "Faire rapport des activités"
+    },
+    {
+      "name": "Détails de l'Equipement"
+    },
+    {
+      "name": "Période de l'assurance"
+    },
+    {
+      "name": "Montant total à payer"
+    },
+    {
+      "name": "Montant payé"
+    },
+    {
+      "name": "Montant à payer"
+    },
+    {
+      "name": "District de Résidence"
+    },
+    {
+      "name": "Catégorie d'Assurance"
+    },
+    {
+      "name": "Niveau d'Equivalence"
+    },
+    {
+      "name": "Programme / Option"
+    },
+    {
+      "name": "Année d'admission"
+    },
+    {
+      "name": "Année d'Achèvement"
+    },
+    {
+      "name": "Durée du Programme"
+    },
+    {
+      "name": "Mode d'Etudes"
+    },
+    {
+      "name": "Niveau de Qualification"
+    },
+    {
+      "name": "Type de Vaccination"
+    },
+    {
+      "name": "Centre de Vaccination"
+    },
+    {
+      "name": "Date de Vaccination"
+    },
+    {
+      "name": "Type de plage Horaire"
+    },
+    {
+      "name": "Heure de Plage Horaire"
+    },
+    {
+      "name": "Vit au Rwanda depuis..."
+    },
+    {
+      "name": "Langue du Certificat"
+    },
+    {
+      "name": "Nom demandé"
+    },
+    {
+      "name": "Nouveau nom"
+    },
+    {
+      "name": "Nouveau surnom"
+    },
+    {
+      "name": "Center"
+    },
+    {
+      "name": "Date"
+    },
+    {
+      "name": "Prix"
+    },
+    {
+      "name": "Type de changement"
+    },
+    {
+      "name": "Needs Temporary ID"
+    },
+    {
+      "name": "Propriétaires du terrain"
+    },
+    {
+      "name": "Année de naissance"
+    },
+    {
+      "name": "Requested"
+    },
+    {
+      "name": "Affectation du terrain souhaitée"
+    },
+    {
+      "name": "Old identification type"
+    },
+    {
+      "name": "New identification type"
+    },
+    {
+      "name": "Old identification number"
+    },
+    {
+      "name": "New identification number"
+    },
+    {
+      "name": "Old forename"
+    },
+    {
+      "name": "New forename"
+    },
+    {
+      "name": "Old surname"
+    },
+    {
+      "name": "Old fullname"
+    },
+    {
+      "name": "Date du Test"
+    },
+    {
+      "name": "Centre du Test"
+    },
+    {
+      "name": "Année de délivrance"
+    },
+    {
+      "name": "École de délivrance"
+    },
+    {
+      "name": "Pays de délivrance"
+    },
+    {
+      "name": "Niveau de formation faisant l'objet de la demande"
+    },
+    {
+      "name": "Type de passeport"
+    },
+    {
+      "name": "Validité du passeport"
+    },
+    {
+      "name": "Motif du Voyage"
+    },
+    {
+      "name": "Pays de destination"
+    },
+    {
+      "name": "Frais de service"
+    },
+    {
+      "name": "Numéro du laisser-passer"
+    },
+    {
+      "name": "Place de délivrancce"
+    },
+    {
+      "name": "Date de délivrance"
+    },
+    {
+      "name": "Date d'expiration"
+    },
+    {
+      "name": "Document de voyage "
+    },
+    {
+      "name": "Numéro du document"
+    },
+    {
+      "name": "Classe du permis"
+    },
+    {
+      "name": "Classe du visa"
+    },
+    {
+      "name": "Document de voyage demandé"
+    },
+    {
+      "name": "Musées"
+    },
+    {
+      "name": "Date de visite"
+    },
+    {
+      "name": "Catégorie de visiteurs"
+    },
+    {
+      "name": "Type de visiteur"
+    },
+    {
+      "name": "Nombre d'adultes"
+    },
+    {
+      "name": "Nombre d'étudiants"
+    },
+    {
+      "name": "Nombre d'enfants"
+    },
+    {
+      "name": "Nombre d'enfants de moins de 6 ans"
+    },
+    {
+      "name": "Nombre d'hommes"
+    },
+    {
+      "name": "Nombre de femelles"
+    },
+    {
+      "name": "Prix de la visite"
+    },
+    {
+      "name": "Numéro du Dossier"
+    },
+    {
+      "name": "Catégorie de la pénalité"
+    },
+    {
+      "name": "Montant de la pénalité"
+    },
+    {
+      "name": "Employeur"
+    },
+    {
+      "name": "Taille"
+    },
+    {
+      "name": "Adresse proposée au Rwanda"
+    },
+    {
+      "name": "Date d'arrivée proposée"
+    },
+    {
+      "name": "Date de départ proposée"
+    },
+    {
+      "name": "Poste d'entrée proposé"
+    },
+    {
+      "name": "Motif de la visite"
+    },
+    {
+      "name": "Plus de détails au sujet de la visite"
+    },
+    {
+      "name": "Première visite au Rwanda"
+    },
+    {
+      "name": "Dernière visite au Rwanda"
+    },
+    {
+      "name": "Quelle a été la durée de votre séjour?"
+    },
+    {
+      "name": "Catégorie de la nationalité"
+    },
+    {
+      "name": "Nom proposé"
+    },
+    {
+      "name": "Abbreviation"
+    },
+    {
+      "name": "Secteur d'opération"
+    },
+    {
+      "name": "Groupe d'interventions"
+    },
+    {
+      "name": "Dénominations"
+    },
+    {
+      "name": "Source de Financement"
+    },
+    {
+      "name": "Système de Gouvernance"
+    },
+    {
+      "name": "Langue de choix"
+    },
+    {
+      "name": "B.P."
+    },
+    {
+      "name": "Nombre d'employés bénévoles"
+    },
+    {
+      "name": "Nombre d'employés sous contrat"
+    },
+    {
+      "name": "Nombre d'autre employés"
+    },
+    {
+      "name": "Members total de l'Assemblée Générale"
+    },
+    {
+      "name": "Members masculins de l'Assemblée Générale"
+    },
+    {
+      "name": "Members féminins de l'Assemblée Générale"
+    },
+    {
+      "name": "Members total du Comité Exécutif"
+    },
+    {
+      "name": "Members masculins du Comité Exécutif"
+    },
+    {
+      "name": "Members féminins du Comité Exécutif"
+    },
+    {
+      "name": "Réunion ordinaire / annuelle"
+    },
+    {
+      "name": "Réunion extraordinaire / annuelle"
+    },
+    {
+      "name": "Siège"
+    },
+    {
+      "name": "Branch"
+    },
+    {
+      "name": "Succursales"
+    },
+    {
+      "name": "Prédicateur(trice)"
+    },
+    {
+      "name": "Mandat"
+    },
+    {
+      "name": "Catégorie du permis de travail"
+    },
+    {
+      "name": "Cooperative Name"
+    },
+    {
+      "name": "Cooperative Number"
+    },
+    {
+      "name": "Zone district"
+    },
+    {
+      "name": "Zone Name"
+    },
+    {
+      "name": "Project Name"
+    },
+    {
+      "name": "Domain"
+    },
+    {
+      "name": "Planned Activities"
+    },
+    {
+      "name": "Planned Budget"
+    },
+    {
+      "name": "Start Date"
+    },
+    {
+      "name": "End Date"
+    },
+    {
+      "name": "Expected Impact"
+    },
+    {
+      "name": "TIN"
+    },
+    {
+      "name": "Organisation Name"
+    },
+    {
+      "name": "Operational Certificate Ref Number"
+    },
+    {
+      "name": "Number of Staff"
+    },
+    {
+      "name": "Bank Account"
+    },
+    {
+      "name": "License validity"
+    },
+    {
+      "name": "Operating zone"
+    },
+    {
+      "name": "Owner name"
+    },
+    {
+      "name": "Insurance company"
+    },
+    {
+      "name": "Insurance valid from"
+    },
+    {
+      "name": "Insurance expiry date"
+    },
+    {
+      "name": "Autre nationalité"
+    },
+    {
+      "name": "Autre passeport"
+    },
+    {
+      "name": "Téléphone du chef de village"
+    },
+    {
+      "name": "Noms du chef de village"
+    },
+    {
+      "name": "Ville de naissance"
+    },
+    {
+      "name": "Relation"
+    },
+    {
+      "name": "Pays actuel"
+    },
+    {
+      "name": "Adresse actuelle"
+    },
+    {
+      "name": "Reference Number"
+    },
+    {
+      "name": "Number of Motos"
+    },
+    {
+      "name": "Ville de résidence"
+    },
+    {
+      "name": "Numéro  de l'ancien passeport"
+    },
+    {
+      "name": "Numéro de téléphone du propriétaire"
+    },
+    {
+      "name": "Delivery Location"
+    },
+    {
+      "name": "Nombre de lignes"
+    },
+    {
+      "name": "Ville de destination"
+    },
+    {
+      "name": "Heure du test"
+    },
+    {
+      "name": "Nationalité du conjoint"
+    },
+    {
+      "name": "Publication Type"
+    },
+    {
+      "name": "Number of Pages"
+    },
+    {
+      "name": "Pays de Naissance"
+    },
+    {
+      "name": "Lieu de naissance"
+    },
+    {
+      "name": "Raison du remplacement"
+    },
+    {
+      "name": "Numéro de rue"
+    },
+    {
+      "name": "Numéro de maison"
+    },
+    {
+      "name": "Date d'Arrivée au Rwanda"
+    },
+    {
+      "name": "Date de Départ du Rwanda"
+    },
+    {
+      "name": "Témoin 1"
+    },
+    {
+      "name": "Témoin 2"
+    },
+    {
+      "name": "Déclarant"
+    },
+    {
+      "name": "numéro de téléphone du Témoin 1"
+    },
+    {
+      "name": "numéro de téléphone du Témoin 2"
+    },
+    {
+      "name": "numéro de téléphone du Déclarant"
+    },
+    {
+      "name": "Itinéraire"
+    },
+    {
+      "name": "Nom de l'éditeur"
+    },
+    {
+      "name": "E-mail de l'éditeur"
+    },
+    {
+      "name": "Numéro de téléphone de l'éditeur"
+    },
+    {
+      "name": "Numéro de téléphone du bureau"
+    },
+    {
+      "name": "Date de départ"
+    },
+    {
+      "name": "Raison de la correction de la carte d'identité"
+    },
+    {
+      "name": "E-mail de l'établissement"
+    },
+    {
+      "name": "Trade name"
+    },
+    {
+      "name": "District of birth"
+    },
+    {
+      "name": "Sector of birth"
+    },
+    {
+      "name": "Father Nationality"
+    },
+    {
+      "name": "Mother Nationality"
+    },
+    {
+      "name": "Country of Residence"
+    },
+    {
+      "name": "City of residence"
+    },
+    {
+      "name": "Phone number for contact"
+    },
+    {
+      "name": "Spouse names"
+    },
+    {
+      "name": "Spouse National ID"
+    },
+    {
+      "name": "Other profession"
+    },
+    {
+      "name": "Numéro de demande précédent"
+    }
+  ],
+  "tableTitles": [
+    {
+      "name": "No du Dossier"
+    },
+    {
+      "name": "Service"
+    },
+    {
+      "name": "Demandeur"
+    },
+    {
+      "name": "Statut du Dossier"
+    },
+    {
+      "name": "Date de Soumission"
+    },
+    {
+      "name": "Délai de traitement"
+    },
+    {
+      "name": "Frais"
+    },
+    {
+      "name": "Actions"
+    },
+    {
+      "name": "Validité"
+    },
+    {
+      "name": "Date d'émission"
+    },
+    {
+      "name": "Délivré à"
+    },
+    {
+      "name": "Code"
+    },
+    {
+      "name": "Bénéficiaire des services"
+    },
+    {
+      "name": "Durée de traitement"
+    },
+    {
+      "name": "Expiration du paiement"
+    },
+    {
+      "name": "Certificat"
+    },
+    {
+      "name": "Description"
+    },
+    {
+      "name": "Catégorie"
+    },
+    {
+      "name": "Tag"
+    },
+    {
+      "name": "Document"
+    },
+    {
+      "name": "Motif"
+    },
+    {
+      "name": "Etape"
+    },
+    {
+      "name": "Statut"
+    },
+    {
+      "name": "Validité provisoire"
+    },
+    {
+      "name": "Fournisseur de services"
+    },
+    {
+      "name": "Lieu"
+    },
+    {
+      "name": "Noms"
+    },
+    {
+      "name": "Email"
+    },
+    {
+      "name": "Rôle"
+    },
+    {
+      "name": "Date de création"
+    },
+    {
+      "name": "Nom d'utilisateur"
+    },
+    {
+      "name": "message"
+    },
+    {
+      "name": "Locale"
+    },
+    {
+      "name": "Type"
+    },
+    {
+      "name": "Profession"
+    },
+    {
+      "name": "Domaine"
+    },
+    {
+      "name": "Carte d'Identité"
+    },
+    {
+      "name": "Nationalité"
+    },
+    {
+      "name": "Date d'Exportation"
+    },
+    {
+      "name": "Permission"
+    },
+    {
+      "name": "Identification du Dossier"
+    },
+    {
+      "name": "Started at"
+    },
+    {
+      "name": "Closed at"
+    },
+    {
+      "name": "Owner"
+    },
+    {
+      "name": "Passport Number"
+    },
+    {
+      "name": "Payment Method"
+    }
+  ],
+  "locationTitles": [
+    {
+      "name": "Emplacement du Centre de Santé"
+    },
+    {
+      "name": "Résidence du Président"
+    },
+    {
+      "name": "Lieu de Mariage"
+    },
+    {
+      "name": "Lieu de résidence"
+    },
+    {
+      "name": "Bureau de Traitement du dossier"
+    },
+    {
+      "name": "Nationalité du Père"
+    },
+    {
+      "name": "Nationalité de la Mère"
+    },
+    {
+      "name": "Résidence du Conjoint "
+    },
+    {
+      "name": "Lieu de travail"
+    },
+    {
+      "name": "Localisation du terrain"
+    },
+    {
+      "name": "Pays émetteur"
+    },
+    {
+      "name": "Pays de Résidence"
+    },
+    {
+      "name": "District de Résidence"
+    },
+    {
+      "name": "Lieu de collection"
+    },
+    {
+      "name": "RIB Processing Office"
+    },
+    {
+      "name": "Lieu de Résidence"
+    },
+    {
+      "name": "Résidence du vendeur"
+    },
+    {
+      "name": "Résidence de l'acheteur"
+    },
+    {
+      "name": "Résidence du Bénéficiaire"
+    },
+    {
+      "name": "Résidence du donataire"
+    },
+    {
+      "name": "Pays de destination"
+    },
+    {
+      "name": "Pays de Naissance"
+    },
+    {
+      "name": "Headquarters"
+    },
+    {
+      "name": "Branch"
+    },
+    {
+      "name": "City of Birth"
+    },
+    {
+      "name": "Lieu du décès"
+    },
+    {
+      "name": "Bureau de traitement"
+    },
+    {
+      "name": "Détails de traitement"
+    },
+    {
+      "name": "Carte d'identité nationale"
+    },
+    {
+      "name": "Carte d'identité temporaire"
+    }
+  ],
+  "applicationStatus": [
+    {
+      "name": "Paiement en attente"
+    },
+    {
+      "name": "Payé"
+    },
+    {
+      "name": "Paiement expiré"
+    },
+    {
+      "name": "Rejeté"
+    },
+    {
+      "name": "Approuvé"
+    },
+    {
+      "name": "En attente"
+    },
+    {
+      "name": "Déposé de nouveau"
+    },
+    {
+      "name": "Dossier Incomplet"
+    },
+    {
+      "name": "Demande d'Action"
+    },
+    {
+      "name": "Envoyé au niveau supérieur"
+    },
+    {
+      "name": "Envoyé"
+    },
+    {
+      "name": "En attente d'approbation foncière"
+    },
+    {
+      "name": "Inscrit"
+    },
+    {
+      "name": "Testé"
+    },
+    {
+      "name": "Accepté"
+    },
+    {
+      "name": "Fermée"
+    },
+    {
+      "name": "En attente d'approbation du NIDA"
+    },
+    {
+      "name": "En attente d'approbation du RIB"
+    },
+    {
+      "name": "Soumis à NIDA"
+    },
+    {
+      "name": "Awaiting embassy processing"
+    },
+    {
+      "name": "Recommended for approval"
+    },
+    {
+      "name": "Waiting DGIE Approval"
+    },
+    {
+      "name": "Rejected by DGIE"
+    },
+    {
+      "name": "Approved by DGIE"
+    },
+    {
+      "name": "Waiting NIDA NPR Approval"
+    },
+    {
+      "name": "NPR rejected by NIDA"
+    },
+    {
+      "name": "NPR approved by NIDA"
+    },
+    {
+      "name": "Waiting NIDA NID production"
+    },
+    {
+      "name": "NID rejected by NIDA"
+    },
+    {
+      "name": "NID produced by NIDA"
+    }
+  ],
+  "paymentTypes": [
+    {
+      "name": "Autres paiements"
+    },
+    {
+      "name": "Carte de Crédit"
+    }
+  ],
+  "slaTexts": [
+    {
+      "name": "Jours"
+    },
+    {
+      "name": "Impayé"
+    },
+    {
+      "name": "Aujourd'hui"
+    },
+    {
+      "name": "Jour"
+    }
+  ],
+  "validityTexts": [
+    {
+      "name": "Durée de vie"
+    },
+    {
+      "name": "Expiré"
+    },
+    {
+      "name": "Mois"
+    },
+    {
+      "name": "Jours"
+    },
+    {
+      "name": "Aujourd'hui"
+    }
+  ],
+  "frontMessages": [
+    {
+      "name": "Mot de passe insuffisant"
+    },
+    {
+      "name": "Le mot de passe ne correspond pas"
+    },
+    {
+      "name": "Vous avez déjà un compte"
+    },
+    {
+      "name": "Vous ne pouvez pas accéder à cette page pendant que vous êtes connecté"
+    },
+    {
+      "name": "Numéro du demandeur invalide"
+    },
+    {
+      "name": "Veuillez joindre les pièces justificatives"
+    },
+    {
+      "name": "Service non activé pour demande"
+    },
+    {
+      "name": "Action effectuée avec succès"
+    },
+    {
+      "name": "Votre dossier provisoire a été sauvegardé"
+    },
+    {
+      "name": "Votre dossier provisoire a été mis à jour"
+    },
+    {
+      "name": "L'enfant doit étre âgé de plus de 16 ans"
+    },
+    {
+      "name": "Au moins un des parents doit avoir une carte d'identité"
+    },
+    {
+      "name": "Vous ne pouvez pas utiliser le numéro de votre propre carte d'identité"
+    },
+    {
+      "name": "Vous ne pouvez pas utiliser le numéro de votre propre passeport"
+    },
+    {
+      "name": "Le postulant ne peut pas étre un témoin, un membre de famille, ou le décédé"
+    },
+    {
+      "name": "Vous ou vos parents ne pouvez pas être témoins"
+    },
+    {
+      "name": "Vous ne pouvez pas étre un membre de famille"
+    },
+    {
+      "name": "Vous ne pouvez pas étre un représentant de la famille"
+    },
+    {
+      "name": "Le postulant ne peut pas étre un partenaire"
+    },
+    {
+      "name": "Le postulant ne peut pas étre décédé"
+    },
+    {
+      "name": "Le conjoint ne peut pas être du même sexe que le postulant"
+    },
+    {
+      "name": "L'identification ne peut pas être utilisée deux fois! Vérifiez à nouveau où elle est utilisée"
+    },
+    {
+      "name": "Il doit y avoir un témoin"
+    },
+    {
+      "name": "Supprimez-en un pour ajouter un autre"
+    },
+    {
+      "name": "Duplication du numéro de la carte d’Identité"
+    },
+    {
+      "name": "Le nombre maximum de témoins de l'Etrangers ne doit pas dépasser un"
+    },
+    {
+      "name": "Il doit y avoir un représentant de la famille"
+    },
+    {
+      "name": "Le nombre maximum de représentants de l'Etranger ne doit pas dépasser un!"
+    },
+    {
+      "name": "On ne peut pas être témoin et représentant de la famille en même temps"
+    },
+    {
+      "name": "Au moins un parent doit être rwandais"
+    },
+    {
+      "name": "Le postulant ne peut pas être un parent"
+    },
+    {
+      "name": "Le président ne peut être ni le bénéficiaire du testament ni le postulant"
+    },
+    {
+      "name": "Veuillez sélectionner un type de rapport valide."
+    },
+    {
+      "name": "Veuillez sélectionner tous les types de SLA."
+    },
+    {
+      "name": "Veuillez sélectionner tous les statuts des dossiers de demande."
+    },
+    {
+      "name": "Veuillez sélectionner le bon format de fichier."
+    },
+    {
+      "name": "Le conjoint doit être marié"
+    },
+    {
+      "name": "Vous avez été déconnecté automatiquement en raison de l'inactivité"
+    },
+    {
+      "name": "La demande doit être approuvée pour continuer"
+    },
+    {
+      "name": "Le numéro de demande ne fait pas référence à la demande préalable"
+    },
+    {
+      "name": "Duplicata de l'UPI du terrain: "
+    },
+    {
+      "name": "Coordonnées du terrain introuvables"
+    },
+    {
+      "name": "Vous ne pouvez pas fusionner des terrains non adjacents"
+    },
+    {
+      "name": "Vous ne pouvez pas fusionner des terrains qui n'ont pas la même affectation"
+    },
+    {
+      "name": "Vous ne pouvez pas fusionner des terrains qui ne sont pas sous le même régime foncier"
+    },
+    {
+      "name": "Vous ne pouvez pas fusionner des terrains qui n'appartiennent pas au même propriétaire"
+    },
+    {
+      "name": "Les terrains agricoles et résidentiels ne peuvent pas être fusionnés"
+    },
+    {
+      "name": "Les terrains agricoles dont la superficie inférieure ou égale à deux hectares ne peuvent pas être subdivisées"
+    },
+    {
+      "name": "Pour les terrains agricoles dont la superficie est supérieure à deux hectares, chaque parcelle ne doit pas être inférieure à 1 hectare"
+    },
+    {
+      "name": "Ce terrain ne peut pas faire l'objet de transfert vu qu'il est hypothéqué"
+    },
+    {
+      "name": "Le postulant est toujours en vie"
+    },
+    {
+      "name": "La parcelle doit avoir plus d'un propriétaire foncier!"
+    },
+    {
+      "name": "The entered quantity exceeds the available quantity"
+    },
+    {
+      "name": "No such Gazette"
+    },
+    {
+      "name": "Format non supporté: "
+    },
+    {
+      "name": " Formats autorisés: "
+    },
+    {
+      "name": "Les données de NIDA indiquent que le postulant est âgé de moins de 18 ans, veuillez sélectionner l'option «Moins de 18 ans» pour postuler."
+    },
+    {
+      "name": "Les données de NIDA indiquent que le postulant est âgé de plus de 18 ans, veuillez sélectionner l'option «Plus de 18 ans» pour postuler."
+    },
+    {
+      "name": "Les données de NIDA indiquent que le postulant est âgé de plus de 16 ans, veuillez postuler en utilisant une carte d'identité."
+    },
+    {
+      "name": "Les données de NIDA indiquent que le postulant est âgé de moins de 16 ans, veuillez postuler en utilisant un Numéro d'application."
+    },
+    {
+      "name": "Nous n'avons pas pu identifier votre visage sur la photo téléchargée. Essayez de choisir une photo plus claire et téléchargez à nouveau."
+    },
+    {
+      "name": "La photo téléchargée contient plusieurs visages. Essayez de choisir une photo avec un seul visage et téléchargez à nouveau."
+    },
+    {
+      "name": "La photo téléchargée n'est pas agrandie au bon format. Veuillez choisir une photo agrandie au bon format et téléchargez à nouveau."
+    },
+    {
+      "name": "Les yeux sont trop bas sur la photo téléchargée. Veuillez choisir une photo où les yeux sont un peu plus hauts et téléchargez à nouveau."
+    },
+    {
+      "name": "Les yeux ne font pas face à la caméra sur la photo téléchargée. Veuillez choisir une photo où les yeux font face à l'appareil photo et la téléchargez à nouveau."
+    },
+    {
+      "name": "Le visage n'est pas correctement aligné horizontalement sur la photo téléchargée. Veuillez choisir une photo bien alignée et téléchargez à nouveau."
+    },
+    {
+      "name": "Le visage n'est pas correctement aligné verticalement sur la photo téléchargée. Veuillez choisir une photo bien alignée et téléchargez à nouveau."
+    },
+    {
+      "name": "Nombre maximum de représentants légaux atteint, vous ne pouvez ajouter un représentant légal qu'après en avoir supprimé un parmi ceux actuellement ajoutés."
+    },
+    {
+      "name": "Représentant légal ajouté, "
+    },
+    {
+      "name": " plus de représentant (s) à ajouter."
+    },
+    {
+      "name": "Vous ne pouvez pas ajouter le représentant deux fois. "
+    },
+    {
+      "name": "Le postulant est mort"
+    },
+    {
+      "name": "Le père et la mère ne peuvent pas avoir le même numéro d'identification."
+    },
+    {
+      "name": "Le père doit être de sexe masculin"
+    },
+    {
+      "name": "La mère doit être de sexe féminin"
+    },
+    {
+      "name": "Le demandeur ou le parent ne peut pas être un déclarant"
+    },
+    {
+      "name": "Enter parcel details"
+    },
+    {
+      "name": "Enter primary land owner"
+    },
+    {
+      "name": "Enter details of Owner"
+    }
+  ],
+  "dashboardTitles": [
+    {
+      "name": "Demandes globales"
+    },
+    {
+      "name": "Performance"
+    }
+  ],
+  "userTypes": [
+    {
+      "name": "Citoyen"
+    },
+    {
+      "name": "Agent"
+    },
+    {
+      "name": "Officier d’Etat Civil"
+    },
+    {
+      "name": "Secrétaire Exécutif"
+    },
+    {
+      "name": "Admin"
+    },
+    {
+      "name": "Anonymous User"
+    },
+    {
+      "name": "Sous-agent"
+    },
+    {
+      "name": "Super agent"
+    },
+    {
+      "name": "Support client Niveau 1"
+    },
+    {
+      "name": "Support client Niveau 2"
+    },
+    {
+      "name": "Support client Niveau 3"
+    },
+    {
+      "name": "Franchisé"
+    },
+    {
+      "name": "Admin IT de District"
+    },
+    {
+      "name": "Admin du Franchisé"
+    },
+    {
+      "name": "Admin du Service Client"
+    },
+    {
+      "name": "Notaire"
+    },
+    {
+      "name": "Notaire foncier"
+    },
+    {
+      "name": "Secrétaire d'Ambassade"
+    },
+    {
+      "name": "Agent de l'Office Rwandais de Poursuite Judiciaire"
+    },
+    {
+      "name": "Adm de l'Organe National de Poursuite Judiciaire"
+    },
+    {
+      "name": "Agent du Conseil National de l'Enseignement Supérieur"
+    },
+    {
+      "name": "Agent MINALOC"
+    },
+    {
+      "name": "Gestionnaire des Franchisés"
+    },
+    {
+      "name": "Agent du MHC"
+    },
+    {
+      "name": "Agent de RBC"
+    },
+    {
+      "name": "Administrateur des agents RIB"
+    },
+    {
+      "name": "Agent de RIB"
+    },
+    {
+      "name": "DG de MHC"
+    },
+    {
+      "name": "MHC OGS Officer"
+    },
+    {
+      "name": "Administrateur de Police"
+    },
+    {
+      "name": "Agent de Police"
+    },
+    {
+      "name": "Administrateur de Minijust"
+    },
+    {
+      "name": "Administrateur des terres du District"
+    },
+    {
+      "name": "Agent de NESA"
+    },
+    {
+      "name": "Agent du Musée"
+    },
+    {
+      "name": "Professionnel de RGB"
+    },
+    {
+      "name": "Chef de Division de RGB"
+    },
+    {
+      "name": "Chef de Département de RGB"
+    },
+    {
+      "name": "PDG de RGB"
+    },
+    {
+      "name": "Responsable de la délivrance des autorisations à RURA"
+    },
+    {
+      "name": "Directeur de la Réglementation des Transports à RURA"
+    },
+    {
+      "name": "Responsable de la réglementation des transports à RURA"
+    },
+    {
+      "name": "Réceptionniste au Centre de Tests Covid-19 à RBC"
+    },
+    {
+      "name": "Administrateur du Centre de Tests Covid-19 à RBC"
+    },
+    {
+      "name": "Agent du Journal Officiel"
+    },
+    {
+      "name": "Administrateur du Journal Officiel"
+    },
+    {
+      "name": "Personnel de l'Aéroport"
+    },
+    {
+      "name": "Responsable des licences d'impression à RURA"
+    },
+    {
+      "name": "Administrateur des agents de RURA"
+    },
+    {
+      "name": "Administrateur de RSSB"
+    },
+    {
+      "name": "Agent de RSSB"
+    },
+    {
+      "name": "Professionnel Foncier"
+    },
+    {
+      "name": "Registraire Foncier"
+    },
+    {
+      "name": "Land Processor"
+    },
+    {
+      "name": "Administrateur Foncier"
+    },
+    {
+      "name": "Agent de NESA Niveau 2"
+    },
+    {
+      "name": "Support client externe"
+    },
+    {
+      "name": "Embassy Admin"
+    }
+  ],
+  "serviceMetadataNames": [
+    {
+      "name": "Moi-même"
+    },
+    {
+      "name": "Enfant"
+    },
+    {
+      "name": "Postulant"
+    },
+    {
+      "name": "Relative"
+    },
+    {
+      "name": "Eglise"
+    },
+    {
+      "name": "Société"
+    },
+    {
+      "name": "ONG"
+    },
+    {
+      "name": "Coopérative"
+    },
+    {
+      "name": "Association professionnelle"
+    },
+    {
+      "name": "Le Gouvernement"
+    },
+    {
+      "name": "Masse"
+    },
+    {
+      "name": "Citoyen"
+    },
+    {
+      "name": "Diaspora"
+    },
+    {
+      "name": "Citoyen étranger"
+    },
+    {
+      "name": "Correspondant rwandais"
+    },
+    {
+      "name": "Journaliste EAC"
+    },
+    {
+      "name": "journaliste étranger"
+    },
+    {
+      "name": "Adulte"
+    }
+  ],
+  "serviceMetadataDescriptions": [
+    {
+      "name": "Postule pour moi"
+    },
+    {
+      "name": "Postule pour l'enfant"
+    },
+    {
+      "name": "Postule pour un relative ou membre de famille"
+    }
+  ],
+  "staticText": {
+    "Language": "Francais",
+    "TextLogin": "Connectez-vous",
+    "TextPhoneEmail": "Numéro de téléphone/Adresse Email",
+    "PphoneEmail": "Numéro de téléphone ou Adresse Email",
+    "TextPassword": "Mot de passe",
+    "PEnterPassword": "Veuillez saisir le mot de passe",
+    "RegisterForgotPassword": "Mot de passe oublié?",
+    "RegisterDontHaveAccount": "Vous n'avez pas de compte?",
+    "RegisterCreateOne": "Créez-en un",
+    "BtnFindApplications": "Cherchez les dossiers",
+    "BtnSignUp": "Inscription",
+    "BtnLogin": "Connexion",
+    "HeaderUserDropDownProfile": "Profil",
+    "HeaderUserDropDownApplication": "Mes dossiers",
+    "HeaderLogout": "Déconnectez-vous",
+    "PaymentTitlePart1": "Votre demande de",
+    "PaymentTitlePart2": "A été fait avec succès",
+    "TextBillId": "Code de facturation",
+    "TextLostBillId": "Perdue Code de facturation",
+    "TextNewBillId": "Nouvel Code de facturation",
+    "TextApplicationType": "Type d'Application",
+    "PaymentBillIdMessage": "Utilisez ce code de facturation pour payer le service",
+    "TextApplicationFor": "Demande de",
+    "TextServiceFee": "Frais de service",
+    "TextAgentFee": "Frais d'Agent",
+    "TextFree": "Gratuit",
+    "TextTotal": "Total",
+    "PaymentAskMethod": "Comment voulez-vous -payer?",
+    "PaymentTypes": "Vous pouvez payer par paiement mobile: MTN(*182#), Airtel (*182#) ou Tigo (*310#) ou vous rendre auprès d' une Agence/Agent BK le plus  proche",
+    "BtnBackHome": "Retour en arrière",
+    "PaymentProceedToPayment": "Payez en ligne",
+    "NotificationTitleMessage1": "Comment voulez-vous que nous ",
+    "NotificationTitleMessage2": "envoyions les notifications au sujet de votre demande?",
+    "TextPhoneNumber": "Numéro de téléphone (Rwanda)",
+    "TextEmailAddress": "Addresse Email",
+    "PEnterPhoneNumber": "Inscrivez le Numéro de Téléphone",
+    "PEnterEmail": "Inscrivez un adresse Email",
+    "TextProcessingDetails": "Détails de traitement",
+    "TextFirstTimeApplying": "Demande pour la première fois",
+    "TextReasonForRequest": "Motif de la demande",
+    "PselectReason": "Sélectionnez le motif de demande de cette attestation",
+    "TextOtherReasonForRequest": "Inscrivez un autre motif",
+    "POtherReason": "Inscrivez le motif de votre demande",
+    "TextCollectionIsInJail": "Le demandeur est actuellement en prison?",
+    "TextPassportNumber": "Numéro de Passeport",
+    "PEnterPid": "Inscrivez le numéro de passeport",
+    "TextFirstName": "Prénom",
+    "PFname": "Inscrivez le Prénom",
+    "TextLastName": "Nom ",
+    "PLname": "Inscrivez votre Nom ",
+    "TextGender": "Sexe",
+    "TextCivilStatus": "Etat Civil",
+    "PSelectCivilStatus": "Sélectionnez l'Etat Civil",
+    "PSelectApplicationType": "Sélectionnez le type d'application",
+    "TextFatherNames": "Noms du Père",
+    "PEnterFatherName": "Inscrivez les noms du Père",
+    "TextMotherNames": "Noms de la Mère",
+    "PEnterMotherName": "Inscrivez les noms de la Mère",
+    "TextBirthLocation": "Lieu de naissance",
+    "PEnterBirthLocation": "Saisissez le lieu de naissance",
+    "TextBirthCountry": "Pays de Naissance",
+    "PSelectPlaceDate": "Sélectionnez le Pays de Naissance",
+    "TextBirthDate": "Date de Naissance",
+    "PSelectBirthDate": "Sélectionnez la date",
+    "BtnSave": "Sauvegardez provisoirement",
+    "BtnSaveInfo": "Sauvegardez",
+    "TextCountry": "Pays",
+    "PSelectCountry": "Sélectionnez le Pays ",
+    "TextProvince": "Province",
+    "PSelectProvince": "Sélectionnez la province",
+    "TextDistrict": "District",
+    "PSelectDistrict": "Sélectionnez le district",
+    "TextSector": "Secteur",
+    "PSelectSector": "Sélectionnez le Secteur",
+    "TextCell": "Cellule",
+    "PSelectCell": "Sélectionnez la Cellule",
+    "TextVillage": "Village",
+    "PSelectVillage": "Sélectionnez le Village",
+    "AdditionalFatherDetails": "Identification du Père",
+    "AdditionalFatherBirthDate": "Date de Naissance du Père",
+    "PSelectDate": "Sélectionnez la date",
+    "TextIdType": "Type d'Identité",
+    "PSelectIdType": "Sélectionnez le Type d'Identité",
+    "AdditionalFatherNID": "Numéro de la Carte d'Identité du Père",
+    "PFatherNid": "Inscrivez le numéro de la Carte d'Identité du Père",
+    "AdditionalFatherPassport": "Numéro de Passeport du Père",
+    "PfatherPid": "Passeport du Père",
+    "AdditionalFatherLive": "Vit-il au Rwanda?",
+    "AdditionalMotherDetails": "Identification  de la Mère",
+    "OtherParentDetails": "Identification de l'autre parent",
+    "AdditionalMotherBirthDate": "Date de Naissance de la Mère",
+    "AdditionalMotherNID": "Numéro de la Carte d'Identité de la Mère",
+    "PmotherNid": "Numéro de la Carte d'Identité de la Mère",
+    "AdditionalMotherPassport": "Numéro de Passeport de la Mère",
+    "PmotherPid": "Passeport de la Mère",
+    "AdditionalMotherLive": "Vit-elle au Rwanda",
+    "TextAttachments": "Pièces Jointes",
+    "TextOtherAttachments": "Autres Pièces Jointes",
+    "TextChooseAttachments": "Sélectionnez les annexes",
+    "ApplicationsApplicantInfo": "Fichiers en pièces jointes",
+    "WitnessDetails": "Identification des témoins",
+    "WitnessNationality": "Nationalité des Témoins",
+    "PWitnessNationality": "Veuillez sélectionner la  Nationalité des Témoins",
+    "WitnessNationalId": "Numéro de la Carte d'Identité du Témoin",
+    "PEnterNid": "Inscrivez le numéro de la Carte d'Identité ",
+    "BtnAdd": "Veuillez ajouter ",
+    "WitnessNames": "Les Noms du Témoin",
+    "PWitnessNames": "Veuillez saisir les noms du Témoin",
+    "DeclarantNames": "Les Noms du Déclarant",
+    "PDeclarantNames": "Veuillez saisir les noms du Déclarant",
+    "WitnessPassportId": "Numéro de Passeport du Témoin",
+    "PWitnessPid": "Veuillez saisir le Numéro de Passeport du Témoin",
+    "FamilyRepresentativesDetails": "Identification du Représentant de la Famille",
+    "PrepresentativeNationality": "Veuillez sélectionner  la citoyennité des Représentants",
+    "FamilyRepresentativesNationalID": "Numéro de la Carte d'Identité  du Représentant",
+    "PEnterRepresentatitivesID": "Veuillez saisir le numéro de la Carte d'Identité du Représentant",
+    "FamilyRepresentativesNames": "Noms du Représentant",
+    "PForeignerRepreNames": "Veuillez saisir les noms du Représentant de l'Etranger",
+    "FamilyRepresentativesPassport": "Passeport du Représentant",
+    "PReprePassportID": "Veuillez saisir le Numéro de Passeport du Représentant",
+    "WitnessInfo": "Informations sur les Témoins",
+    "TextNationalIdNumber": "Numéro de la Carte d'identité",
+    "TextParentNationalIdNumber": "Numéro d'identification du parent",
+    "TextGuardianNationalIdNumber": "Numéro d'identification du tuteur",
+    "TextFatherNationalIdNumber": "Numéro d'identification du père",
+    "TextMotherNationalIdNumber": "Numéro d'identification de la mère",
+    "TextNationality": "Nationalité ",
+    "TextNationalityType": "Type de Nationalité ",
+    "FamilyRepresentativeInfo": "Informations sur les Représentants",
+    "BtnEdit": "MODIFIEZ",
+    "BtnBack": "RETOUR EN ARRIERE",
+    "PlaceHolderFor": "Pour",
+    "PlaceHolderApplicant": "Demandeur",
+    "TextNationalIdNumberShort": "le  No de la CI",
+    "TextIsRequired": "est requis",
+    "TextMessageMustBe": "doit être ",
+    "TextMessageShouldBe": "devrait être au moins",
+    "TextDigits": "en chiffres",
+    "TextValidEmailMessage": "Veuillez donner une adresse Email valide",
+    "fetchusernational-title": "Numéro de la Carte d'identité",
+    "FetchUserPassportTitle": "Numéro de Passeport",
+    "FetchUserChildIDTitle": "Numéro de fiche du citoyen ",
+    "FetchUserChildID": "Numéro de fiche du citoyen",
+    "PEnterChildId": "Veuillez saisir le Numéro de fiche du citoyen",
+    "BtnFetch": "Chercher",
+    "TextHome": "Accueil",
+    "TextApplications": "Demandes",
+    "TextDashboard": "Tableau de bord",
+    "TextPending": "En attente",
+    "TextApproved": "Approuvé",
+    "TextEscalated": "Monté au niveau supérieur",
+    "TextRejected": "Rejeté",
+    "TextScheduled": "Programmé",
+    "TextNotes": "Notes",
+    "PNotes": "Notes",
+    "BtnSubmit": "Veuillez envoyer",
+    "MessageForApproval": "Etes-vous sur que vous voulez approuver cette demande?",
+    "RIBMessageForApproval": "En approuvant, je certifie que toutes les informations fournies sont vraies, exactes et à jour.",
+    "BtnApprove": "Veuillez approuver",
+    "BtnTested": "Marquer Comme Testé",
+    "TextVerification": "Vérification",
+    "MessageForAssistance": "Si vous ne pouvez pas accéder au numéro de téléphone ci-dessous, veuillez consulter un des agents pour assistance",
+    "PClientPhoneNumber": "Veuillez saisir le numéro de téléphone du client",
+    "TextVerificationCode": "Code de Vérification",
+    "PVerificationHere": "Le code de verification est ici",
+    "TextDidnotReceivedCode": " Pas recu le code?",
+    "TextResendCode": "Veuillez renvoyer le Code",
+    "TextCertificateLanguage": "Langue du Certificat",
+    "PChoosePreferedLanguage": "Choisissez la langue de votre choix",
+    "BtnDownloadEcertificate": "Veuillez télécharger le certificat en ligne",
+    "BtnDownloadInvoice": "Veuillez télécharger la facture",
+    "BtnDownloadReceipt": "Veuillez télécharger  le Reçu",
+    "BtnSendCode": "Renvoyer le Code",
+    "TextChooseDate": "Veuillez choisir la date",
+    "PYear": "Année",
+    "PMonth": "Mois ",
+    "Pday": "Jour",
+    "PDownloadCert": "Veuillez télécharger l'attestation",
+    "PPrintCert": "Veuillez imprimer l'attestation",
+    "PDownlaodReceipt": "Veuillez télécharger  le Reçu",
+    "PDownloadInvoice": "Veuillez télécharger la facture",
+    "HomeServiceNotFound": "Rien trouvé",
+    "NotApplicationFound": "No de dossier trouvé",
+    "TextSuggestion": "Suggestions:",
+    "DatatableNotFoundCitizen": "Si vous cherchez des informations sur le dossier de demande  veuillez vous assurer que le numéro du dossier que vous utilisez est valide",
+    "DatatableNotFoundAGent": "Veuillez vous assurer que vous avez fait la demande pour quelqu'un avant",
+    "DatatableNotFoundAgent": "Si vous cherchez des informations sur le dossier de demande veuillez vous assurer que le numéro du dossier et le numéro de la carte d'identité que sont valides",
+    "DatatableNotFoundOfiicer": "Il n'y a pas de dossiers de demande pour ce bureau",
+    "PSearchOptions": "Options de recherche",
+    "PSearchApplications": "Recherche de dossiers",
+    "BtnSearch": "Recherche",
+    "VerifyApplicantSelectService": "Veuillez sélectionner un service pour commencer à postuler",
+    "VerifyApplicantAbout": "A propos de ce service",
+    "TextProcessingTime": "Délai de traitement",
+    "TextPrice": "Montant à payer",
+    "TextProvidedBy": "Fourni par",
+    "TextApplyingFor": "Pour qui postulez-vous?",
+    "TextRequiredAttachments": "Pièces jointes requises",
+    "TextShortNotes": "N.B",
+    "VerifyApplicantShortNote": "Vous ne pouvez pas accéder à ce service directement tant que vous n'êtes pas connecté , Veuillez-vous connecter sans compte ou avec un compte pour continuer.",
+    "VerifyApplicantLoginAsGuest": "Connectez vous sans compte",
+    "VerifyApplicantLoginAccount": "Veuillez vous connecter avec un compte",
+    "TextOTPVerify": "Verification du mot de passe à usage unique",
+    "BtnCancel": "Annulez",
+    "BtnCancelPassword": "Annulez",
+    "BtnCloseApplication": "Fermer le dossier",
+    "BtnApply": "Postulez",
+    "PProvidepassword": "Veullez donner le mot  de passe",
+    "TextForgotPassword": "Mot de passe oublié?",
+    "TextInfo": "Info",
+    "TextFullNames": "Nom complet",
+    "PStartDate": "Date de début",
+    "EndDate": "Date de fin",
+    "TextApplicationNo": "No de Dossier",
+    "TextRequesterDetails": "Identification du Demandeur",
+    "TextApplicantDetails": "Identification du Demandeur",
+    "TextSpouseDetails": "Identification du Conjoint",
+    "TextDeceasedDetails": "Identification du Défunt",
+    "TextMarriageDetails": "Détails du Mariage",
+    "TextDeathDetails": "Détails du Décès",
+    "TextChairpersonDetails": "Identification du Président du Conseil",
+    "TextHeadFamiltDetails": "Identification du chef de Famille",
+    "TextApplicationReason": "Motif de la demande",
+    "TextFatherDetails": "Identification du Père",
+    "TextMotherDetails": "Identification de la Mère",
+    "TextIdentificationNumber": "No d'identification",
+    "TextName": "Nom",
+    "Representatives": "Représentants",
+    "TextFamilyMemberDetails": "Membres de Famille",
+    "TextRelationship": "Relation",
+    "POtp": "Mot de passe à usage unique",
+    "BtnVerify": "Veuillez vérifier",
+    "ServicePreviewSelectService": "Veuillez sélectionner un service ci-dessous pour commencer votre demande",
+    "ServicePreviewAboutService": "A propos de ce service",
+    "ServicePreviewApplyingFor": "Pour qui postulez-vous?",
+    "ServicePreviewLookingFor": "What are you looking for?",
+    "TextConditionalAttachments": "Pièces jointes conditionnelles",
+    "TextOptionalAttachments": "Une de ces pièces jointes est requise",
+    "ServicePreviewLoggedInMessage": "Vous ne pouvez pas  demander ce service tout en étant connecté.",
+    "WelcomeToIremboMessage": "Bienvenue",
+    "PSearchServices": "Recherche de services",
+    "RegisterNewAccountSetup": "Nouveau compte",
+    "RegisterNewAccountSetupSubtitle": "Suivez ce processus d'inscription pour nous aider à créer votre compte",
+    "RegisterStep1": "Envoyez les informations requises",
+    "RegisterStep2": "Vérification du compte",
+    "RegisterStep3": "Créez votre mot de passe",
+    "RegisterAccountSetup": "Créez votre compte",
+    "BtnNext": "Suivant",
+    "BtnRegister": "Inscrivez-vous",
+    "RegisterSuccessTitle": "Compte créé",
+    "BtnLoginToYourAccount": "Connectez-vous à votre compte",
+    "HomeServiceNotFoundMessage": "Votre recherche ne correspond à aucun service.",
+    "HomeServiceNotFoundHint": "Assurez-vous que tous les mots sont correctement orthographiés. Essayez des mots clés plus généraux. Essayez moins de mots-clés.",
+    "ForgetPassword": "Mot de passe oublié?",
+    "ForgetPasswordSubtitle": "Indiquez le numéro de téléphone ou l'adresse Email associée à votre compte, à votre code.",
+    "ResetStep1": "Donnez votre numéro de téléphone",
+    "ResetStep2": "Un code de vérification sera envoyé, envoyez pour vérifier le code",
+    "ResetStep3": "Créez votre nouveau mot de passe et validez",
+    "PasswordResetTitle": "Changez le mot de passe",
+    "WhereToSendOtp": "Choisissez où envoyer l'OTP?",
+    "BtnResetpassword": "Changez le mot de passe",
+    "LinkcancelAction": "Annulez cette action",
+    "ResetSuccessTitle": "Mot de passe réinitialisé avec succès",
+    "ResetSuccessSubtitle": "Vous pouvez maintenant vous connecter à votre compte avec votre nouveau mot de passe",
+    "SetNewPassword": "Créez un nouveau mot de passe",
+    "TextNewPassword": "Nouveau mot de passe",
+    "PNewPassword": "Nouveau mot de passe",
+    "PPasswordPolicy": "Le mot de passe doit avoir au mois 8 caractères, mais doit également comporter des caractères numériques, des majuscules, des minuscules et des caractères spéciaux.",
+    "TextConfirmPassword": "Confirmez le nouveau mot de passe",
+    "PConfirmPassword": "Confirmez le mot de passe",
+    "BtnSubmitNewPassword": "Envoyez un nouveau mot de passe",
+    "TextSearchApplications": "Recherche des Dossiers",
+    "CertificateNotFound": "Trouvez votre dossier en un clic",
+    "DocumentNotFound": "Votre recherche ne correspond à aucun document.",
+    "DocumentNotFOundMessage": "Assurez-vous que le numéro de dossier ou d’identification est valide.",
+    "TextService": "Service",
+    "TextApplicationNumber": "No de Dossier",
+    "SubmittedOn": "Envoyé le",
+    "TextParentDetails": "Identification des Parents",
+    "BtnRequestAction": "Demande d'Action",
+    "BtnReject": "Rejeter",
+    "BtnEscalate": "Monter au niveau supérieur",
+    "TextMyApplications": "Mes dossiers",
+    "TextPayments": "Paiements",
+    "TextProductivity": "Productivité",
+    "TextCommissions": "Commissions",
+    "TotalCommissions": "Commissions Totales",
+    "TotalTarrifCommissions": "Tarif des Commissions",
+    "IremboCommissions": "Commissions d'Irembo",
+    "AgentCommissions": "Commissions des Agents",
+    "TotalAgents": "Nombre Total des Agents",
+    "ActiveAgents": "Agents Actifs",
+    "MyCommissions": "Mes Commissions",
+    "TextPendingApplications": "Dossiers en attente",
+    "TextApprovedApplications": "Dossiers approuvés",
+    "TextEscalatedApplications": "Dossiers montés au niveau supérieur",
+    "TextRejectedApplications": "Dossiers rejetés",
+    "ServiceBirthGroupName": "Services de Naissance",
+    "TextApplicationStep1": "1. Demande",
+    "PSelectRelationship": "Sélectionnez le lien de parenté",
+    "BirthDetails": "Détails de naissance",
+    "BirthHospital": "La naissance a-t-elle eu lieu à l'hôpital?",
+    "TextMedicalCerticateIssuedAt": "Attestation délivrée le…",
+    "TextHealthEstablishment": "Etablissement de Santé",
+    "PSelectHealthEstablishement": "Sélectionnez l'Etablissement de Santé",
+    "TextAuthorityName": "Nom de l'Autorité",
+    "PSelectAuthorityNames": "Veuillez saisir le Nom de l'Autorité",
+    "TextApplicationStep2": "2. Sommaire",
+    "TextApplicationStep3": "3. Paiement",
+    "ServiceMarriageGroupName": "Services de Mariage",
+    "TextSpouseNationality": "Citoyenneté du Conjoint",
+    "PSelectCitizenship": "Sélectionnez la citoyenneté",
+    "TextSpouseAlive": "Le conjoint est-il en vie?",
+    "TextDeathDate": "Date de Décès",
+    "TextLegalMarriageDetails": "Détails du Mariage Légal",
+    "TextMarriageDate": "Date de Mariage",
+    "TextMarriageOfficiator": "Officier d'Etat Civil qui a célébré le mariage",
+    "POfficiatorNames": "Noms des officiants",
+    "MarriageMatrimonialRegime": "Régime Matrimonial",
+    "PMatrimonialRegime": "Régime Matrimonial",
+    "TextMarriageLocation": "Lieu du Mariage Civil",
+    "PMarrigePlace": "Lieu du Mariage ",
+    "TextMarriageDateDetails": "Date du Mariage Civil",
+    "MarriagereligoiusDetails": "Détails du Mariage Religeiux",
+    "MarriagereligoiusLocation": "Le mariage Religeux a-t-il eu  lieu?",
+    "MarriagereligoiusDate": "Date du Mariage Religieux",
+    "MarriagereligoiusOffiator": "Nom de l'Officiant du Mariage Religieux",
+    "MarriagereligoiusSameLocation": "Le Mariage Civil et le Mariage Religieux ont été célébrés au même endroit?",
+    "MarriagereligoiusTookPlaceInRwanda": "Le Mariage Religieux a eu lieu au rwanda?",
+    "ServiceDeathGroupName": "Service relatifs au décès",
+    "TextDeceasedNationality": "Nationalité du Défunt",
+    "DeceasedAbove16": "Le défunt a plus de 16 ans?",
+    "TextDeceasedRelationship": "Relation avec le défunt",
+    "TextRelationshipWithApplicant": "Relation avec le demandeur",
+    "DeceasedHaveSpouse": "Le defunt avait-il un (e) conjoint (e)?",
+    "DeceasedSpouseName": "Nom du/la  conjoint(e) du défunt (e)",
+    "PDeceasedSpouseName": "Veuillez saisir le nom du /la conjoint (e) du défunt (e)",
+    "TextDeathInformation": "Informations relatives au Décès",
+    "TextDeathCause": "Cause du Décès",
+    "PCauseOfDeath": "Cause du Décès",
+    "TextOtherCauseForRequest": "Veuillez saisir une autre cause",
+    "POtherCauseOfDeath": "Veuillez saisir la cause du Décès",
+    "TextIndustries": "Domaines",
+    "PSelectProfession": "Sélectionnez la profession",
+    "TextProfession": "Profession",
+    "TextDeathLocation": "Lieu du Décès",
+    "TextDeathOccurInHospital": "Le décès a eu lieu à l'hôpital?",
+    "TextAuthorityCerticateIssuedAt": "Le certificat de décés a été delivré par l'autorité à",
+    "TextDeathOccurInRwanda": "Le décès a eu lieu  au Rwanda?",
+    "TextOccupationDetails": "Détails d'occupation",
+    "MarriageRegistrationLocation": "Lieu d'enregistrement du mariage",
+    "IdentityLossFirstIssuance": "Détails de la première émission",
+    "IdentityLossFirstIssuancePlace": "Lieu de délivrance de la première Carte d'Identité ",
+    "TextAdditionalDetails": "Détails Supplémentaires",
+    "DivorceCourtDate": "Date du Jugement du Tribunal",
+    "DivorceFileNumber": "Numéro de Dossier",
+    "PCourtFileNumber": "Veuillez Saisir le numéro de dossier du jugement",
+    "TextGuardian": "Êtes-vous le tuteur de l'enfant?",
+    "ServiceGuardianshipGroupName": "Services de tutelle",
+    "TextChildDetails": "Identification de l'Enfant",
+    "TextGuardianshipDetails": "Détails de la tutelle",
+    "GuardianshipCouncilInfo": "Informations sur le Conseil et le Président",
+    "GuardianshipCouncilDate": "Date du Conseil de Tutelle",
+    "GuardianshipWillInfo": "Informations sur le testament",
+    "GuardianshipWillOf": "Testament de",
+    "GuardianshipWillName": "Nom du bénéficiaire du testament",
+    "PEnterWillOwner": "Saisissez le nom entier du bénéficiaire du testament",
+    "GuardianshipWillOwnerIdentificationNumber": "Numéro d'identification du bénéficiaire du testament",
+    "PWillOwnerIDNumber": "Saisissez le numéro d'identification du bénéficiaire du testament",
+    "TextChildParentsDetails": "Identification des parents de l'enfant",
+    "TextSuccessors": "Les successeurs sont-ils mineurs ou étaient-ils en conflit?",
+    "TextFamilyMemberInfo": "Informations sur les membres de famille (5)",
+    "TextFamilyMemberNationality": "Citoyenneté des membres de famille",
+    "MemberPassport": "Numéro de passeport des membres de famille",
+    "PEnterPassportNumber": "Saisissez le numéro de passeport",
+    "MemberNames": "Noms des membres de famille",
+    "PMemberName": "Saisissez les noms des membres de famille",
+    "PEnterFname": "Saisissez votre prénom",
+    "PEnterLname": "Saisissez votre nom de famille ici",
+    "PEnterFatherNames": "Saisissez les noms de votre père",
+    "PEnterMotherNames": "Saisissez les noms de votre mère",
+    "TextPartnerDetails": "Identification du partenaire",
+    "PLegalOfficiator": "Saisissez le nom de l'officiant du mariage civil",
+    "MarriagelegalTookPlaceInRwanda": "Le mariage Civil a eu lieu au Rwanda?",
+    "ServiceRecognitionGroupName": "Services de Reconnaissance",
+    "TextSpouseResidence": "Résidence du Conjoint/e",
+    "SpouseliveInRwanda": "Le conjoint habite-t-il au Rwanda?",
+    "ServiceAdoptionGroupName": "Services d'adoption",
+    "AdoptionServiceHaveSpouse": "Avez-vous un conjoint?",
+    "AdotptionSpouseCitizenship": "Nationalité du conjoint",
+    "AdotptionSpouseResidence": "Résidence du conjoint",
+    "AdotptionSpouseLive": "Le conjoint habite-t-il au Rwanda?",
+    "AdotptionHeadAndChildDetails": "Identification du Chef de famille et de l'enfant ",
+    "AdotptionHeadFamilyDetails": "Identification du Chef de famille",
+    "AdoptionHeadFamilyCitizenship": "Citoyenneté du Chef de famille",
+    "AdotptionHeadLive": "Le chef de famille vit-il au Rwanda?",
+    "TextChildFatherDetails": "Identification des parents de l'enfant",
+    "TextFatherAlive": "Le père est-il en vie?",
+    "TextMotherAlive": "La mère est-elle en vie?",
+    "TextMyDocuments": "Mes Documents",
+    "ProfileSettings": "Paramètres de profil",
+    "TextContactDetails": " Détails du contact",
+    "TextChangePassword": "Veuillez changer le mot de passe",
+    "TextCurrentPassword": "Mot de passe actuel",
+    "TextDynamic": "Selon le cas",
+    "FooterCopyRight": "© Tous droits d'auteur d'Irembo ",
+    "FooterAllrightReserved": " réservés",
+    "FooterFollowUs": "Suivez nous sur",
+    "FooterPrivacyStatement": "Déclaration de confidentialité",
+    "FootertTermOfUse": "Conditions d'utilisation",
+    "FooterSystemStatus": "État du système",
+    "FooterDisclaimer": "Avertissement",
+    "TextfutureStep": "Voici les prochaines étapes:",
+    "PAttachFiles": "Annexez la pièce jointe",
+    "FamilyRepresentativesCitizenship": "Citoyenneté du Représentant",
+    "TextAppointments": "Rendez-vous",
+    "TextDocuments": "Documents",
+    "TextBirthDocuments": "Birth Document",
+    "TextOtherDocuments": "Other Documents",
+    "TextServices": "Services",
+    "TextGroups": "Groups",
+    "TextCategories": "Catégories",
+    "TextTags": "Tags",
+    "TextReasons": "Motifs",
+    "TextSteps": "Etapes",
+    "TextServiceOwners": "Bénéficiaires de services",
+    "TextUserMessages": "Messages utilisateurs",
+    "TextTYpe": "Type",
+    "TextCategory": "Catégorie",
+    "TextDlCategory": "Catégorie",
+    "TextServiceProvider": "Fournisseurs de services",
+    "TextAccounts": "Comptes",
+    "TextAccontType": "Types de Comptes",
+    "TextRoleType": "Types de Rôles",
+    "PSelectRoleType": "Choisir le type de Rôles",
+    "TextPermissions": "Permissions",
+    "PDisablesService": "Désactivez",
+    "PPreviewService": "Aperçu",
+    "PupdateService": "Mise à jour",
+    "TextRefresh": "Actualisez",
+    "NotDataFound": "Aucune donnée disponible",
+    "DatatableDataNotFound": "Il n'y a pas de données pour cette demande",
+    "PFilterPayment": "Filtrez les paiements",
+    "BtnDeactivate": "Désactivez",
+    "ServicePreviewDeactivated": "Vous ne pouvez pas avoir un aperçu de ce service s'il n'est pas actif",
+    "BtnActivate": "Activez",
+    "BtnAactivate": "Modifiez",
+    "HomeServiceTwoNotFound": "Service non trouvé",
+    "HomeServiceTwoNotFoundMessage": "Votre recherche ne correspond à aucun service",
+    "TextSearchDocuments": "Recherchez les documents",
+    "TextCertificateNotFoundHint1": "Veuillez sélectionner le champ de recherche ci-dessus pour rechercher le document du service que vous avez demandé",
+    "TextCertificateNotFoundHint2": "",
+    "TextWorkDetails": "Détails de Travail",
+    "TextPersonalInfo": "Informations personnelles",
+    "TextServiceOwner": "Bénéficiaire du service",
+    "TextWorkEmailAddress": "Adresse Email de service",
+    "TextAddress": "Adresse",
+    "TextStreetNumber": "Numéro de rue",
+    "NoSupportingDocs": "Le service n'a pas de pièces justificatives",
+    "TextSupportingDocs": "Pièces justificatives",
+    "TextDeactivate": "Désactivez le service",
+    "DeactivateMessageForAssistance": "Si vous désactivez le service, il disparaîtra sur le portail irembo gov",
+    "ActivateMessageForAssistance": "Si vous activez le service, il apparaîtra sur le portail irembo gov",
+    "TextSearchServices": "Recherche de services",
+    "TextRelationshipWithRequester": "Relation avec le demandeur",
+    "TextMarriageRegistered": "Le mariage a-t-il été enregistré?",
+    "POldPwd": "Ancien mot de passe",
+    "PNewPwd": "Nouveau mot de passe",
+    "PConfirmPwd": "Confirmez le mot de passe",
+    "TextAboutThisService": "A propos de ce service",
+    "TextDrafts": "Dossiers Incomplets",
+    "TextAgentReminder": "Assurez-vous que vous avez fait la demande pour quelqu'un avant",
+    "TextApplicantCitzenship": "Citoyenneté du demandeur",
+    "PServiceOwner": "Institution responsable du service",
+    "TextSelectService": "Sélectionnez les services",
+    "TextRoles": "Rôle(s)",
+    "FetchedInfo": "Informations récupérées:",
+    "TextAge": "Age",
+    "TextSex": "Sexe",
+    "TextDescription": "Description",
+    "PProcessingTime": "Délai de traitement",
+    "TextProcessingPrice": "NA",
+    "PProcessingFee": "Frais de traitement ",
+    "TextDigitalCert": "Attestation numérique",
+    "TextpaperCert": "Attestation papier",
+    "PEnterServiceOwner": "Saisissez l'nstitution responsable du service",
+    "PAddDocument": "Ajoutez le document",
+    "DeactivateMessageForAssistance1": "Si vous désactivez ce service",
+    "DeactivateMessageForAssistance2": "il disparaîtra sur le portail irembo gov",
+    "ActivateMessageForAssistance1": "Si vous activez ce service ",
+    "ActivateMessageForAssistance2": "il apparaîtra sur le portail irembo gov",
+    "TextSearchServicesOwners": "Recherche du propriétaire du service ",
+    "TextSearchServiceProviders": "Recherche du fournisseur du service",
+    "TextSearchUsers": "Recherche des utilisateurs",
+    "TextNewOffice": "Nouveau responsable",
+    "TextSearchCategories": "Recherche des catégories",
+    "TextSearchTags": "Recherche des Tags",
+    "TextSearchSteps": "Recherche des étapes",
+    "TextSearchReasons": "Recherche des motifs",
+    "TextDraftApplications": "Dossiers incomplets",
+    "TextCode": "Code",
+    "TextMessage": "Message",
+    "TextLocation": "Location",
+    "ServiceLandTransferGroupName": "Land Transfer Services",
+    "ServiceLandEPaymentGroupName": "E-Payment for Land Services",
+    "ServiceRegistrationForDrivingTestGroupName": "Registration for Driving Test",
+    "ServiceApplicationForDrivingLicenseGroupName": "Application for Driving License",
+    "ServiceRenewalOfDrivingLicenseGroupName": "Renewal of Driving License",
+    "ServiceDuplicationOfDrivingLicenseGroupName": "Duplication of Driving License",
+    "ServiceMotorVehicleInspectionGroupName": "Motor Vehicle Inspection",
+    "ServiceCheckExamResultGroupName": "Check Exam Results",
+    "TextDraft": "Dossiers incomplets",
+    "TextUseApplicationNumber": "Payez avec mobile money",
+    "TextSuccessfullyPaid": "a été payé avec succès",
+    "TextAcknowledgement": "En cochant cette case, je certifie que toutes les informations fournies sont véridiques, exactes et à jour.",
+    "TextAboutThis": "A propos de ceci",
+    "TextProfessions": "Professions",
+    "TextAssistant": "Assistant",
+    "TextSettings": "Paramètres",
+    "TextResumeApplication": "Complétez le dossier",
+    "TextRefreshApplication": "Rafraîchir l'Application",
+    "TextResendApplication": "Renvoyer la Notification de Paiement",
+    "TextDeleteDraft": "Supprimer le dossier",
+    "TextPay": "Payer",
+    "TextRwandanCitizenOnly": "Ce service n'est réservé qu'aux citoyens rwandais.",
+    "PselectLanguage": "Sélectionnez la langue",
+    "TextNewOfficewr": "Nouvel agent",
+    "PSelectRoles": "Rôles",
+    "PEnterCode": "Enregistrez le code",
+    "PEnterMessage": "Enregistrez le message",
+    "PSelectMessageType": "Sélectionnez le type de message",
+    "PSelectCategory": "Sélectionnez la catégorie",
+    "TextNewService": "Nouveau service",
+    "TextNewServiceGroup": "Nouveau groupe de service",
+    "TextSearchMessage": "Recherche de message",
+    "PSelectUserType": "Sélectionnez le type d'utilisateur",
+    "TextNew": "Nouveau",
+    "TextNewCategory": "Nouvelle catégorie",
+    "TextNewTag": "Nouveau Tag",
+    "TextNewStep": "Nouvelle étape",
+    "TextNewReason": "Nouveau motif",
+    "TextNewRole": "Nouveau rôle",
+    "TextNewDocument": "Nouveau document",
+    "TextNewAgent": "Nouvel Agent",
+    "TextNewPoliceAgent": "Nouvel Agent de Police",
+    "TextSearchProfessions": "Recherchez les professions",
+    "TextNewProfession": "Nouvelle profession",
+    "TextSearchIndustries": "Recherchez les domaines",
+    "TextNewIndustry": "Nouveau domaine",
+    "TextBackList": "Retour à la liste",
+    "TextFindUserApplications": "Nouveau domaine",
+    "TextReports": "Rapports",
+    "PDataType": "Type de données",
+    "PReportType": "Type de rapport",
+    "TextPreferedFileFormat": "Formats de fichiers préférés",
+    "TextPDF": "PDF",
+    "TextEXCEL": "EXCEL",
+    "TextExportPeport": "Téléchargez le rapport",
+    "TextExportExcelReport": "Téléchargez le Rapport Excel",
+    "TextGAzettePurchaseDetails": "Détails du Journal Officiel",
+    "TextGAzetteSubscribeDetails": "Détails de l'abonnement au Journal Officiel",
+    "TextProductType": "Type d'acquisition",
+    "PselectProductType": "Sélectionnez le type d'acquisition",
+    "TextGazetteYear": "Année du Journal officiel",
+    "PselectGazetteYear": "Sélectionnez l'année du Journal officiel",
+    "PEnterNames": "Enregistrez les noms",
+    "TextDeliveryType": "Type de livraison",
+    "PselectDelivery": "Sélectionnez le type de livraisoon",
+    "TextCountries": "Pays",
+    "PselectCountryType": "Sélectionnez le pays",
+    "TextDeliveryQuantityDetails": "Détails de livraison et de quantité",
+    "TextDeliveryAddress": "Adresse de livraison",
+    "PEnterAddress": "Enregistrez votre adresse",
+    "TextQuantity": "Quantité",
+    "PEnterQuantity": "Enregistrez la quantité",
+    "TextGazetteInfo": "Informations du Journal Officiel",
+    "TextGazetteNumber": "Numéro du Journal officiel",
+    "TextGazetteMonth": "Mois du Journal Officiel",
+    "TextGazetteHeading": "Titre du Journal officiel",
+    "TextRemainingQty": "Quantité qui reste",
+    "TextTotalAmount": "Montant Total",
+    "TextTotalAmountSummary": "Sommaire du Montant Total",
+    "TextPublishingDetails": "Détails de Publication",
+    "TextCurrentFullName": "Nom actuel complet",
+    "PEnterFName": "Enregistrez le nom complet",
+    "TextNewFullName": "Nouveau nom complet",
+    "PEnterNewFName": "Enregistrez le nouveau nom complet",
+    "PselectCategory": "Sélectionnez la catégorie",
+    "TextNumberOfLines": "Nombre de lignes",
+    "PEnterNumberOfLines": "Enregistrez le nombre de lignes",
+    "TextAddressDetails": "Détails de l'adresse",
+    "TextPOBox": "Boîte Postale",
+    "PEnterPBox": "Enregistrez la Boîte Postale",
+    "TextNumberOfPages": "Nombre de pages",
+    "PEnterNumberOfPages": "Enregistrez le nombre de pages",
+    "TextPublishingInfo": "Informations de publication",
+    "TextBusinessName": "Nom commercial",
+    "TextCostPLine": "Coût par ligne",
+    "TextCostPPage": "Coût par page",
+    "TextTotalFee": "Montant total",
+    "TextPartnerNationality": "Nationalité du partenaire",
+    "TextPartnerResidence": "Résidence du partenaire",
+    "TextPartnerliveInRwanda": "Le partenaire vit-il au Rwanda?",
+    "TextApplicantHealthDetails": "Coordonnées du demandeur et du Centre de Santé",
+    "TextSpouseProfession": "Profession du Conjoint",
+    "TextPersonalDetails": "Identification personnelle",
+    "TextSurname": "Nom",
+    "PEnterSurname": "Enregistrez le nom",
+    "PSelectOtherName": "Enregistrez les autres noms",
+    "TextBornInRwanda": "Né au Rwanda?",
+    "TextFatherHasID": "Le Père a-t-il une Carte d'Identité?",
+    "TextMotherHasID": "La Mère a-t-elle une Carte d'Identité?",
+    "TextTempIdCollection": "Retrait de la CI provisoire",
+    "TextReasonForIDCorrection": "Motif de correction de la CI",
+    "TextOther": "Autres",
+    "TextOtherReason": "Autre motif",
+    "PEnterOtherReason": "Enregistrez un aute motif",
+    "TextBiometricDataDetails": "Détails de Saisie des Données Biométriques",
+    "TextInstitution": "Institution",
+    "TextBimetricDate": "Date de saisie des données biométriques",
+    "TextBimetricCenter": "Secteur Biométrique",
+    "TextBiometricDataPlace": "Lieu de Saisie des Données Biométriques",
+    "TextAdddMultipleApplicants": "(Ajoutez plusieurs demandeurs)",
+    "TextApplicantType": "Type de Demandeur",
+    "PselectApplicant": "Sélectionnez le type de demandeur",
+    "TextTinumber": "Numéro TIN",
+    "PEnterTin": "Enregistrez le Numéro TIN",
+    "PEnterGazette": "Enregistrez le numéro du Journal Officiel",
+    "TextWithNid": "Avec la Carte d'Identité?",
+    "TextCompanyName": "Nom de la Société",
+    "PEnterCompanyName": "Enregistrez le nom de la société",
+    "PEnterInstitutionName": "Enregistrez le nom de l'Institution",
+    "TextDocumentDetails": "Détails du Document",
+    "TextSelectedDocuments": "Sélectionnez le document",
+    "PselectDocumentType": "Sélectionnez le type de document",
+    "TextNumberOfCopies": "Nombre de copies",
+    "PEnterCopyNumber": "Enregistrez le nombre de copies",
+    "TextSelectBank": "Sélectionnez la banque",
+    "PselectBank": "Sélectionnez la banque",
+    "TextBankDocumentName": "Nom du document de la banque",
+    "PEnterBankName": "Enregistrez le nom du document de la banque",
+    "TextBankFee": "Frais bancaires",
+    "PSelectBankFee": "Enregistrez les frais bancaires",
+    "TextBankNumber": "Numéro de téléphone de la banque",
+    "PBankNumber": "Enregistrez le numéro de téléphone de la banque",
+    "TextSelectAgency": "Sélectionnez l'Institution",
+    "TextSelectEmbassy": "Sélectionnez l'Ambassade",
+    "TextApprovingLocation": "Emplacement du bureau d'approbation",
+    "TextOtherNames": "Autres noms",
+    "PselectInstitution": "Sélectionnez l'Institution",
+    "PselectCenter": "Sélectionnez le centre",
+    "TextApplicantNames": "noms de Demandeur",
+    "TextServiceIsLoading": " est en cours de chargement...",
+    "TextLoadingService": "Service en cour de chargement...",
+    "TextDwonload": "Téléchargez",
+    "TextShare": "Partagez",
+    "TextFranchiseeType": "Type de Franchisé",
+    "PselectOrganizationType": "Selectionnez le type d'organisation",
+    "TextNewOfficer": "Nouvel agent responsable",
+    "TextSubAgents": "Sous-agents",
+    "TextAgents": "Agents",
+    "TextOfficers": "Agents Responsables",
+    "TextLanguage": "Langue",
+    "TextNewFranchisee": "Nouveau Utilisateur de la Franchisé",
+    "TextNewCustomerSupport": "Nouveau personnel d'appui à la clientèle",
+    "TextFranchiseeDetails": "Identification du Franchisé",
+    "TextRepresentativeDetails": "Représentant",
+    "TextAccountDetails": "Détails du Compte",
+    "TextSearchRoles": "Recherchez les Rôles",
+    "TextUpdateRole": "Mettez à jour le Rôle",
+    "TextCreateRole": "Créez un Nouveau Rôle",
+    "TextRoleName": "Nom du Rôle",
+    "TextSearchAgent": "Cherchez les agents",
+    "TextNewSubAgent": "Nouveau sous-agent",
+    "TextFindUserAccounts": "Trouvez les comptes du Postulant",
+    "TextRefNo": "Numéro de Référence",
+    "TextPRefNo": "Saisissez le Numéro de Référence",
+    "TextParcelUPI": "L'UPI de la parcelle",
+    "TextEnterParcelUPI": "Veuillez saisir l'UPI de la parcelle",
+    "TextNidNote": "Envoyez la CI si le défunt est un adulte, ou le numéro de fiche s'il n'a pas 16 ans",
+    "TextNidNoteGeneral": "Saisissez le numéro d'identification national puis cliquez sur le bouton de recherche pour extraire les détails",
+    "TextNidNoteTitle": "Note rapide",
+    "TextNewApplication": "Nouveau Dossier",
+    "TextSortBy": "Trier par",
+    "TextSortType": "Type de tri",
+    "TextViewDetails": "Voir les détails",
+    "TextCash": "Cash",
+    "TextCashless": "Electronique",
+    "TextCompleted": "Approuvé",
+    "TextRFA": "Demande d'Action",
+    "TextUncompleted": "Rejeté",
+    "TextUsers": "Utilisateurs",
+    "TextServicePreviewRwandanOnly": "Ce service est réservé aux citoyens rwandais uniquement",
+    "TextServicePreviewRoleAllowed": "Vous n'êtes pas autorisé à accéder à ce service.",
+    "TextServicePreviewNotLoggedInMessage": "Vous ne pouvez pas demander ce service tant que vous n'êtes pas connecté",
+    "SelectPattachment": "Sélectionnez une pièce jointe",
+    "TextBuyerDetails": "Identification de l'Acheteur",
+    "TextChurchDetails": "Coordonnées de l'église",
+    "TextCompanyDetails": "Coordonnées de la Société",
+    "TextOrganisationDetails": "Coordonnées de l'Organisation",
+    "TextCooperativeDetails": "Coordonnées de la Coopérative",
+    "TextNGODetails": "Coordonnées de l'ONG",
+    "TextProfessionalAssociationDetails": "Coordonnées de l'Association Professionnelle",
+    "TextBeneficiaryDetails": "Identification du Bénéficiaire",
+    "TextSuccessorDetails": "identification du Successeur",
+    "TextGovernmentDetails": "Coordonnées du Gouvernement",
+    "TextFBODetails": "Coordonnées de l'Organisation Confessionnelle",
+    "TextLandOwnerDetails": "Identification du Propriétaire Foncier",
+    "TextOtherDetails": "Autres informations",
+    "TextParcelDetails": "Coordonnées de la parcelle",
+    "PSearchHere": "Cherchez ici",
+    "TextClickToPreview": "Cliquez sur le nom du fichier pour avoir un aperçu",
+    "TextSupportCenterTitle": "Centre d'assistance",
+    "TextLegalInfoTitle": "Informations juridiques",
+    "TextNewDit": "Nouvel Adm IT de District",
+    "TextGoToAccount": "Retour à la Page d'Accueil",
+    "TextAdmind": "Admins",
+    "TextCustomerSupporters": "Assistants à la Clientèle",
+    "TextFranchisee": "Franchisés",
+    "PEnterTIn": "Saisissez le Numéro TIN",
+    "PEnterBusinessName": "Saisissez le nom de l'entreprise",
+    "TextNewCsAdmin": "Nouvel admin de l'assistance à la clientèle",
+    "TextDigitalCertificate": "Certificat Digitale",
+    "TextPaper": "Papier",
+    "TextNotDivorced": "Vous ne pouvez pas demander ce service si vous n'êtes pas divorcé; veuillez commencer par mettre à jour votre état civil",
+    "TextNotMarried": "Vous ne pouvez pas demander ce service si vous n'êtes pas marié; veuillez commencer par mettre à jour votre état civil",
+    "TextNotSingle": "Vous ne pouvez pas demander ce service si vous n'êtes pas célibataire; veuillez commencer par mettre à jour votre état civil",
+    "TextNotWidow": "Vous ne pouvez pas demander ce service si vous n'êtes pas veuf/ve; veuillez commencer par mettre à jour votre état civil",
+    "TextSelectApplicant": "Choisissez un postulant",
+    "TextDIT": "Nouvel Administrateur IT du District",
+    "TextNPPAAdmin": "Nouvel Administrateur de NPPA",
+    "TextFranchiseeManager": "Nouvel Directeur du Franchisé",
+    "TextRIBAdmin": "RIB Officer Admin",
+    "TextPoliceAdmin": "Police Admin",
+    "TextCovid19Admin": "RBC COVID-19 Admin",
+    "TextNewFranchiseeAdmin": "Nouvel Administrateur du Franchisé",
+    "TextCustomerSupportAdmin": "Nouvel Administrateur du Support Client",
+    "TextCustomerSupport": "Nouveau Support Client",
+    "TextOtherRelationship": "Autre relation",
+    "TextPOtherRelationship": "Enregistrez une autre relattion",
+    "TextBookingDatails": "Détails de réservation",
+    "TextBookingDateText": "Date de réservation",
+    "TextFranchiseeDashboard": "Tableau de bord du Franchisé",
+    "TextHere": "Cliquez ici",
+    "TextBookTestNow": "Réservez votre test maintenant",
+    "TextNotSingleWidowDivorced": "You can not apply this service if you are not single, widow/widower or divorced, Please consider updating your marital status",
+    "TextChangeSector": "Changer de secteur",
+    "TextOnlyMaleApplicant": "Only male should apply this service",
+    "TextDistrictLevel": " (Niveau du district)",
+    "TextYes": "Oui",
+    "TextNo": "Non",
+    "TextConfirmTitle": "Êtes-vous sûr de vouloir supprimer cette cette demande?",
+    "TextConfirmBody": "Si oui, vous risquez de perdre toutes les informations fournies, pensez à sauvegarder vos données avant de quitter cette page.",
+    "TextConfirmDeleteTitle": "Êtes-vous sûr de vouloir effacer cette demande?",
+    "TextConfirmDeleteBody": "Si oui, vous risquez de perdre toutes les informations fournies",
+    "TextGlobalErrorTitle": "Service pas disponible",
+    "TextGlobalErrorMessage": "Une erreur est survenue et votre demande n'a pas pu être complétée. Vérifiez l'URL, rentrez à la page d'accueil ou n'hésitez pas à signaler ce problème",
+    "TextOr": "ou",
+    "TextGoBack": "Retour au menu précédent",
+    "TextUsername": "Nom d'utilisateur",
+    "TextLegalInformation": "Information légale",
+    "TextResidenceDetails": "Détails de votre résidence",
+    "TextCity": "Ville",
+    "TextStateOrCity": "Etat / Ville",
+    "TextPCity": "Inscrivez la ville",
+    "TextOtherPersonalInfo": "Autres info personnelles",
+    "TextProcessingEmbassy": "Ambassade qui traite le dossier",
+    "TextEducationBackg": "Niveau d'Etudes",
+    "TextEmbassy": "Ambassade",
+    "TextPEmbassy": "Choisissez l'Ambassade",
+    "TextOccupation": "Occupation",
+    "PSelectOccupation": "Sélectionnez une occupation",
+    "TextResidenceCountry": "Pays de Résidence",
+    "PSelectResidenceCountry": "Sélectionner le pays de résidence",
+    "TextLock": "Fermez le compte",
+    "TextUnlock": "Ouvrez le compte",
+    "BtnLock": "Fermez ",
+    "BtnUnlock": "Ouvrez",
+    "UnlockMessageForAssistance1": "Si vous ouvrez ce compte,",
+    "UnlockMessageForAssistance2": "l'utilisateur pourra se connecter sur Irembo le portail du gouvernement.",
+    "LockMessageForAssistance1": "Si vous fermez ce compte,",
+    "LockMessageForAssistance2": "l'utilisateur ne pourra pas se connecter sur Irembo le portail du gouvernement.",
+    "TextChangeLanguage": "Changez la langue",
+    "TextValidCertificate": "Certificat est Valide",
+    "TextInvalidCertificate": "Certificat est Invalide",
+    "TextNotFoundCertificate": "Certificat non Trouvé",
+    "TextCertificateVerification": "Verification du Certificat",
+    "TextNotifier": "La réservation du test COVID-19 est maintenant disponible sur IremboGov.",
+    "TextOfficerServices": "Services d'officier",
+    "TextAddServicesToOfficer": "Ajouter les services à l'agent responsable",
+    "TextOfficerLevel": "Niveau de l'agent en charge",
+    "PSelectLevel": "Sélectionnez le niveau",
+    "PSelectOffice": "Sélectionnez un bureau",
+    "TextQualificationDetails": "Détails de la qualification",
+    "TextEducationLevel": "Niveau d'Education",
+    "TextIssuingCountry": "Pays de Délivrance",
+    "TextIssuanceDate": "Issuance Date",
+    "TextPassportExpiry": "Date d'Expiration du Passeport",
+    "TextPSelectExpiry": "Sélectionnez la Date d'Expiration",
+    "TextExpiryDate": "Date d'Expiration",
+    "TextDateOfArrival": "Date d'Arrivée",
+    "TextMediaHouse": "Société/Maison de Média",
+    "TextPSelectMedia": "Sélectionnez la Maison de Média",
+    "TextWebsite": "Site Web",
+    "TextPEnterWebsite": "Saisissez le site web",
+    "TextStayDetails": "Détails du séjour",
+    "TextOfficeDetails": "Détails sur la société de médias ou de production",
+    "TextAccreditationTimeframe": "Calendrier d'Accréditation",
+    "TextContactPerson": "Coordonnées de la personne de contact",
+    "TextProjectDescription": "Description du projet",
+    "TextProjectActivities": "Faire rapport des activités",
+    "TextEquipmentDetails": "Détails de l'équipement",
+    "Text450Char": "450 caractères",
+    "TextPMoreInfo": "Fournissez plus d'informations",
+    "TextValidUrlMessage": "Donnez un site web valide",
+    "TextInsuranceDetails": "Détails de l'Assurance",
+    "TextInsurancePeriod": "Période de l'assurance",
+    "TextPaidAmount": "Montant payé",
+    "TextToBePaid": "Montant total à payer",
+    "TextAmountToBePaid": "Montant à payer",
+    "TextEquivalenceLevel": "Nom complet de la qualification",
+    "TextProgrammeOption": "Programme/Option",
+    "TextAdmissionYear": "Année d'admission",
+    "TextCompletionYear": "Année d'achèvement des études",
+    "TextDurationProgrammeDuration": "Durée du Programme",
+    "TextStudyMode": "Mode d'Etudes",
+    "TextQualificationLevel": "Niveau de qualification",
+    "TextSchoolFacilityDetails": "Détails des installations scolaires",
+    "TextRwWihoutID": "Rwandais sans Carte d'Identité (CI)",
+    "TextVacciDetails": "Détails du rendez-vous",
+    "TextTimeSlot": "Plage Horaire",
+    "TextVacciType": "Type de Vaccination",
+    "TextVacciCenter": "Centre de Vaccination",
+    "TextVacciDate": "Date de Vaccination",
+    "TextSlotType": "Type de plage Horaire",
+    "TextTime": "Heure",
+    "TextRemaining": "Emplacements restants",
+    "TextApplicationLevel": "Niveau de la Demande",
+    "TextPSPhase": "Sélectionnez le niveau",
+    "TextDesiredName": "Details de changement de noms",
+    "TextWelcome": "Bienvenue sur la plateforme IremboGov",
+    "TextWelcomeBody": "Votre expérience est sur le point de s'améliorer beaucoup!",
+    "TextStart": "Commencez",
+    "TextApplicantConvicted": "Le demandeur a-t-il déjà été condamné pour une infraction pénale au Rwanda?",
+    "TextDcjNumber": "Numéro DCJ",
+    "TextCertificateNumber": "Numéro du Certificat",
+    "TextGetHelp": "Obtenir de l'aide",
+    "TextCreateNewAcc": "Créez votre compte ",
+    "TextHere2": "ici",
+    "TextUpdate": "Mise à jour",
+    "TextUpdateCitizenInfo": "Actualisez les détails",
+    "TextEnterDCJNumber": "Saisissez le numéro DCJ",
+    "TextEnterCertificateNumber": "Saisissez le numéro du certificat",
+    "TextOffenseName": "Nom de l'infraction",
+    "TextOffenseCharMax": "Caractères Max.: 255",
+    "TextEnterOffenseName": "Saisissez le nom de l'infraction",
+    "TextPenalty": "Peine",
+    "TextEnterPenalty": "Saisissez la peine",
+    "TextAddRow": "Ajouter une infraction",
+    "TextResumeAssistance": "Cela vous amènera à l'application afin que vous puissiez la modifier, assurez-vous de soumettre à nouveau.",
+    "TextLivingSince": "Vivant au Rwanda depuis",
+    "TextSpouseName": "Nom du Conjoint",
+    "TextCertificateLanguageText": "Dans quelle langue souhaitez-vous que le certificat soit généré?",
+    "TextWhoCanApply": "Qui peut postuler",
+    "TextEditInfo": "Modifier les Info",
+    "TextInsCat": "Catégorie d'assurance",
+    "TextMaxAmount": "Quantité maximale: ",
+    "TextApplicationDetails": "Détails de la demande",
+    "TextPreviousLicenseNumber": "Numéro de licence précédent",
+    "TextYellowFever": "Fièvre jaune",
+    "TextMaxValue": "La valeur ne doit pas dépasser",
+    "TextRssbCat23": "Le montant autorisé à payer si le multiple de 3000Rwf",
+    "TextRssbCat4": "Le montant autorisé à payer si le multiple de 7000Rwf",
+    "TextOnHold": "En attente",
+    "TextMore": "voir plus",
+    "TextNewNames": "Nouveau noms",
+    "TextUSDPrice": "Prix ​​en dollars",
+    "TextCoNType": "Type de changement",
+    "TextHecNoNote": "Numéro de téléphone de l'école doit commencer par + et le code du pays",
+    "TexNotaryChangeSector": "Le bureau d'agrément doit être un secteur",
+    "TextHecModeNote": "HEC peut demander des documents supplémentaires, si ils estime que les documents joints ne sont pas suffisants",
+    "TextHecEqNote": "Veuillez écrire le nom de la qualification tel qu'il est écrit exactement sur le diplôme.",
+    "TextRegistrationCodeResult": "Résultats du Test",
+    "TextNationalId": "Carte d'Identité",
+    "TextApplicantName": "Nom de Demandeur",
+    "TextTestType": "Type de Test",
+    "TextCategoryAppliedFor": "Catégorie demandée",
+    "TextTestDate": "Date de Test",
+    "TextTestHour": "Heure de Test",
+    "TextTestCenter": "Centre de Test",
+    "TextTestDatePast": "Date de Test",
+    "TextTestCenterPast": "Centre de Test",
+    "TextTestMode": "Mode de Test",
+    "TextTestLanguage": "Langue de Test",
+    "TextNoScheduleFound": "Aucun horaire trouvé",
+    "TextNoSeatsAvailable": "Aucun siège disponible dans l'horaire sélectionné",
+    "TextMarks": "Résultats",
+    "TextPlateNo": "Numéro de plaque",
+    "TextTinNo": "TIN",
+    "TextEnterRegistrationCode": "Saisissez le code d'inscription",
+    "TextSelectADistrict": "Sélectionnez un district",
+    "TextSelectAnHour": "Sélectionnez une heure",
+    "TextSelectAStation": "Sélectionnez une station",
+    "TextSelectAType": "Sélectionnez un type",
+    "TextSelectAnInspectionCenter": "Sélectionnez une centre de contrôle technique",
+    "TextSelectADate": "Sélectionnez une date",
+    "TextSelectAMode": "Sélectionnez un mode",
+    "TextSelectALanguage": "Sélectionnez une langue",
+    "TextSelectAnTestCenter": "Sélectionnez une centre de test",
+    "TextSelectACategory": "Sélectionnez un catégorie",
+    "TextEnterTicketNumber": "Saisissez le numéro de la contravention",
+    "TextEnterPlateNumber": "Saisissez le numéro de plaque",
+    "TextEnterTinNo": "Saisissez le TIN",
+    "TextEnterCompanyCode": "Saisissez le code de la sociéte",
+    "TextDlNumber": "Saisissez le numéro du permis de conduire",
+    "TextOwnerNid": "Identifiant du propriétaire",
+    "TextAmount": "Montant",
+    "TextCompanyCode": "Code",
+    "TextPCompanyName": "Nom",
+    "TextCompanyAddress": "Addresse",
+    "TextBalance": "Solde",
+    "TextProvisionalExamType": "Test du Permis de Conduire - Provisoire",
+    "TextOtherExamType": "Test du Permis de Conduire - Définitif",
+    "TextTicketIssuanceDate": "Date de délivrance",
+    "TextTicketValidityDate": "A payer avant",
+    "TextTicketAmount": "Montant de la contravention",
+    "TextTicketDescription": "Description de la contravention",
+    "TextRegistrationDetails": "Détails d'inscription",
+    "TextTestDetails": "Détails du Test",
+    "TextProvisionalLicenseNumber": "Numéro du Permis Provisoire",
+    "TextCurrentLicenseNumber": "Numéro du Permis Actuel",
+    "TextDesiredLicenseCategory": "Catégorie du Permis souhaitée",
+    "TextTestDistrict": "District de Test",
+    "TextRegistrationCode": "Code d'Inscription",
+    "TextCollectionDistrict": "District de Retrait",
+    "TextPickupStation": "Station de Retrait",
+    "TextCodeSentInSMS": "Voici le code d'inscription que vous avez reçu par SMS après votre inscription au test de permis de conduire.",
+    "TextDidNotGetCode": " si vous n'avez pas reçu le code.",
+    "TextWantTemporaryId": "Voulez-vous une carte d'identité temporaire",
+    "TextRwandaResidence": "Vivez-vous au Rwanda",
+    "TextVehicleDetails": "Identification du véhicule",
+    "TextVisitType": "Type de visite",
+    "TextDrivingLicenseType": "Type de permis de conduire",
+    "TextDrivingLicenseNumber": "Numéro du Permis de Conduire",
+    "TextInspectionCenter": "Centre de contrôle technique",
+    "TextAppointmentDate": "Date de rendez-vous",
+    "TextAmountToDeposit": "Montant à déposer",
+    "TextApplicantAndTicketDetails": "Détails du Demandeur et du Ticket",
+    "TextTicketDetails": "Détails du Ticket",
+    "TextTicketNumber": "Numéro du Ticket",
+    "TextPass": "Réussi",
+    "TextFail": "Echoué",
+    "TextSetAppointment": "Set Appointment",
+    "TextPUpi": "UPI du terrain",
+    "TextAttachmentMessage": "Seuls les annexes en format PDF, JPG et PNG sont autorisés",
+    "TextDisclaimerMHC": "Conditions générales de tournage et de reportage des sites mémoriaux du Génocide pérpétré contre les Tutsi au Rwanda ",
+    "TextAgreeTo": "Vous devez d'abord accepter de",
+    "TextMHCDisclaimer1": "Respecter la nature sensible des sites mémoriaux du Génocide",
+    "TextMHCDisclaimer2": "Veuillez utiliser la terminologie \"Le Génocide pérpétré contre les Tutsi en 1994 au Rwanda\" comme repris dans la Résolution A / 72 / L.31 de l'Assemblée Générale des Nations Unies",
+    "TextMHCDisclaimer3": "Les images / enregistrements ne peuvent être utilisés à d'autres fins que celles pour lesquelles elles ont été autorisées",
+    "TextMHCDisclaimer4": "Les images / enregistrements ne peuvent être utilisées dans un format quelconque pour dénigrer ou nier le génocide pérpétré contre les Tutsi.",
+    "TextAgree": "J'accepte",
+    "TextRequireAttachment": "Besoin d'Annexe?",
+    "TextMhcNoNote": "Numéro de téléphone doit commencer par + et le code du pays",
+    "TextConNote": "Écrivez vos noms dans l'ordre que vous souhaitez les voir sur la carte d'identité",
+    "TextNote": "Remarque",
+    "TextParcelInfo": "Coordonnées du terrain",
+    "TextPlotSize": "Dimension du terrain",
+    "TextLandUse": "Utilisation du Terrain",
+    "TextRightType": "Type authentique",
+    "TextOwnerId": "CI du Propriétaire",
+    "TextLandMergingDetails": "Détails des parcelles à fusionner",
+    "TextSubDivDetails": "Détails de la subdivision",
+    "TextDesiredSub": "Subdivisions souhaitées",
+    "TextPlot": "Terrain",
+    "TextCatedralFiche": "Cochez où vous voulez une fiche cadastrale",
+    "TextPriceFiche": "5000 Frw par fiche cadastrale",
+    "TextPriceSubdivion": "& 10000 FRW par subdivision supplémentaire",
+    "TextAll": "Tous",
+    "TextOwners": "Propriétaires",
+    "TextSellerDetails": "Identification du vendeur",
+    "TextExcuter": "Identification de l'Exécutant",
+    "TextSuccessee": "Identification du Légataire",
+    "TextEchangee": "Echange",
+    "TExtDonorDetails": "Identification du donataire",
+    "TextIECMNo": "Numéro du dossier judiciaire",
+    "TextBuyerID": "CI de l'acheteur",
+    "TextSuccessorID": "CI du successeur",
+    "TextBeneficiryID": "CI du béneficaire",
+    "TextNidNoteSuccessor": "Vous pouvez utiliser une CI pour les adultes et une numéro d'identité pour les mineurs",
+    "TextRepresentaID": "CI du Représentant",
+    "TextReasnOfTransfering": "Raison du Transfert",
+    "TextDesiredLandUse": "Utilisation du Terrain souhaitée",
+    "TextPlotNumber": "Numéro du terrain",
+    "TextPlotDetails": "Détails du Terrain",
+    "TextWantaFiche": "Voulez-vous une fiche cadastrale?",
+    "TextValidUpiMessage": "Donnez un UPI valide",
+    "TextApprovedDeenNote": "Coordonnées géographiques de chacune des parcelles à subdiviser comme indiqué dans le plan cadastral",
+    "TextMemorandumNote": "Acte constitutif notarié indiquant les parts de chaque actionnaire au cas où parmi les personnes à enregistrer il y a des étrangers et des Rwandais copropriétaires de terres ou une société commerciale, une organisation ou une association dotée de la personnalité juridique dans lesquelles les étrangers sont actionnaires",
+    "TextCourtDecisionNote": "Décision du tribunal et / ou rapport d'exécution du jugement indiquant le numéro de la parcelle concernée (Si le numéro n'est pas connu: Plan cadastral approuvé, coordonnées géographiques du terrain comme indiqué dans le plan cadastral et un rapport signé par l'huissier de justice confirmant que les mesures ont été prises conformément à la manière dont il a exécuté la décision de justice)",
+    "TextAuthenticWill": "Testament authentique délivré par le Secrétaire Exécutif du secteur confirmant les héritiers en cas de contestation sur la succession ou décision du tribunal déterminant qui sont les héritiers et leurs droits respectifs (avec acte de décision) en cas de différend sur la succession",
+    "TextProofoAquisition": "Preuve d'acquisition du terrain signée par le Comité foncier de la Cellule et approuvée par le Secrétaire Exécutif de la Cellule et le Secrétaire Exécutif du Secteur où se trouve ce terrain",
+    "TextAuthChange": "Autorisation de changement d'affectation du terrain délivrée conformément au plan directeur par le Maire du District ou tout autre agent du district.",
+    "TextSurveyReports": "Rapport d'arpentage signé par le propriétaire de la parcelle, les propriétaires des parcelles voisines et par l'arpenteur-géomètre",
+    "TextBenefContact": "Contact du bénéficiaire",
+    "TextNextStep": "Etape suivante",
+    "TextNextStepDescription": "Veuillez utilisez le numéro de fiche ci-dessus pour générer le certificat d'enregistrement au Registre National de la Population",
+    "TextNprApplicationNumber": "Numéro de fiche au Registre National de la Population",
+    "BtnGenerateEcertificate": "Generate eCertificate",
+    "TextServicesAllocation": "Services Allocation",
+    "TextOwnedServices": "Owned services",
+    "TextBtnAllocateServices": "Allocate Services",
+    "TextUnallocatedServices": "Unallocated services",
+    "TextAddAnotherParcel": "Vous pouvez ajouter un autre terrain juste après avoir récupéré les informations du premier",
+    "TextApplicantRep18": "Le postulant / représentant du terrain doit être âgé de plus de 18 ans",
+    "TextEditOwnerTip": "Cliquez sur le bouton Modifier pour changer les informations relatives au le propriétaire foncier",
+    "TextRemoveOwnerTip": "Cliquez sur le bouton Supprimer du propriétaire du terrain que vous souhaitez supprimer",
+    "TextOldForeName": "Ancien prénom",
+    "TextNewForeName": "Nouveau prénom",
+    "TextOldSurname": "Ancien nom de famille",
+    "TextNewSurname": "Nouveau nom de famille",
+    "TextSharePercentage": "Pourcentage des parts",
+    "TextReasonAddRemove": "Type d'actions",
+    "TextReasonForModification": "Raison de modification",
+    "TextEPaymentGroup": "Pour quel service voudriez-vous payer?",
+    "TextOtherBuyers": "Ajoutez un autre acheteur",
+    "TextOtherOwner": "Ajoutez un autre propriétaire",
+    "TextFilterBy": "Filtrez par rôle",
+    "TextApplyAs": "Faire la demande en tant que",
+    "TextMinorCategory": "Catégorie du Mineur",
+    "TextGuardianship": "Nationalité du Tuteur",
+    "TextRequestType": "Type de demande",
+    "TextIdentificationDetails": "Détails d'identification",
+    "TextPassportDetails": "Détails du passeport",
+    "TextTravelDetails": "Détails du Voyage",
+    "TextGuardianDetails": "Détails du Tuteur",
+    "TextPurposeTravel": "Motif du Voyage",
+    "TextDestinationCountry": "Pays de destination",
+    "TextPassportType": "Type de passeport",
+    "TextPassportValidity": "Validité du passeport",
+    "TextNewReport": "Nouveau Rapport",
+    "TextTestsReport": "Rapport de Tests",
+    "TextIssuanceSchool": "École de délivrance",
+    "TextIssuanceYear": "Année de délivrance",
+    "PEnterIssuanceSchool": "Entrez École de délivrance",
+    "PEnterIssuanceYear": "Entrez Année de délivrance",
+    "TextSubject": "Sujet",
+    "TextGrade": "Grade",
+    "TextCombination": "Combinaison",
+    "TextLPnumber": "Numéro du laisser-passer",
+    "TextIssuedDate": "Date de délivrance",
+    "TextDocType": "Type de document",
+    "TextdocumentNo": "Numéro du document",
+    "TextPLP": "Numéro du Laissez-passer précédent",
+    "TextFile": "la pièce jointe ",
+    "TextLargerThan": " est plus grand que ",
+    "TextHeadVillagePhone": "Téléphone du chef de village",
+    "TextAttachmentBinding": "Read more about this service's attachments, please click <a class=\"popover-link\" target=\"_blank\" href=\"http://support.irembo.gov.rw/support/solutions/articles/47001114500-how-to-apply-for-a-service-logged-in-\">here</a></p>",
+    "TextDownloadTransferFo": "Téléchargez le formulaire de transfert",
+    "TextDownloadSalesFo": "Téléchargez le contrat de vente notarié",
+    "TextDemographicDetails": "Détails démographiques",
+    "TextDesiredPermits": "Détails du permis souhaité",
+    "TextCurrentDocuments": "Détails du document de voyage actuel",
+    "TextClass": "Classe",
+    "textTravelDocument": "Document de voyage souhaité",
+    "TextRequestTravel": "Détails de la demande et du voyage",
+    "TextEmployer": "Employeur",
+    "TextHeight": "Taille",
+    "TextTicketPaid": "Ticket déjà payé.",
+    "TextApplicantBelowSixteen": "Le demandeur a moins de 15 ans.",
+    "TextDuplicateApplicants": "Double demandeur.",
+    "TextTotalNumberOfApplicants": "Le nombre total de demandeurs ne peut pas dépasser 20.",
+    "TextApplicantHasNid": "Le demandeur a déjà une carte d'identité.",
+    "TextBiometricCentersNote": "Ce sont les secteurs autorisés à capturer des données biométriques.",
+    "TextNamesAsOnAcademicDocs": "Please write names that are on your academic documents",
+    "TextInsuranceCompany": "Insurance Company",
+    "TextZoneDistrict": "District de la zone",
+    "TextZoneName": "Nom de zone",
+    "TextCooperativeName": "Nom de la coopérative",
+    "TextLicenseNumber": "Numéro de Licence",
+    "TextCooperativeNumber": "Numéro de la Coopérative",
+    "TextCompanyTin": "Company Tin",
+    "TextCompanyRepresentative": "Company Representative",
+    "TextNumberOfVehicles": "Nombre de véhicules",
+    "TextOperationalArea": "Zone d'opération",
+    "TextSuspendedLicense": "Votre licence a-t-elle été déjà suspendue / refusée?",
+    "TextLicencedinPublicTransport": "Avez-vous déjà eu une license dans les transports publics?",
+    "TextPhoneNoNote": "Numéro de téléphone doit commencer par + et le code du pays",
+    "TextVisitDetails": "Détails de la Visite",
+    "TextFacilityToVisit": "Installations à visiter",
+    "TextSelectMuseum": "Sélectionnez un musée",
+    "TextVisitDate": "Date de Visite",
+    "TextVisitCategory": "Catégorie du Visiteur",
+    "TextVisitorType": "Type de Visiteur",
+    "TextSelectCategory": "Choisissez une catégorie",
+    "TextClassifyAs": "Classez comme",
+    "TextSelectType": "Sélectionnez un type",
+    "TextPassportNo": "No de passeport.",
+    "TextEnterPassportNo": "Entrez le passeport no.",
+    "TextNames": "Noms",
+    "TextEnterNames": "Entrez les noms",
+    "TextNumberOfAdults": "Nombre d'adultes",
+    "TextEnterNumberOfAdults": "Entrez le nombre d'adultes",
+    "TextNumberOfStudents": "Nombre d'étudiants",
+    "TextEnterNumberOfStudents": "Entrez le nombre d'étudiants",
+    "TextNumberOfChildren": "Nombre d'enfants",
+    "TextEnterNumberOfChildren": "Entrez le nombre d'enfants",
+    "TextNumberOfChildrenUnderSix": "Nombre d'enfants (<6 ans)",
+    "TextEnterNumberOfChildrenUnderSix": "Entrez le nombre d'enfants de moins de 6 ans",
+    "TextNumberOfMale": "Nombre d'hommes",
+    "TextEnterNumberOfMale": "Entrez le nombre d'hommes",
+    "TextNumberOfFemale": "Nombre de femmes",
+    "TextEnterNumberOfFemale": "Entrez le nombre de femmes",
+    "TextVisaType": "Type de visa",
+    "TextPCategories": "Catégorie de la pénalité",
+    "TextSubCategies": "Sous-catégorie",
+    "TextPermitType": "Type de permis",
+    "TestVisaDetails": "Détails du visa",
+    "TestArrivalDates": "Date d'Arrivée au Rwanda",
+    "TestDepartureDates": "Date de Départ du Rwanda",
+    "TextPAppointment": "Lieu de rendez-vous/Lieu d'affectation?",
+    "TextDateAndTime": "Date & Heure",
+    "TextLeaveNote": "Commentaires sur le congé",
+    "TextConfirm": "Confirmez",
+    "TextScheduleNote": "Dès la confirmation du rendez-vous, le postulant recevra une notification",
+    "TextPropAddressInRw": "Adresse proposée au Rwanda",
+    "TextPropArrivalDate": "Date d'arrivée proposée",
+    "TextPropDepartureDate": "Date de départ proposée",
+    "TextEntryPoint": "Poste d'entrée proposé",
+    "TextPurposeOfVisit": "Motif de la visite",
+    "TextisitDetails": "Plus de détails au sujet de la visite",
+    "TextFirstInRw": "Première visite au Rwanda",
+    "TextLastVisitToRw": "Dernière visite au Rwanda",
+    "TextStayDuration": "Quelle a été la durée de votre séjour?",
+    "Text255Char": "225 char",
+    "TextAuthorizationNumber": "Numéro de l'autorisation",
+    "TextCitizenshipCategory": "Catégorie de la nationalité",
+    "TextBirthLocation2": "Lieu de naissance",
+    "TextLicenseValidity": "License validity",
+    "TextOperatingZone": "Operating zone",
+    "TextInsuranceValidFrom": "Insurance valid from",
+    "TextInsuranceExpiryDate": "Insurance expiry date",
+    "TextOperatorCode": "Operator code",
+    "TextBankName": "Nom de la banque",
+    "TextAppointmentDetails": "Détails du rendez-vous",
+    "TextLegalRepresentative": "Représentant Légal",
+    "TextBranch": "Succursale",
+    "TextActionPlan": "Plan d'Action",
+    "TextDependantDetails": "Détails dépendants",
+    "TextHaveDependant": "Avez-vous des personnes à charge?",
+    "TextLicenseDetails": "License Details",
+    "TextOtherNationality": "Autre nationalité",
+    "TextShowApplications": "Afficher les applications",
+    "TextGetApplications": "Obtenir des applications",
+    "TextProposedName": "Nom Proposé",
+    "TextEnterProposedName": "Saisissez le nom proposé",
+    "TextAbbreviation": "Abbreviation",
+    "TextEnterAbbreviation": "Saisissez l'abbreviation",
+    "TextSectorsOfOperation": "Secteur d'Opération",
+    "TextSelectSectorsOfOperation": "Sélectionnez le secteur d'opération",
+    "TextClusterOfIntervention": "Groupe d'Interventions",
+    "TextSelectClusterOfIntervention": "Sélectionnez le groupe d'interventions",
+    "TextDenomination": "Dénomination",
+    "TextSelectDenomination": "Sélectionnez la dénomination",
+    "TextOtherDenomination": "Autre Dénomination",
+    "TextEnterOtherDenomination": "Saisissez l'autre dénomination",
+    "TextSourcesOfFounding": "Source de Financement",
+    "TextSelectSourcesOfFounding": "Sélectionnez la source de financement",
+    "TextSystemOfGovernance": "Système de Gouvernance",
+    "TextSelectSystemOfGovernance": "Sélectionnez le système de gouvernance",
+    "TextOtherSystemOfGovernance": "Autre Système de Gouvernance",
+    "TextEnterOtherSystemOfGovernance": "Saisissez l'autre système de gouvernance",
+    "TextPreferredLanguage": "Langue de choix",
+    "TextSelectPreferredLanguage": "Sélectionnez la langue de choix",
+    "TextPoBox": "B.P.",
+    "TextEnterPoBox": "Saisissez une B.P.",
+    "TextOrganisationSupportingDocument": "Documents justificatifs de l'Organisation",
+    "TextStaffDetails": "Détails du Personnel",
+    "TextVolunteerStaff": "Employés bénévoles",
+    "TextEnterVolunteerStaff": "Saisissez le nombre d'employés bénévoles",
+    "TextContractStaff": "Employés sous contrat",
+    "TextEnterContractStaff": "Saisissez le nombre d'employés sous contrat",
+    "TextOtherStaff": "Autres employés",
+    "TextEnterOtherStaff": "Saisissez le nombre d'autres employés",
+    "TextGeneralAssembly": "Assemblée Générale",
+    "TextTotalMembers": "Total des membres",
+    "TextEnterTotalMembers": "Saisissez le nombre total des membres",
+    "TextFemaleMembers": "Membres féminins",
+    "TextEnterFemaleMembers": "Saisissez le nombre de membres féminins",
+    "TextMaleMembers": "Membres masculins",
+    "TextEnterMaleMembers": "Saisissez le nombre de membres masculins",
+    "TextExecutiveCommittee": "Comité Exécutif",
+    "TextExecutiveCommitteeMeeting": "Rassemblement du Comité Exécutif",
+    "TextOrdinaryPerYear": "Ordinaire Annuel",
+    "TextExtraOrdinaryPerYear": "Extraordinaire Annuel",
+    "TextSelectFrequency": "Sélectionnez la fréquence des réunions",
+    "TextHqBranchDetails": "Coordonnées du Siège et des Succursales",
+    "TextHeadQuarters": "Siège",
+    "TextBranches": "Succursales",
+    "TextAdd": "Ajoutez",
+    "TextLegalRepresentativeDetails": "Coordonnées du Représentant Légal",
+    "TextSelectNationality": "Sélectionnez la nationalité",
+    "TextTitle": "Titre",
+    "TextSelectTitle": "Sélectionnez le titre",
+    "TextOtherTitle": "Autre Titre",
+    "TextEnterOtherTitle": "Saisissez le titre",
+    "TextPreacher": "Prédicateur(trice)",
+    "TextMandate": "Mandat",
+    "TextInYears": "dans des années",
+    "TextEnterMandate": "Saisissez le mandat",
+    "TextWorkPermit": "Catégorie du permis de travail",
+    "TextEnterWorkPermit": "Saisissez le permis de travail",
+    "TextSupportingDocument": "Documents justificatifs",
+    "TextActionPlanDetails": "Détails du Plan d'Action",
+    "TextProjectName": "Nom du Project",
+    "TextEnterProjectName": "Saisissez le nom du project",
+    "TextDomain": "Domaine",
+    "TextEnterDomain": "Saisissez le domaine",
+    "TextPlannedActivities": "Activités Prévues",
+    "TextEnterActivity": "Saisissez une activité",
+    "TextAddActivity": "Ajoutez l'activité",
+    "TextPlannedBudget": "Budget Prévu (FRw)",
+    "TextEnterPlannedBudget": "Saisissez le budget prévu",
+    "TextProjectTimelines": "Calendrier du Projet",
+    "TextStartDate": "Date de Début",
+    "TextEndDate": "Date de fin",
+    "TextExpectedImpact": "Impact Attendu",
+    "TextEnterImpact": "Saisissez un impact",
+    "TextAddImpact": "Ajoutez un impact",
+    "TextEnterOrganisationTIN": "Saisissez le TIN Organisation",
+    "TextSearchOrganisation": "Cherchez l'Organisation",
+    "TextOperationalCertificate": "Numéro de Référence du Certificat Opérationnel",
+    "TextEnterOperationalCertificate": "Saisissez le numéro de référence du certificat opérationnel",
+    "TextNumberOfStaff": "Nombre d'Employés",
+    "TextEnterNumberOfStaff": "Saisissez le nombre d'employés",
+    "TextBankAccount": "Compte Bancaire",
+    "TextEnterBankAccount": "Saisissez le compte bancaire",
+    "TextSelectCertificateLanguage": "Sélectionnez une langue de certificat",
+    "TextOrganisationName": "Nom de l'Organisation",
+    "TextEnterOrganisationName": "Saisissez le nom de l'organisation",
+    "TextOtherNationalityPassport": "Autre passeport de nationalité",
+    "TextHeadVillageName": "Noms du chef de village",
+    "TextCityOfBirth": "Ville de naissance",
+    "TextAuthorizationDetails": "Authorization Details",
+    "TextOrganizationName": "Nom de l'Organisation",
+    "TextOrganizationNumber": "Organization Number",
+    "TextLicenseApplicationDetails": "License Application Details",
+    "PselectAuthorizationType": "Select Authorization Type",
+    "PselectInsurance": "Select Insurance",
+    "TextHouseNo": "Numéro de maison",
+    "TextSpouseParent": "Le conjoint est-il le parent de l'enfant",
+    "TextPlateNumberNotFound": "There is no Company License details found for the vehicle, Please apply with individual authorization type",
+    "TextReceiverType": "Type de récepteur",
+    "TextMinorRepresentative": "Représentant du mineur",
+    "TextRegistered": "Inscrit",
+    "TextTested": "Testé",
+    "TextEquivalenceQualif": "Qualification Equivalente au Rwanda",
+    "TextMajOffice": "Bureau MAJ",
+    "TextPSelectMaj": "Saisissez le Bureau MAJ",
+    "TextNppaOffice": "Bureau NPPA",
+    "TextPSelectNppa": "Saisissez le Bureau NPPA",
+    "TextCollectionOffice": "Bureau de Collecte",
+    "TextAlwaysGetCertificate": "Vous serez toujours en mesure de télécharger votre certificat ici ou de le recevoir sur votre e-mail s'il est fourni à l'étape suivante.",
+    "TextApplicantAndRequestDetails": "Identification du postulant et détails du dossier demande",
+    "TextSearchByReleasePeriod": "Recherche par période de parution?",
+    "TextDeliveryMode": "Mode de livraison",
+    "PselectDeliveryMode": "Sélectionnez le mode de livraison",
+    "TextGazetteReleaseMonth": "Mois de sortie",
+    "PEnterReleaseMonth": "Sélectionnez le mois de parution",
+    "TextGazetteReleaseDate": "Date de parution",
+    "TextGazetteSubscriptionYear": "Année d'abonnement",
+    "PselectGazetteSubscriptionYear": "Sélectionnez l'année d'abonnement",
+    "TextCurrentCountry": "Pays actuel",
+    "TextCurrentAddress": "Adresse actuelle",
+    "TextOfficialGazettes": "Journaux officiels",
+    "TextNewOffialGazette": "Nouveau Journal Officiel",
+    "TextStatus": "Statut",
+    "TextActive": "Activé",
+    "TextDisabled": "Désactivé",
+    "TextVehicleNotFoundInSchedule": "L'horaire sélectionné ne correspond pas à la catégorie de véhicule fournie",
+    "TextNotEnoughBalance": "L'entreprise ne dispose pas d'un solde suffisant pour envoyer cette demande.",
+    "TextGazetteApplicationType": "Type de dossier de demande",
+    "PGazetteApplicationType": "Sélectionnez le type de dossier de demande",
+    "POrganizationName": "Saisissez le nom de l'organisation",
+    "TextOrganizationType": "Type d'Organisation",
+    "TextFleetMismatch": "Fleet Mismatch",
+    "TextFleetSize": "Le nombre minimum de motos pouvant être ajoutés La valeur locale (à Kigali) est de 100, celle de régional (à l'extérieur de Kigali) est de 50",
+    "TextRenewal": "Renouvellement",
+    "TextClickToSelectGazette": "Click to select gazette to purchase",
+    "TextOutOfStock": "Out of stock",
+    "TextPaymentFree": "Les frais de permis sont-ils exonérés?",
+    "TextOptionalAttachments2": "Pièces jointes facultatives",
+    "TextPlateNumberNotFounds": "plate number is not found",
+    "TextInsuranceNotFound": "Insurance detail is not found",
+    "TextRURAAdmin": "RURA Officer Admin",
+    "TextDynamicPassport": "Frais: selon la catégorie du passeport éléctronique",
+    "TextWorkDays": " Jours de travail",
+    "TextRepushPayment": "Re-pousser le paiement",
+    "TextCityOfResidence": "Ville de résidence",
+    "TextEmbassyRegistration": "Numéro de la carte consulaire de l'Ambassade",
+    "TextDynamicLaissez": "Frais: selon la catégorie du laisser-passer",
+    "TextOldPassportNumber": "Numéro  de l'ancien passeport",
+    "TextOwnerPhoneNumber": "Numéro de téléphone du propriétaire",
+    "TextOwnerName": "Nom du Propriétaire",
+    "TextRegistrantManagement": "Registrant Management",
+    "TextCurrentRegistrants": "Current Registrants",
+    "TextRemove": "Remove",
+    "TextAddRegistrants": "Add Registrants",
+    "TextRegistrants": "Registrants",
+    "TextSelectRegistrants": "Select Registrants",
+    "TextUpdateBillId": "Mettre à jour le code de facturation",
+    "TextBillIdCancelled": "Code de facturation annulé avec succès.",
+    "TextBillIdNotCancelled": "Code de facturation non annulé.",
+    "TextCheckBillStatus": "Vérifier l'état du code de facturation",
+    "TextBillIdPaid": "Code de facturation payé.",
+    "TextEnterBillId": "Saisissez le code de facturation",
+    "TextPushApplication": "Envoyer le dossier",
+    "TextLinkPdr": "Link personal data record",
+    "TextEnterApplicationNumber": "Saisizzez le numéro du dossier",
+    "TextApplicationNotPaid": "Dossier pas encore payée.",
+    "TextApplicationPushed": "Dossier envoyée.",
+    "TextIdentifierUsed": "Quel identifiant du dossier allez-vous utiliser",
+    "TextChooseAppIdentifier": "Choose an application identifier",
+    "TextChooseUserIdentifier": "Choose a user identification type",
+    "TextTourismService": "pour tous les services de Tourisme",
+    "BtnAcknowledge": "A été bien recu",
+    "TextFilterApps": "Filtrez les dossiers",
+    "TextOn": "Au",
+    "TextApprovedBy": "approuvé par",
+    "TextHasChildId": "Has application number?",
+    "TextMissingData": "Missing Information",
+    "TextOtherProfession": "Autre profession",
+    "TextOtherOccupation": "Autre Occupation",
+    "TextEnterOccupation": "Saisizzez votre profession",
+    "TextEnterProfession": "Saisizzez votre occupation",
+    "TexDestinationCity": "Ville de destination",
+    "TextDgieAttachment1": "Passport photo and Signature have to be less than 200kb and allowed formats are jpeg and jpg. Other attachments are less than 500kb and pdf format only.",
+    "TextDgieAttachment2": "La photo du passeport doit faire moins de 200 Ko et les formats autorisés sont jpeg et jpg. Les autres pièces jointes font moins de 500 Ko et au format pdf uniquement",
+    "TextCurrency": "Devise",
+    "TextMinValue": "Le nombre ne peut pas être inférieur à ",
+    "TextCatedralFicheNumber": "Indiquez le numéro de fiche cadastrale que vous souhaitez",
+    "TextCatedralFicheNumber2": "Nombre de fiche cadastrale",
+    "TextLandApplicationOffice": "Choose Application Office",
+    "TextPublicationType": "Publication Type",
+    "PPublicationType": "Enter Publication Type",
+    "TextParentNationality": "Nationalité de parent",
+    "TextMotherNationality": "Nationalité de la mère",
+    "TextFatherNationality": "Nationalité du père",
+    "TextParentdDetails": "Identification de parent",
+    "TextBy": "Par",
+    "TextHecPreviewMsg": "mais cela dépendra du délai de confirmation de l'université.",
+    "TextPreviewCertificate": "Prévisualiser le Certificat",
+    "TextClosePreview": "Fermer l'Aperçu",
+    "BtnAcknowledging": "Acceptant",
+    "TextAddedSubjects": "Added subjects",
+    "TextInsuranceValidTo": "Insurance valid to",
+    "TextNumber": "No.",
+    "TextHecEmailNote": "Email de l'école: bureau du registraire ou bureau des étudiants internationaux ou des affaires estudiantines",
+    "TextPendingAppointment": "Pending Appointment",
+    "TextIdentityDocument": "Document d'identité",
+    "TextOtherBank": "Autre banque",
+    "TextAttachmentValidation": "Sorry, your photo is not a compliant passport photo",
+    "TextAttachmentLink": "Please check this article on our knowledge base for more details ",
+    "TextFetchingInfo": "Retrieving ID info",
+    "TextOutOfService": "Hors service temporairement",
+    "TextOutOfServiceMsg1": "We are experiencing a technical interruption. Please be patient with us while we work urgently to fix it.",
+    "TextOutOfServiceMsg2": "to see more updates as we work to resolve this issue.",
+    "TextAction": "Action",
+    "PSelectAction": "Select action",
+    "TextReasonForReplace": "Raison du remplacement",
+    "TextUpdateDeathRecord": "Mettre à jour le dossier de décès",
+    "TextDeathRecordUpdated": "You have successfully updated death record.",
+    "TextUnpaidtrafficFinesMsg": "Ce véhicule a des amendes non payées; il vous est demandé de les payer avant de demander un rendez-vous pour le contrôle technique. ",
+    "TextTrafficFinesPaymentMsg": "Vous pouvez payez votre contravention en utilisant le numéro du ticket par appellez le *909# ou par la plateforme ",
+    "TextLevels": "Level(s)",
+    "TextLinkBillIds": "Associer le code de facturation perdue",
+    "TextNoFines": "Aucune amende pour ce véhicule",
+    "TextVisaFreeMsg": "Vous n'êtes pas obligé de faire une demande de VISA en ligne: à votre arrivée à l'aéroport au Rwanda; vous pouvez obtenir un visa d'entrée gratuitement.",
+    "TextNoSpouseMessage": "Il vous manque le nom de votre conjoint de NIDA. Veuillez mettre à jour vos informations avant de continuer.",
+    "TextGetLinkedBillIds": "Get Linked bill IDs",
+    "TextMasterBillId": "Master Bill ID",
+    "TextLinkedBillId": "Linked Bill IDs",
+    "TextVisaInRwanda": "N.B. Pour les postulants qui se trouvent déjà au Rwanda: pour prolonger votre séjour au Rwanda, ne faites pas de demande de visa mais plutôt le «renouvellement de visa» ou «un permis». Merci.",
+    "TextDgieRefenreceNumber": "Numéro de référence issu de la DGIE",
+    "TextDgieHowToGetRefenreceNumber": "Veuillez contacter votre ambassade pour obtenir un numéro de référence",
+    "TextDocumentType": "Type de Document",
+    "TextPDocumentType": "Choisissez un Type de Document",
+    "TextNationalIdNumberLong": "Numéro de la Carte d'Identité National",
+    "TextPNationalIdNumberLong": "Saisissez le Numéro de la Carte d'Identité National",
+    "TextNIN": "NIN",
+    "TextPNIN": "Saisissez le NIN",
+    "TextOverdue": "Impayé",
+    "TextDeclarant": "Déclarant",
+    "TextDeclarantDetails": "Détails du déclarant",
+    "PEnterDescription": "Enter Description",
+    "TextPhone": "Numéro de téléphone",
+    "TextForeignPhoneNumber": "Les numéros de téléphone de l'étranger doivent inclure l'indicatif du pays -Ex : 01 555 5555 5555",
+    "TextEmbassySelection": "Si vous êtes à l'étranger, veuillez séléctionner l'Ambassade comme votre district et sélectionnez l'ambassade à laquelle vous appartenez comme secteur",
+    "TextPrimaryOwner": "I am primary Owner",
+    "TextFather": "Père",
+    "TextMother": "Mère",
+    "TextCreatePassword": "Créer un mot de passe",
+    "TextCreatePwdSubTitle": "Fournissez un mot de passe sécurisé que vous utiliserez pour vous connecter à votre compte",
+    "TextSuspendService": "Suspendre le service",
+    "TextServiceSuspensionMessageOne": "Vous êtes sur le point de suspendre le service",
+    "TextServiceSuspensionMessageTwo": "Fournissez un message pour l'utilisateur ci-dessous",
+    "TextMessageCharacterLimit": "Les messages doivent comporter moins de 150 caractères",
+    "TextConfirmSuspendService": "Voulez-vous vraiment suspendre ce service ?",
+    "TextConfirmSuspendServiceDetails": "La suspension d'un service est immédiatement répercutée sur le site d'IremboGov. Assurez-vous de faire ce qu'il faut!",
+    "TextEnterPassword": "Saisissez votre mot de passe pour continuer",
+    "TextSuspend": "Suspendre",
+    "TextResumeService": "Reprendre le service",
+    "TextConfirmResumeService": "Êtes-vous sûr de vouloir reprendre ce service?",
+    "TextConfirmResumeServiceDetails": "La reprise d'un service est immédiatement reflétée sur le site IremboGov.",
+    "TextResume": "Reprendre",
+    "TextSuccessSuspendTitle": "Service suspendu avec succès",
+    "TextSuccessSuspendDetailsOne": "Les éléments suivants sont suspendus pour ce service",
+    "TextSuccessSuspendDetailsTwo": "Vous pouvez modifier les messages de notification dans la section suspension de l'administrateur.",
+    "TextSuccessResumeTitle": "Le service a repris avec succès",
+    "TextSuccessResumeDetails": "Les citoyens peuvent désormais utiliser ce service sur la page d'accueil d'IremboGov.",
+    "TextSuspendApplications": "Suspendre les demandes pour ce service",
+    "TextSuspendOfficers": "Suspendre le traitement des agents pour ce service",
+    "TextOfficerProcessing": "Traitement des demandes des agents",
+    "TextUnavailable": "Indisponible",
+    "TextServiceSuspended": "Service suspendu",
+    "TextResumeApplications": "Reprendre les candidatures pour ce service",
+    "TextResumeOfficers": "Reprendre le traitement des demandes des agent pour ce service",
+    "TextSuspended": "Suspendu",
+    "TextAddressType": "Type d'adresse",
+    "TextPreviousWork": "Projets précédents",
+    "TextPreviousWorkSubtitle": "Travaux antérieurs sur le Rwanda",
+    "TextPreviousWorkParagraph": "Avez-vous déjà publié des travaux sur le Rwanda ?",
+    "TextPreviousWorkTitle": "Titre",
+    "TextPreviousWorkUrl": "URL",
+    "TextFirstTimeApplicant": "Première application?",
+    "TextCountryOfResidence": "Pays de résidence",
+    "TextEditorDetails": "Détails de l'éditeur",
+    "TextProjectDetails": "Détails du projet",
+    "TextProjectItinerary": "Itinéraire du projet",
+    "TextStayAndContactDetail": "Séjour: Détails de l'adresse et de la personne de contact au Rwanda",
+    "TextPreviousWorkSample": "Lien vers un exemple de travail précédent",
+    "PSelectAddressType": "Type d'adresse",
+    "TextDateOfDeparture": "Date de départ",
+    "TextAccomodationType": "Type d'hébergement",
+    "TextHotelName": "Name of hotel/guesthouse",
+    "TextAnotherLink": "Ajouter un autre lien",
+    "TextPProvisionalLicenseNumber": "Saisissez le numéro de licence provisoire",
+    "TextValidProvisionalLicenseNumber": "Permis de conduire provisoire valide",
+    "TextInvalidProvisionalLicenseNumber": "Permis de conduire provisoire invalide",
+    "TextTinOnLogbook": "Votre TIN est sur votre Carte Jaune",
+    "TextInstitutionEmail": "Email de l'établissement",
+    "PEnterInstitutionEmail": "Entrez Email de l'établissement",
+    "TextOtherTrade": "Other Trade",
+    "TextTradeName": "Trade Name",
+    "PSTradeName": "Select trade name",
+    "TextAddAnotherSubject": "Ajouter un autre sujet",
+    "TextSubmittedTrade": "Submitted Trade",
+    "TextSubjectTaken": "Sujets",
+    "TextPhoneForContact": "Numéro de téléphoné pour contacter",
+    "TextInvalidPhoneNumber": "Numéro de téléphone invalide",
+    "TextSpouseNationalId": "Spouse's national ID[FR]",
+    "TextFatherNationalId": "Father's national ID[FR]",
+    "TextMotherNationalId": "Mother's national ID[FR]",
+    "TextSpouseNames": "Spouse's names[FR]",
+    "TextApplicantOtherNationality": "Applicant's other nationality[FR]",
+    "TextHavePassport": "Do you have a passport?[FR]",
+    "TextDateOfIssue": "Date of issue[FR]",
+    "TextPlaceOfIssue": "Place of issue[FR]",
+    "TextAttachmentNidDiasporaMessage": "Allowed file formats are PDF, JPG and PNG. <br> For any of the following, if you wish to attach more than one document, include them in a single file.[FR]",
+    "TextAgeAbove": "Your Age must be Above 16[FR]",
+    "TextFatherSurname": "Father Surname",
+    "TextFatherPostname": "Father Postname",
+    "TextMotherSurname": "Mother Surname",
+    "TextMotherPostname": "Mother Postname",
+    "TextPayIn": "Payer en",
+    "TextPreviousCepglNumber": "Numéro CEPGL précédent",
+    "TextGuardianPassportNumber": "Numéro de passeport du tuteur",
+    "TextMotherPassportNumber": "Numéro de passeport de la mère ",
+    "TextFatherPassportNumber": "Numéro de passeport du père",
+    "TextParentPassportNumber": "Numéro de passeport des parent",
+    "TextUpdateMarriageRecord": "Mettre à jour l'acte de mariage",
+    "TextMarriageRecordUpdated": "Vous avez mis à jour avec succès le régime matrimonial de l'acte de mariage.",
+    "TextServicePayment": "Paiement des services",
+    "TextPaymentOptions": "Options de paiement",
+    "TextLoadingPayments": "Veuillez patienter pendant que nous chargeons les options de paiement",
+    "TextNinDescription": "Le NIN (Numéro d'Identification National) est délivré à un citoyen lorsqu'il est enregistré dans le système CRVS.",
+    "TextChildIdDescription": "Une carte d'identité d'enfant, officiellement connue sous le nom de numéro de demande de citoyen NPR, est le numéro qui identifie un citoyen Rwandais dans le Registre National de la Population. Il est requis pour une demande d'Identité Nationale.",
+    "TextDeceasedParentLastRecidenceDescription": "Si un parent est décédé, son dernier lieu de résidence peut être déclaré.",
+    "TextWitnessDescription": "Toute personne âgée de 18 ans et plus peut servir de témoin à l'acte de naissance, à condition qu'elle consent à servir de témoin. Les parents du demandeur ne peuvent se présenter comme témoins.",
+    "TextDeclarantDescription": "Un déclarant est celui qui déclare l'authenticité des informations données. Si le demandeur a 18 ans et plus, il peut déclarer son propre acte de naissance. Sinon, un parent, un membre de la famille ou une connaissance proche de 18 ans et plus peut servir de déclarant.",
+    "TextReasonForReplacement": "Raison du remplacement",
+    "TextNewCepglNotice": "En cas de renouvellement, de perte, de vol ou de détérioration de votre document de voyage CEPGL, ne faites pas de Nouvelle Demande. Sélectionnez respectivement les <b>services de renouvellement ou de remplacement.</b>",
+    "TextCepglReplacementNotice": "Si vous souhaitez renouveler un document de voyage CEPGL expiré, ne demandez pas de remplacement. Sélectionnez plutôt le service de <b>renouvellement CEPGL.</b>",
+    "TextCepglRenewalNotice": "En cas de perte, de vol ou de détérioration de votre document de voyage CEPGL, ne faites pas la demande de renouvellement. Sélectionnez plutôt le service de <b>remplacement CEPGL.</b>",
+    "TextDeclarantIsBelow18": "The Declarant is below 18 years old",
+    "TextWitnessIsBelow18": "The Witness is below 18 years old"
+  },
+  "httpErrorMessages": [
+    {
+      "name": "Demande incorrecte"
+    },
+    {
+      "name": "Vous n'êtes pas autorisé à accéder à ces informations"
+    },
+    {
+      "name": "Vous n'êtes pas autorisé à accéder à ces informations"
+    },
+    {
+      "name": "Il semble que ce que vous cherchez n'est pas disponible"
+    },
+    {
+      "name": "Problème avec le serveur veuillez revenir plus tard"
+    }
+  ],
+  "notaryApplicants": [
+    {
+      "name": "Rwandais"
+    },
+    {
+      "name": "Etranger"
+    },
+    {
+      "name": "Société"
+    },
+    {
+      "name": "Coopérative"
+    },
+    {
+      "name": "Eglise"
+    },
+    {
+      "name": "Institution Gouvernementale"
+    },
+    {
+      "name": "Association Professionnelle"
+    }
+  ],
+  "notaryApprovingLevel": [
+    {
+      "name": "District"
+    },
+    {
+      "name": "Secteur"
+    },
+    {
+      "name": "RDB"
+    },
+    {
+      "name": "MINIJUST"
+    },
+    {
+      "name": "RGB"
+    }
+  ],
+  "landEntityTypes": [
+    {
+      "name": "Rwandais"
+    },
+    {
+      "name": "Rwandais avec passeport"
+    },
+    {
+      "name": "Étrangère"
+    },
+    {
+      "name": "Eglise"
+    },
+    {
+      "name": "Société"
+    },
+    {
+      "name": "ONG"
+    },
+    {
+      "name": "Coopérative"
+    },
+    {
+      "name": "Association Professionnelle"
+    },
+    {
+      "name": "Autres"
+    }
+  ],
+  "deliveryModes": [
+    {
+      "name": "Retrait au MINIJUST"
+    },
+    {
+      "name": "Livré chez moi"
+    }
+  ],
+  "deliveryTypes": [
+    {
+      "name": "Pays d'Amérique et d'Asie"
+    },
+    {
+      "name": "Pays d'Europe"
+    },
+    {
+      "name": "Océanie"
+    },
+    {
+      "name": "Autres pays d'Afrique"
+    },
+    {
+      "name": "Pays limitrophes"
+    },
+    {
+      "name": "Dans Kigali"
+    },
+    {
+      "name": "En dehors de Kigali"
+    },
+    {
+      "name": "Rwanda"
+    }
+  ],
+  "publishingCategories": [
+    {
+      "name": "Soumission de la demande de changement de nom"
+    },
+    {
+      "name": "Confirmation du changement de nom"
+    },
+    {
+      "name": "ANC - Coopératives"
+    },
+    {
+      "name": "RGB - ONG et orgaisations Confessionelles"
+    },
+    {
+      "name": "Autres"
+    }
+  ],
+  "requestTypes": [
+    {
+      "name": "Changement de nom"
+    },
+    {
+      "name": "Personnalité juridique"
+    },
+    {
+      "name": "Autres"
+    }
+  ],
+  "organizationCategories": [
+    {
+      "name": "Coopérative"
+    },
+    {
+      "name": "NGO"
+    },
+    {
+      "name": "FBO"
+    }
+  ],
+  "drivingTestTypes": [
+    {
+      "name": "En ligne"
+    },
+    {
+      "name": "Sur papier"
+    }
+  ],
+  "visitTypes": [
+    {
+      "name": "Première visite"
+    },
+    {
+      "name": "Deuxième visite"
+    }
+  ],
+  "drivingLicenseTypes": [
+    {
+      "name": "Permis de l'Etranger"
+    },
+    {
+      "name": "Permis du Rwanda"
+    }
+  ],
+  "sortTypes": [
+    {
+      "name": "Descendant"
+    },
+    {
+      "name": "Ascendant"
+    }
+  ],
+  "certificateVerificationTexts": [
+    {
+      "name": "Nom"
+    },
+    {
+      "name": "Date de naissance"
+    },
+    {
+      "name": "Numéro de réference"
+    },
+    {
+      "name": "Délivrée le"
+    },
+    {
+      "name": "Valide à partir de"
+    },
+    {
+      "name": "Signé par"
+    },
+    {
+      "name": "Nous ne semblons pas avoir d’application liée à cet e-certificat. Seuls les certificats électroniques générés pour les applications traitées sur IremboGov sont valides.</br></br>Revérifiez la source du document et réessayez ou demandez un nouveau certificat électronique."
+    },
+    {
+      "name": "Nous ne semblons pas avoir d’application approuvée liée à cet e-certificat. Seuls les certificats électroniques générés pour les applications approuvée traitées sur IremboGov sont valides.</br></br>Revérifiez la source du document et réessayez ou demandez un nouveau certificat électronique."
+    }
+  ],
+  "systemInfo": {
+    "legalInformationSummary": "Irembo s'engage à respecter le caractère privé et la sécurité de vos données. Nous avons développé une politique de confidentialité et des conditions d'utilisation de nos services qui conviennent à nos utilisateurs.",
+    "termOfUseTitle": "Conditions d'utilisation",
+    "termsOfUse": "BIENVENUE. Merci de visiter <b>Irembo</b> le portail e-gov (le \"portail\"). Comme c'est le cas pour de nombreux autres sites Web, ce portail contient des règles qui s'appliquent à votre utilisation et à tous les services disponibles via ce portail. Ces règles, appelées \"conditions d'utilisation\" sont énoncées dans les présentes conditions d'utilisation. En utilisant ce portail, vous acceptez de vous conformer et d'être lié par les conditions d'utilisation suivantes. Veuillez les examiner attentivement. Si vous n'êtes pas d'accord avec l'une de ces conditions d'utilisation, veuillez ne pas utiliser ce portail.<br/><br/><b>A qui appartient ce portail et comment fonctionne-t-il?</b><br/><br/>Ce portail fonctionne comme un système de traitement électronique en temps réel pour le processus de demande de services entre les Autorités Gouvernementales et les Utilisateurs. Cette interface transactionnelle est conçue et gérée par Irembo Ltd., une société privée sous contrat de concession avec le Gouvernement du Rwanda, d’une durée de 25 ans.<br/><br/>Il incombe au Gouvernement et à chaque Institution Gouvernementale participante d’élaborer et de gérer les pages Web d’information, les backends, ainsi que de fournir à Irembo les informations initiales et actualisées nécessaires lors de la fourniture des services aux utilisateurs.<br/><br/><b>Marques Déposées</b><br/><br/>Irembo et son logo sont des marques déposées d’Irembo Ltd. et ils seront transférés au Gouvernement à la fin du contrat.<br/><br/><b>Inscription</b><br/><br/>Vous devrez peut-être vous inscrire sur le compte du portail Irembo pour accéder à certains des services en ligne. Cependant, vous n’êtes pas obligé de vous inscrire si vous utilisez notre système USSD *909#.<br/><br/><b>Responsabilité de l’Utilisateur</b><br/><br/>Vous devez utiliser <a href=\"www.irembo.gov.rw\">www.irembo.gov.rw</a> et votre compte uniquement à des fins licites et d'une manière qui ne porte pas atteinte aux droits de, ni ne restreint ou n'empêche l'utilisation et la jouissance du site Web par des tiers.<br/><br/><b>Droit de procéder à des changements</b><br/><br/>Irembo peut réviser cette Politique de Confidentialité de temps à autre et quand un tel changement est effectué, nous publierons une version révisée sur ce site Web. Veuillez noter que les modifications entrent en vigueur dès leur publication et qu'il vous incombe de lire la Politique de Confidentialité de temps à autre afin de vous tenir au courant de ces modifications. A notre seule discrétion, et si vous êtes un utilisateur enregistré, nous pouvons vous en informer par courrier électronique associé à votre compte ou par SMS.<br/><br/>Si vous continuez d'accéder ou d'utiliser la plateforme après l'entrée en vigueur de ces modifications, vous acceptez d'être lié par la Politique de Confidentialité révisée.<br/><br/><b>Conformité à la Réglementation</b><br/><br/>La plateforme Irembo révise régulièrement la conformité de sa Politique de Confidentialité avec la réglementation. Elle adhère également à plusieurs cadres d'auto-régulation. Elle travaille avec les agences de régulation appropriées pour résoudre les plaintes en rapport avec les données personnelles qu'elle ne peut pas résoudre directement avec ses utilisateurs.<br/><br/>",
+    "disclaimerTitle": "Clause de non-responsabilité",
+    "disclaimer": "<b>Avis aux utilisateurs publics</b><br/><br/>Tous les utilisateurs sont priés de lire les avis suivants avant d'utiliser ce portail afin de bien comprendre les limites du contenu et la portée des responsabilités d'Irembo en rapport avec toutes les dispositions énoncées ci-après.<br/><br/><b>Clause Générale de non-responsabilité</b><br/><br/>Bien qu'Irembo ait fait tous les efforts raisonnables pour s'assurer que le contenu de ce portail provient de sources fiables, Irembo n'est pas responsable des erreurs ou des omissions ni des résultats obtenus ou des conséquences découlant de l'utilisation de ces contenus.<br/><br/><b>Clause de non-responsabilité avec d’autres liens</b><br/><br/>Le portail est connecté à des systèmes de gestion gérés par d'autres Ministères et Institutions  gouvernementales du Rwanda qui ne sont pas sous le contrôle d'Irembo. Nous n'avons aucun contrôle sur la nature, le contenu et la disponibilité de ces systèmes.<br/><br/>Les liens avec d’autres systèmes sont insérés uniquement à des fins d’accessibilité et ne constituent en aucun cas une approbation du contenu des sites web connectés.<br/><br/><b>Paiement</b><br/><br/>Les paiements des services peuvent d’ores et déjà être effectués par différents modes de paiement, tels que paiement par téléphone mobile,  cartes de débit/crédit et mVisa dans nos banques agréées. La Passerelle de paiement / le service bancaire en ligne vous est offert afin de faciliter l’accès au paiement à distance de vos services. En aucune manière, Irembo ne fait de représentation de quelque nature que ce soit, explicite ou implicite, par rapport au fonctionnement de la passerelle de paiement. Vous êtes bien d’accord que l’utilisation de ce service de paiement en ligne relève de votre entière responsabilité, avec votre banquier.<br/><br/>Les détails des cartes de débit/crédit que vous fournissez pour l’utilisation de la passerelle de paiement/services bancaires en ligne doivent être corrects et exacts et vous ne pouvez pas utiliser une carte de débit/crédit/service bancaire en ligne qui ne vous appartiennent pas légalement.<br/><br/>Si vous utilisez nos services pour le paiement, le portail conservera les fichiers log en relation avec un service indiquant le postulant, quand, combien et comment vous avez payé, mais ne conservera pas le numéro d'identification personnel (PIN) ni les mots de passe utilisés par le payeur ainsi que d’autres données personnelles utilisées pour la vérification de l’identité du payeur sur la plateforme,  toute base de données et serveurs ou dispositifs de stockage associés, sans l’autorisation écrite expresse de l’utilisateur.<br/><br/><b>Remboursement</b><br/><br/>Si Irembo reçoit une demande de remboursement valide d’un utilisateur en rapport avec le service (ou le remboursement est dû à un utilisateur conformément à la réglementation en vigueur), il procédera sans tarder au remboursement de ces frais.<br/><br/>Dans les limites autorisées par la loi, pour toute réclamation en vertu de ces conditions, l’entière responsabilité d’Irembo et ses sous-traitants, y compris pour toute garantie implicite, est limitée au montant que vous avez payé pour avoir le service en ligne  (ou bien pour vous donner les services de nouveau).<br/><br/><b>Tiers et Affiliés</b><br/><br/>Irembo a recours à divers fournisseurs de services tiers qui lui permettent de fournir ses services, tels que : agents, fournisseurs de services internet, et banquiers. Le bénéficiaire ne doit pas payer des frais supplémentaires pour demander en ligne un service disponible sur cette plateforme à part les frais fixés et qui sont affichés sur la plateforme, et Irembo ne sera pas tenu responsable de toute mauvaise utilisation, perte ou dommage spécial, consécutif, exemplaire ou punitif, résultant ou en rapport avec nos tiers. La présente limitation de responsabilité est exhaustive et s’applique à tous les dommages de toute nature, y compris (mais sans limitation) aux dommages compensatoires, directs, indirects ou consécutifs, perte de données, de revenu ou de profit, perte ou dommage aux biens et réclamations des tiers.<br/><br/><b>Protection contre les virus</b><br/><br/>Irembo met tout en œuvre pour vérifier et tester le matériel à toutes les phases de développement de la plateforme en ligne du Gouvernement. Nous conseillons aux utilisateurs de toujours appliquer un programme anti-virus sur tout le matériel téléchargé à partir d’Internet.<br/><br/>Irembo décline toute responsabilité en cas de perte, interruption ou dommage subi par vos données ou votre système d’ordinateur lors de l’utilisation du matériel de ce site web et des autres sites web du Gouvernement.<br/><br/>Nous prenons des précautions pour maintenir la sécurité, la confidentialité et l'intégrité des informations que nous recueillons sur ce site. Ces mesures comprennent des contrôles d'accès conçus pour limiter l'accès à l'information dans la mesure nécessaire pour accomplir notre mission.<br/><br/>Nous utilisons également diverses technologies de sécurité pour protéger les informations stockées sur nos systèmes.<br/><br/><b>Droit Applicable</b><br/><br/>Les présentes conditions ainsi que toutes les obligations non-contractuelles découlant ou en rapport avec elles sont régies et doivent être interprétées conformément à la législation Rwandaise. Tout différend relatif à ou découlant de ces conditions et toutes les obligations non contractuelles découlant de ou en relation avec elles, seront soumis à la compétence exclusive des tribunaux Rwandais.<br/><br/>",
+    "privacyStatementTitle": "Politique de confidentialité",
+    "privacyStatement": "<b>Données Privées</b><br/><br/>L’objectif de cette politique est de vous informer sur la manière dont nous utilisons et protégeons les données personnelles identifiables qui sont recueillies à partir de l'utilisateur de la plate-forme \"Irembo\". Aux fins de cette politique, ces données sont appelées \"données privées\" et ceci se conforme à la Constitution de la République du Rwanda de 2015, telle que modifiée à ce jour (dans son art.23) qui protège les données personnelles privées.<br/><br/>Le Portail des services en ligne e-Government ne peut pas être utilisé de manière anonyme. Cependant, aucune donnée personnelle ne peut être recueillie sauf si vous décidez de les fournir volontairement.<br/><br/><b>Utilisation des données recueillies</b><br/><br/>Comme règle générale, nous ne recueillons pas vos données personnelles lorsque vous visitez notre site Web Irembo, à moins que vous n’optiez de nous les fournir. L’envoi de vos données personnelles via notre site web est volontaire. En le faisant, vous nous autorisez à les utiliser pour obtenir les services que vous avez demandés.<br/><br/>Nous recueillons les données personnelles afin de vous fournir les services que vous demandez, y compris les services des fournisseurs tiers. Nous pouvons partager ces données avec les Ministères et les Institutions gouvernementales dans le cadre de leurs responsabilités professionnelles et/ou dans le but de vous fournir les services demandés.<br/><br/>Fournir des informations inexactes ou fausses via <a href=\"www.irembo.gov.rw\">www.irembo.gov.rw</a> sera traité de la même manière que si ces informations étaient fournies sur un formulaire ou en personne ce qui pourrait entraîner un refus de vous fournir notre service, des poursuites judiciaires ou des sanctions pénales.<br/><br/>Irembo ne vend ni ne partage sur son site aucune donnée permettant l’identification personnelle avec des tiers (publics ou privés).<br/><br/>Toute information fournie sur www.irembo.gov.rw sera protégée contre le vol, l’utilisation frauduleuse, l’accès non-autorisé ou la diffusion, l’altération ou la destruction.<br/><br/><b>Gestion des Cookies</b><br/><br/>Les \"cookies\" sont des informations générées par un serveur web et stockées dans l'ordinateur de l'utilisateur, prêtes pour un accès futur. Les cookies font usage des données spécifiques de l'utilisateur transmises par le serveur Web sur son ordinateur de sorte que ces données peuvent être disponibles pour un accès ultérieur soit par ce serveur ou par d'autres serveurs. Le portail web n’utilise pas les cookies pour identifier les utilisateurs.<br/><br/>Un cookie peut être étiqueté comme \"sécurisé\", ce qui assure qu’il est uniquement utilisé pour des sessions techniquement appelées SSL. Si « sécurisé » n’est pas spécifié, le cookie sera envoyé décrypté sur les réseaux non SSL. Les cookies sensibles tels que les jetons des sessions devraient être marqués comme sécurisés si toutes les pages du site web qui demandent des jetons de sessions suivent le protocole SSL. En général, vous devriez retenir que les images ne sont pas téléchargées dans le cadre de SSL et elles n’exigent pas la présentation de jetons de session. Pour établir la sécurité du cookie, nous nous assurons que le navigateur n’envoie pas de cookie pendant le téléchargement de l’image sur un réseau non SSL.<br/><br/>Cette plateforme n’installe pas des cookies d'authentification ou des cookies similaires sur le périphérique de l'utilisateur qui pourraient identifier ses coordonnées bancaires sans son autorisation écrite expresse. <br/><br/>Si la plateforme vous demande de fournir des données personnelles, vous serez informé des fins particulières pour lesquelles ces données sont recueillies, utilisées et / ou diffusées. Aucune donnée personnelle recueillie ne sera conservée plus longtemps que nécessaire, et elle sera supprimée une fois que l'exigence de feedback est satisfaite. Des mesures de sécurité adéquates ont été prises pour prévenir la perte, l'usage abusif et / ou l’altération de vos données personnelles.<br/><br/><b>Comment nous contacter en cas de questions</b><br/><br/>Irembo Ltd.<br/>Kigali, Gasabo<br/>Tel: (+250)782003600<br/><a href=\"mailto:info@irembo.com\">info@irembo.com</a><br/>Ligne directe de la Centrale d'Appel<br/>9099<br/>Du Lundi au Vendredi de 7h à 19h<br/>Heure de l’Afrique Centrale<br/>Samedi et Dimanche de 10h à 15h<br/><br/>"
+  },
+  "officerLevels": [
+    {
+      "name": "Niveau 1"
+    },
+    {
+      "name": "Niveau 2"
+    },
+    {
+      "name": "Niveau 3"
+    },
+    {
+      "name": "Niveau 4"
+    },
+    {
+      "name": "Niveau 5"
+    }
+  ],
+  "educationBackground": [
+    {
+      "name": "Primaire"
+    },
+    {
+      "name": "Secondaire"
+    },
+    {
+      "name": "Licence"
+    },
+    {
+      "name": "Maîtrise"
+    },
+    {
+      "name": "Doctorat"
+    },
+    {
+      "name": "Certificat"
+    },
+    {
+      "name": "Certificat d'Etudes Eupérieures"
+    },
+    {
+      "name": "Diplôme d'Etudes Supérieures"
+    },
+    {
+      "name": "Diplôme"
+    },
+    {
+      "name": "Diplôme d'Etudes Avancée"
+    },
+    {
+      "name": "Autre"
+    }
+  ],
+  "studyMode": [
+    {
+      "name": "A plein temps"
+    },
+    {
+      "name": "A temps partiel"
+    },
+    {
+      "name": "Correspondance"
+    },
+    {
+      "name": "Autre"
+    }
+  ],
+  "metadataApplicationLevels": [
+    {
+      "name": "New Application"
+    },
+    {
+      "name": "Confirmation"
+    }
+  ],
+  "allowedServiceApplicants": [
+    {
+      "name": "Citoyen rwandais"
+    },
+    {
+      "name": "Rwandais vivant à l'étranger"
+    },
+    {
+      "name": "Étranger vivant / vécu au Rwanda"
+    },
+    {
+      "name": "Étranger ne vivant pas / pas vécu au Rwanda"
+    },
+    {
+      "name": "Réfugié(e)"
+    }
+  ],
+  "changeOfNameCategories": [
+    {
+      "name": "Ajout d'un nom"
+    },
+    {
+      "name": "Supprimer un nom"
+    },
+    {
+      "name": "Remplacement d'un nom"
+    }
+  ],
+  "landUses": [
+    {
+      "name": "Résidentiel"
+    },
+    {
+      "name": "Commercial"
+    },
+    {
+      "name": "Industriel"
+    },
+    {
+      "name": "Touristique"
+    },
+    {
+      "name": "Scientifique"
+    },
+    {
+      "name": "Social"
+    },
+    {
+      "name": "Economique"
+    },
+    {
+      "name": "Agriculture"
+    },
+    {
+      "name": "Forêts"
+    },
+    {
+      "name": "Elevage"
+    },
+    {
+      "name": "Pêche"
+    },
+    {
+      "name": "Administration"
+    }
+  ],
+  "landAddRemoveActions": [
+    {
+      "name": "Ajoutez le propriétaire du terrain"
+    },
+    {
+      "name": "Supprimez le propriétaire du terrain"
+    }
+  ],
+  "minorCategories": [
+    {
+      "name": "Mineur vivant avec des tuteurs (orphelin)"
+    },
+    {
+      "name": "Mineur vivant avec des tuteurs (parents en vie)"
+    },
+    {
+      "name": "Vivant avec les deux parents (légalement mariés)"
+    },
+    {
+      "name": "Vivant avec un parent divorcé"
+    },
+    {
+      "name": "Vivant avec un seul parent (cas de décès)"
+    },
+    {
+      "name": "Mineur vivant avec un seul parent (père)"
+    },
+    {
+      "name": "Mineur vivant avec un seul parent (mère)"
+    },
+    {
+      "name": "Mineur vivant avec un seul parent"
+    }
+  ],
+  "passportTypes": [
+    {
+      "name": "Ordinaire"
+    },
+    {
+      "name": "Service"
+    },
+    {
+      "name": "Diplomatique"
+    }
+  ],
+  "dgieCitizenship": [
+    {
+      "name": "Obtention de la nationalité à la naissance"
+    },
+    {
+      "name": "Obtention de la nationalité par le mariage"
+    },
+    {
+      "name": "Obtention de la nationalité par naturalisation"
+    },
+    {
+      "name": "Renonciation à la nationalité"
+    },
+    {
+      "name": "Inscription pour la demande de nationalité"
+    },
+    {
+      "name": "Prestation de serment pour la nationalité"
+    }
+  ],
+  "museumNames": [
+    {
+      "name": "Musée d' Arts du Rwanda / Kigali - Kanombe"
+    },
+    {
+      "name": "Musée de la Libération Nationale / Gicumbi - Mulindi"
+    },
+    {
+      "name": "Musée Ethnographique / Huye"
+    },
+    {
+      "name": "Musée de l'environnement / Karongi"
+    },
+    {
+      "name": "Musée du Palais Royal / Nyanza - Rukari"
+    },
+    {
+      "name": "Musée Kwigira / Nyanza - Rwesero"
+    },
+    {
+      "name": "Musée Kandt / Kigali - Nyarugenge"
+    },
+    {
+      "name": "Musée de la campagne de lutte contre le génocide / Kigali (Parliament)"
+    }
+  ],
+  "visitorCategories": [
+    {
+      "name": "Citoyens Rwandais"
+    },
+    {
+      "name": "Citoyen EAC"
+    },
+    {
+      "name": "Résident EAC"
+    },
+    {
+      "name": "Citoyen CEPGL"
+    },
+    {
+      "name": "Étranger résident au Rwanda"
+    },
+    {
+      "name": "Visiteur international"
+    }
+  ],
+  "dgieApplicants": [
+    {
+      "name": "Au-dessus de 18 ans"
+    },
+    {
+      "name": "Moins de 18 ans"
+    }
+  ],
+  "travelDestination": [
+    {
+      "name": "Affaires"
+    },
+    {
+      "name": "Conférence"
+    },
+    {
+      "name": "Education"
+    },
+    {
+      "name": "Vacances"
+    },
+    {
+      "name": "Assistance Médicale"
+    },
+    {
+      "name": "Mission officielle"
+    },
+    {
+      "name": "Religieux"
+    },
+    {
+      "name": "Visite des amis"
+    },
+    {
+      "name": "Travail"
+    },
+    {
+      "name": "Retour à la maison"
+    },
+    {
+      "name": "Enterrement"
+    },
+    {
+      "name": "Concours scolaire"
+    },
+    {
+      "name": "Déporté"
+    },
+    {
+      "name": "Conduite"
+    },
+    {
+      "name": "Formation"
+    },
+    {
+      "name": "Tourisme"
+    },
+    {
+      "name": "Mariage"
+    },
+    {
+      "name": "Autre"
+    }
+  ],
+  "passportValidity": [
+    {
+      "name": "2 ans"
+    },
+    {
+      "name": "5 ans"
+    },
+    {
+      "name": "10 ans"
+    }
+  ],
+  "visitorTypes": [
+    {
+      "name": "Adulte"
+    },
+    {
+      "name": "Étudiant(e)"
+    },
+    {
+      "name": "Enfant"
+    },
+    {
+      "name": "Enfants de moins de 6 ans"
+    },
+    {
+      "name": "Groupe"
+    }
+  ],
+  "dgieCollectionTypes": [
+    {
+      "name": "Siège de DGIE"
+    },
+    {
+      "name": "Siège du District de Résidence"
+    },
+    {
+      "name": "Pays de résidence"
+    },
+    {
+      "name": "DGIE RDB Office"
+    }
+  ],
+  "travelDocuments": [
+    {
+      "name": "Passeport Ordinaire"
+    },
+    {
+      "name": "Passeport de Service"
+    },
+    {
+      "name": "Passeport Diplomatique"
+    },
+    {
+      "name": "Document de Refugié"
+    },
+    {
+      "name": "Passeport spécial"
+    },
+    {
+      "name": "UN Laissez-Passez"
+    },
+    {
+      "name": "Autre"
+    }
+  ],
+  "desiredDocuments": [
+    {
+      "name": "Document de Voyage d'urgence pour les Etrangers"
+    },
+    {
+      "name": "Document de voyage conventionnel pour réfugié lisible par une machine"
+    }
+  ],
+  "visaVisitPurpose": [
+    {
+      "name": "Vacances - Entrée unique"
+    },
+    {
+      "name": "Vacances - Plusieurs entrées"
+    },
+    {
+      "name": "Famille - Entrée unique"
+    },
+    {
+      "name": "Famille - Plusieurs entrées"
+    },
+    {
+      "name": "Tourisme"
+    },
+    {
+      "name": "Visite des amis ou des membres de la famille"
+    },
+    {
+      "name": "Conférence"
+    },
+    {
+      "name": "Mission officielle"
+    },
+    {
+      "name": "Visa de transit"
+    },
+    {
+      "name": "Autre"
+    }
+  ],
+  "clusterOfIntervention": [
+    {
+      "name": "Émancipation économique"
+    },
+    {
+      "name": "Gouvernance et Justice"
+    },
+    {
+      "name": "Affaires sociales"
+    }
+  ],
+  "governanceSystem": [
+    {
+      "name": "Congrégationaliste"
+    },
+    {
+      "name": "Synode épiscopal"
+    },
+    {
+      "name": "Synode"
+    },
+    {
+      "name": "Autre"
+    }
+  ],
+  "denomination": [
+    {
+      "name": "Adventiste"
+    },
+    {
+      "name": "Anglican"
+    },
+    {
+      "name": "Apôtre"
+    },
+    {
+      "name": "Baptiste"
+    },
+    {
+      "name": "Église du Renouveau"
+    },
+    {
+      "name": "Catholique"
+    },
+    {
+      "name": "Méthodiste"
+    },
+    {
+      "name": "Pentecôte"
+    },
+    {
+      "name": "Présbytérien"
+    },
+    {
+      "name": "Communauté des Musulmans du Rwanda"
+    },
+    {
+      "name": "Autre"
+    }
+  ],
+  "representativeTitle": [
+    {
+      "name": "Évêque"
+    },
+    {
+      "name": "Apôtre"
+    },
+    {
+      "name": "Archevêque"
+    },
+    {
+      "name": "Frère"
+    },
+    {
+      "name": "Cardinal"
+    },
+    {
+      "name": "Évangéliste"
+    },
+    {
+      "name": "Père"
+    },
+    {
+      "name": "Pasteur"
+    },
+    {
+      "name": "Révérend"
+    },
+    {
+      "name": "Cheik"
+    },
+    {
+      "name": "Sœur"
+    },
+    {
+      "name": "Autre"
+    }
+  ],
+  "meetingFrequency": [
+    {
+      "name": "Annuel"
+    },
+    {
+      "name": "Bimensuel"
+    },
+    {
+      "name": "Bi-trimestriel"
+    },
+    {
+      "name": "Bi-hebdomadaire"
+    },
+    {
+      "name": "Semestriel"
+    },
+    {
+      "name": "Fréquence"
+    },
+    {
+      "name": "Mensuel"
+    },
+    {
+      "name": "Trimestriel"
+    },
+    {
+      "name": "Hebdomadaire"
+    }
+  ],
+  "dgieRelationship": [
+    {
+      "name": "Tante"
+    },
+    {
+      "name": "Petit ami"
+    },
+    {
+      "name": "Frère"
+    },
+    {
+      "name": "Beau-frère"
+    },
+    {
+      "name": "Cousin"
+    },
+    {
+      "name": "Fille"
+    },
+    {
+      "name": "Belle-fille"
+    },
+    {
+      "name": "Beau-père"
+    },
+    {
+      "name": "Beau-père"
+    },
+    {
+      "name": "Petite amie"
+    },
+    {
+      "name": "Petite fille"
+    },
+    {
+      "name": "Grand-père"
+    },
+    {
+      "name": "Grand-mère"
+    },
+    {
+      "name": "Petit-fils"
+    },
+    {
+      "name": "Mari"
+    },
+    {
+      "name": "Mère"
+    },
+    {
+      "name": "Belle-mère"
+    },
+    {
+      "name": "Neveu"
+    },
+    {
+      "name": "Nièce"
+    },
+    {
+      "name": "Soeur"
+    },
+    {
+      "name": "Belle-soeur"
+    },
+    {
+      "name": "Fils"
+    },
+    {
+      "name": "Beau-fils"
+    },
+    {
+      "name": "Demi-frère"
+    },
+    {
+      "name": "Belle-fille"
+    },
+    {
+      "name": "Beau-père"
+    },
+    {
+      "name": "Belle-mère"
+    },
+    {
+      "name": "Demi-soeur"
+    },
+    {
+      "name": "Beau-fils"
+    },
+    {
+      "name": "Oncle"
+    },
+    {
+      "name": "Femme"
+    }
+  ],
+  "nppaCollectionChoices": [
+    {
+      "name": "Bureau MAJ"
+    },
+    {
+      "name": "Bureau NPPA"
+    },
+    {
+      "name": "Aucun"
+    }
+  ],
+  "visaTypes": [
+    {
+      "name": "V1 - Vacances (Entrée unique)"
+    },
+    {
+      "name": "V1 - Vacances (Entrées multiples)"
+    },
+    {
+      "name": "V2 - Famille Eentrée unique)"
+    },
+    {
+      "name": "V2 - Famille (Entrées multiples)"
+    },
+    {
+      "name": "V3-2 Diplomate basé dans un pays voisin mais ayant compétence pour couvrir le Rwanda"
+    },
+    {
+      "name": "V5 - Visa de conférence"
+    },
+    {
+      "name": "V7 - Traitement médical"
+    },
+    {
+      "name": "V8 - Tourisme de groupe"
+    },
+    {
+      "name": "V11 - Visa d'Afrique de l'Est"
+    },
+    {
+      "name": "VT - Visa de Transit"
+    },
+    {
+      "name": "V3-1 Official visit"
+    },
+    {
+      "name": "V5 - Visa de conférence (Entrées multiples)"
+    }
+  ],
+  "documentTypes": [
+    {
+      "name": "No de la Carte d'Identité"
+    },
+    {
+      "name": "No du Dossier"
+    },
+    {
+      "name": "No Document"
+    }
+  ],
+  "billIDActionTypes": [
+    {
+      "name": "Annuler"
+    },
+    {
+      "name": "Pas annulé"
+    }
+  ],
+  "requestStatus": [
+    {
+      "name": "Envoyé"
+    },
+    {
+      "name": "En attente"
+    },
+    {
+      "name": "Echoué"
+    }
+  ]
+}

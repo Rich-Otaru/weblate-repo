@@ -1,0 +1,5007 @@
+{
+  "userAvailabilityTypes": [
+    {
+      "name": "Ababyeyi ntibiyandikishije"
+    },
+    {
+      "name": "Umutangabuhamya ntahari"
+    },
+    {
+      "name": "Nta ndangamuntu iboneka"
+    }
+  ],
+  "trafficFineRetrievalOptions": [
+    {
+      "name": "Nomero ya Pulaki"
+    },
+    {
+      "name": "Nomero ya Tike"
+    }
+  ],
+  "operationalErea": [
+    {
+      "name": "Umujyi wa Kigali"
+    },
+    {
+      "name": "Intara"
+    }
+  ],
+  "organizationTypes": [
+    {
+      "name": "Sosiyete"
+    },
+    {
+      "name": "Koperative"
+    }
+  ],
+  "insurances": [
+    {
+      "name": "BK Insurance"
+    },
+    {
+      "name": "Prime"
+    },
+    {
+      "name": "Radiant"
+    },
+    {
+      "name": "Sanlam"
+    },
+    {
+      "name": "Sonarwa"
+    },
+    {
+      "name": "UAP Insurance"
+    },
+    {
+      "name": "MUA Insurance"
+    }
+  ],
+  "reasonForRequest": [
+    {
+      "name": "Igihombo"
+    },
+    {
+      "name": "Ubujura"
+    },
+    {
+      "name": "Ibyangiritse"
+    }
+  ],
+  "authorizationTypes": [
+    {
+      "name": "Company / Cooperative"
+    },
+    {
+      "name": "Individual"
+    }
+  ],
+  "educationLevels": [
+    {
+      "name": "Icyiciro cy'abanza"
+    },
+    {
+      "name": "Icyiciro Rusange"
+    },
+    {
+      "name": "Icyiciro cyisumbyuye"
+    }
+  ],
+  "identificationDocument": [
+    {
+      "name": "Inyandiko y'ivuka"
+    },
+    {
+      "name": "Izindi nyandiko"
+    }
+  ],
+  "correctionReasons": [
+    {
+      "name": "Itariki y'amavuko"
+    },
+    {
+      "name": "Igitsina"
+    },
+    {
+      "name": "Amazina"
+    },
+    {
+      "name": "Ifoto"
+    }
+  ],
+  "civilStatuses": [
+    {
+      "status": "Arubatse"
+    },
+    {
+      "status": "Ingaragu"
+    },
+    {
+      "status": "Uwatandukanye nuwo bashakanye"
+    },
+    {
+      "status": "Umupfakazi w'umogore"
+    },
+    {
+      "status": "Umupfakazi w'umugabo"
+    }
+  ],
+  "gender": [
+    {
+      "name": "Gabo"
+    },
+    {
+      "name": "Gore"
+    }
+  ],
+  "relationship": [
+    {
+      "name": "Umwana"
+    },
+    {
+      "name": "Umubyeyi"
+    },
+    {
+      "name": "Uwo mwashakanye"
+    },
+    {
+      "name": "Ibindi"
+    }
+  ],
+  "marriagePlace": [
+    {
+      "name": "Rwanda"
+    },
+    {
+      "name": "Ikindi gihugu"
+    }
+  ],
+  "idtypes": [
+    {
+      "name": "Nomero y'Indangamuntu"
+    },
+    {
+      "name": "Nomero ya Pasiporo"
+    }
+  ],
+  "citizenship": [
+    {
+      "name": "Umunyarwanda"
+    },
+    {
+      "name": "Umunyamahanga"
+    }
+  ],
+  "citizenshipAndRefugee": [
+    {
+      "name": "Umunyarwanda"
+    },
+    {
+      "name": "Umunyamahanga"
+    },
+    {
+      "name": "Impunzi"
+    }
+  ],
+  "citizenshipAndForeignerAndRefugee": [
+    {
+      "name": "Umunyarwanda"
+    },
+    {
+      "name": "Umunyamahanga"
+    },
+    {
+      "name": "Umunyamahanga ufite Indangamuntu"
+    },
+    {
+      "name": "Impunzi"
+    }
+  ],
+  "crvsDocumentType": [
+    {
+      "name": "Nomero y'Indangamuntu"
+    },
+    {
+      "name": "Nomero y'Ifishi y'Umwenegihugu"
+    },
+    {
+      "name": "NIN"
+    }
+  ],
+  "rwandanAndRefugee": [
+    {
+      "name": "Umunyarwanda"
+    },
+    {
+      "name": "Impunzi"
+    }
+  ],
+  "filter": [
+    {
+      "name": "Buri kwezi"
+    },
+    {
+      "name": "Buri mwaka"
+    },
+    {
+      "name": "Buri munsi"
+    },
+    {
+      "name": "Byose"
+    }
+  ],
+  "yesorno": [
+    {
+      "name": "Yego"
+    },
+    {
+      "name": "Oya"
+    }
+  ],
+  "paymentMethod": [
+    {
+      "name": "Cash"
+    },
+    {
+      "name": "Card (POS)"
+    }
+  ],
+  "actionType": [
+    {
+      "name": "Add"
+    },
+    {
+      "name": "Remove"
+    }
+  ],
+  "reportDataType": [
+    {
+      "name": "Umwirondoro"
+    },
+    {
+      "name": "Kubara"
+    }
+  ],
+  "reportType": [
+    {
+      "name": "Zose"
+    },
+    {
+      "name": "Raporo y'Ushinzwe Ubutaka ku Murenge"
+    },
+    {
+      "name": "Raporo yerekana ho dosiye igeze"
+    }
+  ],
+  "applicants": [
+    {
+      "name": "Umunyarwanda"
+    },
+    {
+      "name": "Umunyamahanga"
+    },
+    {
+      "name": "Umunyarwanda uba mu Mahanga"
+    }
+  ],
+  "slaReport": [
+    {
+      "name": "Zose"
+    },
+    {
+      "name": "Mu bigo by'Ubutaka byo mu Mirenge"
+    },
+    {
+      "name": "Ahandi hatari mu bigo by'Ubutaka byo mu Mirenge"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Ikinyarwanda"
+    },
+    {
+      "name": "Icyongereza"
+    },
+    {
+      "name": "Igifaransa"
+    }
+  ],
+  "matrimonialRegimeOptions": [
+    {
+      "name": "Ivangamutungo rusange"
+    },
+    {
+      "name": "Ivangamutungo w'umuhahano"
+    },
+    {
+      "name": "Ivanguramutungo risesuye"
+    }
+  ],
+  "searchOptions": [
+    {
+      "name": "Nomero y'Indangamuntu"
+    },
+    {
+      "name": "Nomero ya Dosiye"
+    },
+    {
+      "name": "Nomero ya Pasiporo"
+    },
+    {
+      "name": "Kode yo kwishyuriraho"
+    }
+  ],
+  "serviceSearchOptions": [
+    {
+      "name": "Kode ya serivisi"
+    },
+    {
+      "name": "Izina rya serivisi"
+    }
+  ],
+  "tagSearchOptions": [
+    {
+      "name": "Kode y'Itagi"
+    },
+    {
+      "name": "Izina ry'itagi"
+    }
+  ],
+  "paymentFilter": [
+    {
+      "name": "Dosiye zose"
+    },
+    {
+      "name": "Kwishyura byarengeje igihe"
+    },
+    {
+      "name": "Dosiye itegerje kwishyura"
+    },
+    {
+      "name": "Dosiye yishyuwe"
+    }
+  ],
+  "statusReport": [
+    {
+      "name": "Byose"
+    },
+    {
+      "name": "Dosiye yemejwe"
+    },
+    {
+      "name": "Dosiye yanzwe"
+    },
+    {
+      "name": "Dosiye iracyategereje"
+    }
+  ],
+  "miscellaneousTranslations": [
+    {
+      "name": "Serivisi zose"
+    },
+    {
+      "name": "Umaze umwanya utari ku rubuga,ongera winjire muri konti yawe kugira ngo ufungure iyi paji"
+    }
+  ],
+  "summaryTitle": [
+    {
+      "name": "Umwirondoro w' usaba serivisi"
+    },
+    {
+      "name": "Imigereka"
+    },
+    {
+      "name": "Ibiro uzafatiramo icyangombwa"
+    },
+    {
+      "name": "Umwirondoro w' umwana"
+    },
+    {
+      "name": "Umwirondoro w'uwo mwashakanye"
+    },
+    {
+      "name": "Umwirondoro wa se w'umwana"
+    },
+    {
+      "name": "Umwirondoro wa nyina w'umwana"
+    },
+    {
+      "name": "Umwirondoro w'mukuru w'umuryango"
+    },
+    {
+      "name": "Umwirondoro w'abahamya"
+    },
+    {
+      "name": "Umwirondoro wa so"
+    },
+    {
+      "name": "Umwirondoro wa nyoko"
+    },
+    {
+      "name": "Aho wavukiye"
+    },
+    {
+      "name": "Umwirondoro w' umufatanyabikorwa"
+    },
+    {
+      "name": "Amakuru ajyanye no gushyingirwa imbere ey'amategeko"
+    },
+    {
+      "name": "Umwirondoro w'Uwitabye imana"
+    },
+    {
+      "name": "Amakuru ajyanye n' urupfu"
+    },
+    {
+      "name": "Umwirondoro wa se w'uwitabye Imana"
+    },
+    {
+      "name": "Umwirondoro wa nyina w'uwitabye Imana"
+    },
+    {
+      "name": "Amakuru ajyanye n' Urukiko"
+    },
+    {
+      "name": "Amakuru ajyanye n' Umwuga"
+    },
+    {
+      "name": "Umwirondoro wa Perezida"
+    },
+    {
+      "name": "Amakuru ajyanye  nokureberera umwana n'umurage"
+    },
+    {
+      "name": "Amakuru ajyanye  aho indangamuntu yakorewe"
+    },
+    {
+      "name": "Amakuru ajyanye no gusezerana imbere y'Imana"
+    },
+    {
+      "name": "Umwirondoro w'Uhagarariye"
+    },
+    {
+      "name": "Umwirondoro w'Usaba"
+    },
+    {
+      "name": "Imyirondoro y'abagize umuryango"
+    },
+    {
+      "name": "Incamake y'umwirondoro"
+    },
+    {
+      "name": "Indi myirondoro"
+    },
+    {
+      "name": "Ibijyanye n'inyandiko"
+    },
+    {
+      "name": "Ibijyanye n'ibiro byemeza"
+    },
+    {
+      "name": "Umwirondoro y'uwakira ubutaka"
+    },
+    {
+      "name": "Ibijyanye n'ikibanza"
+    },
+    {
+      "name": "Ibijyanye n'ikibanza cya 2"
+    },
+    {
+      "name": "Ibijyanye n'Ihererekanya ry'Ubutaka"
+    },
+    {
+      "name": "Ibijyanye no kugabana Ubutaka"
+    },
+    {
+      "name": "Nyirubutaka wongewemo"
+    },
+    {
+      "name": "Nyirubutaka wakuwemo"
+    },
+    {
+      "name": "Nyirubutaka"
+    },
+    {
+      "name": "Ibijyanye n'ubutaka"
+    },
+    {
+      "name": "Ibijyanye n'Igazeti"
+    },
+    {
+      "name": "Ibijyanye no kwamamaza"
+    },
+    {
+      "name": "Ibijyanye na tike"
+    },
+    {
+      "name": "Ibijyanye n'ikizami"
+    },
+    {
+      "name": "Ibijyanye na dosiye"
+    },
+    {
+      "name": "Ibijyanye na Kode yo kwiyandikisha"
+    },
+    {
+      "name": "Umwirondoro wa Sosiyete"
+    },
+    {
+      "name": "Ibijyanye na rendez-vous"
+    },
+    {
+      "name": "Ibijyanye no kubitsa amafaranga y'isuzumisha ry'ibinyabiziga"
+    },
+    {
+      "name": "Aho utuye"
+    },
+    {
+      "name": "Ambasade ishinzwe gutunganya dosiye"
+    },
+    {
+      "name": "Amakuru ajyanye n'impamyabumenyi ufite"
+    },
+    {
+      "name": "Amakuru ajyanye naho ubarizwa ubu"
+    },
+    {
+      "name": "Amakuru ajyanye naho ukorera"
+    },
+    {
+      "name": "Umwirondoro y'uwakwishingiye"
+    },
+    {
+      "name": "Amakuru ajyanye n'akazi ukora"
+    },
+    {
+      "name": "Amakuru ajyanye n'ubwishingizi"
+    },
+    {
+      "name": "Amakuru ajyanye n'inyubako z'amashuri"
+    },
+    {
+      "name": "Amakuru ajyanye na gahunda"
+    },
+    {
+      "name": "Abagize urugo"
+    },
+    {
+      "name": "Umunyamuryango"
+    },
+    {
+      "name": "Umwirondoro wo gusaba"
+    },
+    {
+      "name": "Ibijyanye no kwifotoza"
+    },
+    {
+      "name": "Ibijyanye no gutunganya dosiye"
+    },
+    {
+      "name": "Umwirondoro w'urera umwana"
+    },
+    {
+      "name": "Urwandiko w'inzira usanganywe"
+    },
+    {
+      "name": "Umwirondoro wuzuye"
+    },
+    {
+      "name": "Ibijyanye n'urugendo"
+    },
+    {
+      "name": "Group Details"
+    },
+    {
+      "name": "Ibijyanye na Viza"
+    },
+    {
+      "name": "Ibijyanye n'igihano"
+    },
+    {
+      "name": "Cooperative & Insurance details"
+    },
+    {
+      "name": "Zone details"
+    },
+    {
+      "name": "Imigereka ijyanye n'uhagarariye Umuryango"
+    },
+    {
+      "name": "Amakuru ajyanye n'Umuryango"
+    },
+    {
+      "name": "Amakuru y'Abakozi b'umuryango"
+    },
+    {
+      "name": "Amakuru y'Inama Rusange"
+    },
+    {
+      "name": "Amakuru ya Komite Nyobozi"
+    },
+    {
+      "name": "Aho bakorera"
+    },
+    {
+      "name": "Uhagarariye umuryango wemewe n'amategeko"
+    },
+    {
+      "name": "Igenamigambi"
+    },
+    {
+      "name": "Authorization Details"
+    },
+    {
+      "name": "Umwirondoro wabo utunze"
+    },
+    {
+      "name": "License Details"
+    },
+    {
+      "name": "Dependant"
+    },
+    {
+      "name": "Uhagarariye umwana"
+    },
+    {
+      "name": "Umwirondoro w' umubyeyi"
+    },
+    {
+      "name": "Igiciro"
+    },
+    {
+      "name": "Umwirondoro w'Umutangabuhamya wa mbere"
+    },
+    {
+      "name": "Umwirondoro w'Umutangabuhamya wa kabiri"
+    },
+    {
+      "name": "Umwirondoro w'Uwanditse icyemezo"
+    },
+    {
+      "name": "Aho uzafatira indangamuntu"
+    },
+    {
+      "name": "Ibiro bya RIB bitunganya dosiye"
+    }
+  ],
+  "summaryObjectTitles": [
+    {
+      "name": "Amazina"
+    },
+    {
+      "name": "Nomero y'Indangamuntu"
+    },
+    {
+      "name": "Nomero ya Pasiporo"
+    },
+    {
+      "name": "Itariki y'amavuko"
+    },
+    {
+      "name": "Igitsina"
+    },
+    {
+      "name": "Amazina ya Se"
+    },
+    {
+      "name": "Amazina ya Nyina"
+    },
+    {
+      "name": "Aho utuye"
+    },
+    {
+      "name": "Akarere"
+    },
+    {
+      "name": "Umurenge"
+    },
+    {
+      "name": "Akagari"
+    },
+    {
+      "name": "Umwirondoro"
+    },
+    {
+      "name": "Ubwenegihugu"
+    },
+    {
+      "name": "Ubwenegihugu"
+    },
+    {
+      "name": "Nomero y'indangamuntu"
+    },
+    {
+      "name": "Isano n'usaba serivisi"
+    },
+    {
+      "name": "Itariki uwo mwashakanye yapfiriye"
+    },
+    {
+      "name": "Aho wandikishije ishyingirwa"
+    },
+    {
+      "name": "Aho umuntu yaguye"
+    },
+    {
+      "name": "Itariki Abagize akanama k'abareberera umwana bateraniye"
+    },
+    {
+      "name": "Itariki y'umurage"
+    },
+    {
+      "name": "Izina ry'uwahawe umurage"
+    },
+    {
+      "name": "Nomero y'indangamuntu y'uwahawe umurage"
+    },
+    {
+      "name": "Izina "
+    },
+    {
+      "name": "Andi mazina"
+    },
+    {
+      "name": "Irangamimerere"
+    },
+    {
+      "name": "Aderesi Imeli"
+    },
+    {
+      "name": "Nomero ya telefoni"
+    },
+    {
+      "name": "Aho wavukiye"
+    },
+    {
+      "name": "Aho utuye"
+    },
+    {
+      "name": "Itariki yo gushyingirwa imbere y'amategeko"
+    },
+    {
+      "name": "Aho washyingiriwe imbere y'amategeko"
+    },
+    {
+      "name": "Izina ry'uwagushyingiye imbere y'amategeko"
+    },
+    {
+      "name": "Imicungire y'umutungo w'abashakanye"
+    },
+    {
+      "name": "Itariki yo gushyingirwa imbere y'Imana"
+    },
+    {
+      "name": "Aho washyingiriwe imbere y'Imana"
+    },
+    {
+      "name": "Uwagushyingiye imbere y'Imana"
+    },
+    {
+      "name": "Itariki y'Urupfu"
+    },
+    {
+      "name": "Impamvu y'urupfu"
+    },
+    {
+      "name": "Umwuga"
+    },
+    {
+      "name": "Izina rw'uwo mwari mwarashakanye witabye imana"
+    },
+    {
+      "name": "Ikigo Nderabuzima"
+    },
+    {
+      "name": "Itariki y'Icyemezo cy'Ikigo Nderabuzina "
+    },
+    {
+      "name": "Umuyobozi watanze icyangombwa"
+    },
+    {
+      "name": "Itariki Umuyoboziyatangiyeho icyangombwa"
+    },
+    {
+      "name": "Aho uheruka gutura"
+    },
+    {
+      "name": "Aho icyangombwa wari ufite cyatangiwe"
+    },
+    {
+      "name": "Ari mu buruko"
+    },
+    {
+      "name": "Itariki y'icyemezo cy'urukiko"
+    },
+    {
+      "name": "Nomero ya dosiye y'urukiko"
+    },
+    {
+      "name": "Uwo mwashakanye arariho?"
+    },
+    {
+      "name": "Aho uwo mwashakanye atuye"
+    },
+    {
+      "name": "Isano n'uwitabye Imana"
+    },
+    {
+      "name": "Indangamuntu ya So"
+    },
+    {
+      "name": "Indangamuntu ya Nyoko"
+    },
+    {
+      "name": "Izina"
+    },
+    {
+      "name": "Andi mazina"
+    },
+    {
+      "name": "Izina ry'ibitaro"
+    },
+    {
+      "name": "Umwuga wuwo mwashakanye"
+    },
+    {
+      "name": "Indi mpamvu"
+    },
+    {
+      "name": "Ubwoko bw'inyandiko"
+    },
+    {
+      "name": "Izina ry'Ikigo"
+    },
+    {
+      "name": "Umubare wa Kopi"
+    },
+    {
+      "name": "Izina rya banki"
+    },
+    {
+      "name": "Inyandiko ya banki"
+    },
+    {
+      "name": "Agiciro"
+    },
+    {
+      "name": "Nomero ya telefoni ya banki"
+    },
+    {
+      "name": "Ubwoko bw'usaba serivisi"
+    },
+    {
+      "name": "Nomero ya TIN"
+    },
+    {
+      "name": "Izina rya Sosiyete"
+    },
+    {
+      "name": "Nomero y'igazeti"
+    },
+    {
+      "name": "Izina ry'Ikigo"
+    },
+    {
+      "name": "Intara"
+    },
+    {
+      "name": "Icyicaro"
+    },
+    {
+      "name": "Ingano"
+    },
+    {
+      "name": "Nomero y'ikivanza"
+    },
+    {
+      "name": "Imikoreshereze y'ubutala"
+    },
+    {
+      "name": "Ingwate"
+    },
+    {
+      "name": "Igiciro"
+    },
+    {
+      "name": "UPI"
+    },
+    {
+      "name": "Nomero ya dosiye"
+    },
+    {
+      "name": "Umubare w'ibibanza byagabanyijwe"
+    },
+    {
+      "name": "Imikoreshereze y'ubutala"
+    },
+    {
+      "name": "Inkomyi"
+    },
+    {
+      "name": "Izina"
+    },
+    {
+      "name": "?"
+    },
+    {
+      "name": "?"
+    },
+    {
+      "name": "Uhagarariye"
+    },
+    {
+      "name": "Izungura"
+    },
+    {
+      "name": "Fiche cadastrale irakenewe"
+    },
+    {
+      "name": "Aho ubutaka buherereye"
+    },
+    {
+      "name": "Umubare wa fiche cadastrale"
+    },
+    {
+      "name": "Impamvu usaba serivisi"
+    },
+    {
+      "name": "Amazina y'isaba serivisi"
+    },
+    {
+      "name": "Ubwoko bwa?"
+    },
+    {
+      "name": "Uburyo bwo kohereza icyemezo"
+    },
+    {
+      "name": "Nomero y'igazeti"
+    },
+    {
+      "name": "Gazette Release Date"
+    },
+    {
+      "name": "Ukwezi Igazeti yasohotsemo"
+    },
+    {
+      "name": "Umutwe w'Igazeti"
+    },
+    {
+      "name": "Aderesi"
+    },
+    {
+      "name": "Igiciro rusange"
+    },
+    {
+      "name": "Izina rishya ryuzuye"
+    },
+    {
+      "name": "Izina ryuzuye"
+    },
+    {
+      "name": "Igiciro cya buri murongo"
+    },
+    {
+      "name": "Igiciro cya buri paji"
+    },
+    {
+      "name": "Igiciro rusange"
+    },
+    {
+      "name": "Agasanduku k'iposita"
+    },
+    {
+      "name": "Icyiciro"
+    },
+    {
+      "name": "Nomero ya Tike"
+    },
+    {
+      "name": "Amafaranga yo kwishyurwa konterevasiyo"
+    },
+    {
+      "name": "Kwishyurwa mbere ya"
+    },
+    {
+      "name": "Itariki yatangiweho"
+    },
+    {
+      "name": "Nomero ya Pulaki"
+    },
+    {
+      "name": "Ibikubiye muri konterevasiyo"
+    },
+    {
+      "name": "Uburyo bwo gukora ikizamini"
+    },
+    {
+      "name": "Ururimi ikizamini gikorwamo"
+    },
+    {
+      "name": "Itariki ikizamini kizakorerwaho"
+    },
+    {
+      "name": "Aho ikizamini kizakorerwa"
+    },
+    {
+      "name": "Nomero y'uruhushya rwo gutwara ikinyabiziga"
+    },
+    {
+      "name": "Kategori"
+    },
+    {
+      "name": "Kode yo kwiyandikisha"
+    },
+    {
+      "name": "Sitation uzafatiraho uruhushya"
+    },
+    {
+      "name": "Sitati"
+    },
+    {
+      "name": "Nomero y'uruhushya"
+    },
+    {
+      "name": "Itariki uruhushya ruzarangirira"
+    },
+    {
+      "name": "Momero y'uruhushya ruheruka"
+    },
+    {
+      "name": "Nomero y'uruhushya"
+    },
+    {
+      "name": "Kategori"
+    },
+    {
+      "name": "Igihugu cyatanze uruhushya"
+    },
+    {
+      "name": "Ubwoko"
+    },
+    {
+      "name": "Nomero ya Pulaki"
+    },
+    {
+      "name": "Indangamuntu ya nyir'ikinyabiziga"
+    },
+    {
+      "name": "Amafaranga yishyurwa"
+    },
+    {
+      "name": "Ubwoko bw'uruhushya"
+    },
+    {
+      "name": "Aho Kontorole ikorerwa"
+    },
+    {
+      "name": "Umunsi wo gukoresha Kontorole"
+    },
+    {
+      "name": "Kode ya Sosiyete"
+    },
+    {
+      "name": "Aderesi ya Sosiyete"
+    },
+    {
+      "name": "Share Percentage"
+    },
+    {
+      "name": "Irindi sano"
+    },
+    {
+      "name": "Amazina y'uwo mwashakanye"
+    },
+    {
+      "name": "Amashuri wize"
+    },
+    {
+      "name": "Igihugu"
+    },
+    {
+      "name": "Umujyi"
+    },
+    {
+      "name": "Ambasade"
+    },
+    {
+      "name": "Ibiro uzafatiramo icyangombwa"
+    },
+    {
+      "name": "Icyo ukora"
+    },
+    {
+      "name": "Umudugudu"
+    },
+    {
+      "name": "Nomero y'indangamuntu y'umwana"
+    },
+    {
+      "name": "Amashuri wize"
+    },
+    {
+      "name": "Igihugu impamyabumenyi yatangiwemo"
+    },
+    {
+      "name": "Aho giherereye"
+    },
+    {
+      "name": "Itariki yo kugera mu Rwanda"
+    },
+    {
+      "name": "Igihe uburenganzira bwo gutara amakuru buzamara"
+    },
+    {
+      "name": "Ibigo by'itangazamakuru"
+    },
+    {
+      "name": "Urubuga rwa Interineti"
+    },
+    {
+      "name": "Amakuru ajyanye n'uburyo bwo gutara makuru"
+    },
+    {
+      "name": "Gukora raporo y;'ibikorwa"
+    },
+    {
+      "name": "Amakuru ajyanye n'ibikoresho"
+    },
+    {
+      "name": "Igihe ubwishingizi buzamara"
+    },
+    {
+      "name": "Imbumbe y'amafaranga agomba kwishyurwa"
+    },
+    {
+      "name": "Umubare w'amafaranga yishyuwe"
+    },
+    {
+      "name": "Umubare w'amafaranga agomba kwishyurwa"
+    },
+    {
+      "name": "Akarere utuyemo"
+    },
+    {
+      "name": "Icyiciro cy'ubwishingizi"
+    },
+    {
+      "name": "Agaciro cy'impamyabumenyi yatangiwe mu mahanga"
+    },
+    {
+      "name": "Porogaramu y'amashuri wize"
+    },
+    {
+      "name": "Umwaka watangiriye Kaminuza"
+    },
+    {
+      "name": "Umwaka warangirije Kaminuza"
+    },
+    {
+      "name": "igihe porogaramu y'amashuri imara"
+    },
+    {
+      "name": "Imyigishirize"
+    },
+    {
+      "name": "Icyiciro cy'mpamayabumenyi"
+    },
+    {
+      "name": "Ubwoko bw'urukingo"
+    },
+    {
+      "name": "Ikigo gikingira"
+    },
+    {
+      "name": "Itariki y'urukingo"
+    },
+    {
+      "name": "Ubwoko bw'igihe cyo gufata urukingo"
+    },
+    {
+      "name": "Isaha yo kujya gukingirwa"
+    },
+    {
+      "name": "Aba mu Rwanda kuva..."
+    },
+    {
+      "name": "Ururimi Icyemezo Cyandikwamo"
+    },
+    {
+      "name": "Izina ryifuzwa"
+    },
+    {
+      "name": "Izina rishya"
+    },
+    {
+      "name": "Izina rindi rishya"
+    },
+    {
+      "name": "Center"
+    },
+    {
+      "name": "Date"
+    },
+    {
+      "name": "Igiciro"
+    },
+    {
+      "name": "Ubwoko bw'impinduka"
+    },
+    {
+      "name": "Needs Temporary ID"
+    },
+    {
+      "name": "Ba nyir'ubutaka"
+    },
+    {
+      "name": "Umwaka w'amavuko"
+    },
+    {
+      "name": "Requested"
+    },
+    {
+      "name": "Icyo wifuza gukoresha ubutaka"
+    },
+    {
+      "name": "Old identification type"
+    },
+    {
+      "name": "New identification type"
+    },
+    {
+      "name": "Old identification number"
+    },
+    {
+      "name": "New identification number"
+    },
+    {
+      "name": "Old forename"
+    },
+    {
+      "name": "New forename"
+    },
+    {
+      "name": "Old surname"
+    },
+    {
+      "name": "Old fullname"
+    },
+    {
+      "name": "Itariki ikizamini cyakoreweho"
+    },
+    {
+      "name": "Aho ikizamini cyakorewe"
+    },
+    {
+      "name": "Umwaka impamyabumenyi yatangiwemo"
+    },
+    {
+      "name": "Ishuri impamyabumenyi yatangiwemo"
+    },
+    {
+      "name": "Igihugu impamyabumenyi yatangiwemo"
+    },
+    {
+      "name": "Icyiciro cy'amashuri usabira icyemezo"
+    },
+    {
+      "name": "Ubwoko bwa pasiporo"
+    },
+    {
+      "name": "Igihe pasiporo izamara"
+    },
+    {
+      "name": "Impamvu y'urugendo"
+    },
+    {
+      "name": "Igihugu ugiyemo"
+    },
+    {
+      "name": "Amafaranga yishyurwa"
+    },
+    {
+      "name": "Nomero y'urwandiko rw'inzira"
+    },
+    {
+      "name": "Aho rwatangiwe"
+    },
+    {
+      "name": "Itariki rwatangiweho"
+    },
+    {
+      "name": "Itariki ruzarangiriraho"
+    },
+    {
+      "name": "Urwandiko rw'inzira"
+    },
+    {
+      "name": "Nomero y'urwandiko rw'inzira"
+    },
+    {
+      "name": "Icyiciro cy'uruhushya"
+    },
+    {
+      "name": "Icyiciro cya viza"
+    },
+    {
+      "name": "Urwandiko rw'inzira ushaka"
+    },
+    {
+      "name": "Inzu Ndangamurage"
+    },
+    {
+      "name": "Itariki yo gusura"
+    },
+    {
+      "name": "Icyiciri cy'abasura"
+    },
+    {
+      "name": "Icyiciro"
+    },
+    {
+      "name": "Umubare w'abakuze"
+    },
+    {
+      "name": "Umubare w'abanyeshuri"
+    },
+    {
+      "name": "Umubare w'abana"
+    },
+    {
+      "name": "Umubare w'abana bari munsi y'imyaka 6"
+    },
+    {
+      "name": "Umubare w'igitsina gabo"
+    },
+    {
+      "name": "Umubare w'igitsina gore"
+    },
+    {
+      "name": "Igiciro cyo gusura"
+    },
+    {
+      "name": "Nomero ya Dosiye"
+    },
+    {
+      "name": "Icyiciro cy'igihano"
+    },
+    {
+      "name": "Amafaranga y'igihano"
+    },
+    {
+      "name": "Umukoresha"
+    },
+    {
+      "name": "Uburebure"
+    },
+    {
+      "name": "Aderesi yaho wabarizwa mu Rwanda"
+    },
+    {
+      "name": "Itariki  wifuza kugerera mu Rwanda"
+    },
+    {
+      "name": "Itariki  wifuza kuvira mu Rwanda"
+    },
+    {
+      "name": "Umupaka wifuza kwinjiriraho"
+    },
+    {
+      "name": "Impamvu y'urugendo"
+    },
+    {
+      "name": "Amakuru arambuye ajyanye n'urugendo"
+    },
+    {
+      "name": "Kujya mu Rwanda ubwa mbere"
+    },
+    {
+      "name": "Igihe uherukira mu Rwanda"
+    },
+    {
+      "name": "Wamaze igihe kingana iki mu Rwanda?"
+    },
+    {
+      "name": "Icyiciro cy'ubwenegihugu"
+    },
+    {
+      "name": "Izina ryatanzwe"
+    },
+    {
+      "name": "Izina mu magambo ahinnye"
+    },
+    {
+      "name": "Icyiciro umuryango ukoreramo"
+    },
+    {
+      "name": "Amatsinda umuryango ukorana nayo"
+    },
+    {
+      "name": "Idini"
+    },
+    {
+      "name": "Aho amafaranga yo gukoresha ava"
+    },
+    {
+      "name": "Uburyo bw'imitegekere"
+    },
+    {
+      "name": "Ururimi rwahisemo"
+    },
+    {
+      "name": "Agasanduko k'i posita"
+    },
+    {
+      "name": "Umubare w'abakorera bushake"
+    },
+    {
+      "name": "Umubare w'abafite amasezerano y'akazi"
+    },
+    {
+      "name": "Umubare w'abandi bakozi"
+    },
+    {
+      "name": "Umubare w'abagize inama rusange bose"
+    },
+    {
+      "name": "Umubare w'abagabo bagize inama rusange"
+    },
+    {
+      "name": "Umubare w'abagore bagize inama rusange"
+    },
+    {
+      "name": "Umubare w'abagize komite nyobozi bose"
+    },
+    {
+      "name": "Umubare w'abagabo bagize komite nyobozi"
+    },
+    {
+      "name": "Umubare w'abagore bagize komite nyobozi"
+    },
+    {
+      "name": "Guhura gusanze mu mwaka"
+    },
+    {
+      "name": "Guhura kudasanzwe mu mwaka"
+    },
+    {
+      "name": "Icyicaro gikuru"
+    },
+    {
+      "name": "Ishami"
+    },
+    {
+      "name": "Umwanya afite"
+    },
+    {
+      "name": "Umwigisha"
+    },
+    {
+      "name": "Manda"
+    },
+    {
+      "name": "Icyiciro cy'uruhushya rw'akazi"
+    },
+    {
+      "name": "Cooperative Name"
+    },
+    {
+      "name": "Cooperative Number"
+    },
+    {
+      "name": "Zone district"
+    },
+    {
+      "name": "Zone Name"
+    },
+    {
+      "name": "Project Name"
+    },
+    {
+      "name": "Domain"
+    },
+    {
+      "name": "Planned Activities"
+    },
+    {
+      "name": "Planned Budget"
+    },
+    {
+      "name": "Start Date"
+    },
+    {
+      "name": "End Date"
+    },
+    {
+      "name": "Expected Impact"
+    },
+    {
+      "name": "TIN"
+    },
+    {
+      "name": "Organisation Name"
+    },
+    {
+      "name": "Operational Certificate Ref Number"
+    },
+    {
+      "name": "Number of Staff"
+    },
+    {
+      "name": "Bank Account"
+    },
+    {
+      "name": "License validity"
+    },
+    {
+      "name": "Operating zone"
+    },
+    {
+      "name": "Owner name"
+    },
+    {
+      "name": "Insurance company"
+    },
+    {
+      "name": "Insurance valid from"
+    },
+    {
+      "name": "Insurance expiry date"
+    },
+    {
+      "name": "Ubundi bwenegihugu"
+    },
+    {
+      "name": "Indi pasiporo"
+    },
+    {
+      "name": "Telefoni y'umuyobozi w'umudugudu"
+    },
+    {
+      "name": "Amazina y'umuyobozi w'umudugudu"
+    },
+    {
+      "name": "Umujyi wamavuko"
+    },
+    {
+      "name": "Isano"
+    },
+    {
+      "name": "Igihugu urimo ubu"
+    },
+    {
+      "name": "Aderesi ya none"
+    },
+    {
+      "name": "Reference Number"
+    },
+    {
+      "name": "Number of Motos"
+    },
+    {
+      "name": "Umujyi utuyemo"
+    },
+    {
+      "name": "Nomero y'urwandiko rw'inzira wari usanganywe"
+    },
+    {
+      "name": "Nomero ya telefoni ya nyir'ikinyabiziga"
+    },
+    {
+      "name": "Delivery Location"
+    },
+    {
+      "name": "TextNumberOfLines"
+    },
+    {
+      "name": "Umujyi ujyiyemo"
+    },
+    {
+      "name": "Isaha yo kwipimisha"
+    },
+    {
+      "name": "Ubwenegihugu bw'uwo mwashakanye"
+    },
+    {
+      "name": "Publication Type"
+    },
+    {
+      "name": "Number of Pages"
+    },
+    {
+      "name": "Igihugu cy'amavuko"
+    },
+    {
+      "name": "Aho wavukiye"
+    },
+    {
+      "name": "Impamvu yo gusimburwa"
+    },
+    {
+      "name": "Nomero y'umuhanda"
+    },
+    {
+      "name": "Inomero yinzu"
+    },
+    {
+      "name": "Itariki yo Kugera mu Rwanda"
+    },
+    {
+      "name": "Itariki yo Kuva mu Rwanda"
+    },
+    {
+      "name": "Umutangabuhamya 1"
+    },
+    {
+      "name": "Umutangabuhamya 2"
+    },
+    {
+      "name": "Umenyekanisha"
+    },
+    {
+      "name": "Nomero ya telefone y'Umutangabuhamya 1"
+    },
+    {
+      "name": "Nomero ya telefone y'Umutangabuhamya 2"
+    },
+    {
+      "name": "Nomero ya telefone y'Umenyekanisha"
+    },
+    {
+      "name": "Itinéraire"
+    },
+    {
+      "name": "Izina rya editeri"
+    },
+    {
+      "name": "E-mail ya editeri"
+    },
+    {
+      "name": "Nomero ya editeri"
+    },
+    {
+      "name": "Inomero ya terefone y'i biro"
+    },
+    {
+      "name": "Itariki yo kugenda"
+    },
+    {
+      "name": "Impamvu yo gukosora indangamuntu"
+    },
+    {
+      "name": "Imeli y'ikigo"
+    },
+    {
+      "name": "Trade name"
+    },
+    {
+      "name": "District of birth"
+    },
+    {
+      "name": "Sector of birth"
+    },
+    {
+      "name": "Father Nationality"
+    },
+    {
+      "name": "Mother Nationality"
+    },
+    {
+      "name": "Country of Residence"
+    },
+    {
+      "name": "City of residence"
+    },
+    {
+      "name": "Phone number for contact"
+    },
+    {
+      "name": "Spouse names"
+    },
+    {
+      "name": "Spouse National ID"
+    },
+    {
+      "name": "Other profession"
+    },
+    {
+      "name": "Inomero yambere yo gusaba"
+    }
+  ],
+  "tableTitles": [
+    {
+      "name": "Nomero ya dosiye"
+    },
+    {
+      "name": "Serivisi"
+    },
+    {
+      "name": "Usaba serivisi"
+    },
+    {
+      "name": "Aho dosiye igeze"
+    },
+    {
+      "name": "Itariki dosiye yohererejweho"
+    },
+    {
+      "name": "Igihe dosiye imara"
+    },
+    {
+      "name": "Igiciro"
+    },
+    {
+      "name": "Ibikorwa"
+    },
+    {
+      "name": "Igihe kimara"
+    },
+    {
+      "name": "Itariki cyatangiweho"
+    },
+    {
+      "name": "Aho cyatangiwe"
+    },
+    {
+      "name": "Kode"
+    },
+    {
+      "name": "Abagenewe serivisi"
+    },
+    {
+      "name": "Igihe dosiye imara"
+    },
+    {
+      "name": "Igihe Ntarengwa"
+    },
+    {
+      "name": "Icyemezo"
+    },
+    {
+      "name": "Isobanuramiterere"
+    },
+    {
+      "name": "Icyiciro"
+    },
+    {
+      "name": "Itagi"
+    },
+    {
+      "name": "inyandiko"
+    },
+    {
+      "name": "Impamvu"
+    },
+    {
+      "name": "Intambwe"
+    },
+    {
+      "name": "Aho dosiye igeze"
+    },
+    {
+      "name": "Iminsi dosiye zitarangiye zimara"
+    },
+    {
+      "name": "Utanga serivisi"
+    },
+    {
+      "name": "Ahantu"
+    },
+    {
+      "name": "Amazina"
+    },
+    {
+      "name": "Imeli"
+    },
+    {
+      "name": "Inshingano"
+    },
+    {
+      "name": "Igihe wafunguriye konti"
+    },
+    {
+      "name": "Izina ry'ukoresha urubuga"
+    },
+    {
+      "name": "Ubutumwa"
+    },
+    {
+      "name": "?"
+    },
+    {
+      "name": "Ubwoko"
+    },
+    {
+      "name": "Umwuga"
+    },
+    {
+      "name": "Icyiciro"
+    },
+    {
+      "name": "Indangamuntu"
+    },
+    {
+      "name": "Ubwenegihugu"
+    },
+    {
+      "name": "Itariki byasohowe"
+    },
+    {
+      "name": "Uruhushya"
+    },
+    {
+      "name": "Ikiranga Dosiye"
+    },
+    {
+      "name": "Started at"
+    },
+    {
+      "name": "Closed at"
+    },
+    {
+      "name": "Owner"
+    },
+    {
+      "name": "Passport Number"
+    },
+    {
+      "name": "Payment Method"
+    }
+  ],
+  "locationTitles": [
+    {
+      "name": "Aho Ikigo Nderabuzima giherereye"
+    },
+    {
+      "name": "Aho Perezida atuye"
+    },
+    {
+      "name": "Aho washyingiriwe"
+    },
+    {
+      "name": "Aho utuye"
+    },
+    {
+      "name": "Ibiro bitunganya dosiye"
+    },
+    {
+      "name": "Ubwenegihugu bwa So"
+    },
+    {
+      "name": "Ubwenegihugu bwa Nyoko"
+    },
+    {
+      "name": "Aho uwo mwashakanye atuye"
+    },
+    {
+      "name": "Aho ukorera"
+    },
+    {
+      "name": "Aho ubutaka buherereye"
+    },
+    {
+      "name": "Igihugu cyatanze uruhushya"
+    },
+    {
+      "name": "Igihugu utuyemo"
+    },
+    {
+      "name": "Akarere utuyemo"
+    },
+    {
+      "name": "Aho uzayifatira"
+    },
+    {
+      "name": "RIB Processing Office"
+    },
+    {
+      "name": "Aho utuye"
+    },
+    {
+      "name": "Aho ugurisha atuye"
+    },
+    {
+      "name": "Aho ugura atuye"
+    },
+    {
+      "name": "Aho uhabwa atuye"
+    },
+    {
+      "name": "Aho utanga atuye"
+    },
+    {
+      "name": "Igihugu ugiyemo"
+    },
+    {
+      "name": "Igihugu cy'amavuko"
+    },
+    {
+      "name": "Headquarters"
+    },
+    {
+      "name": "Branch"
+    },
+    {
+      "name": "City of Birth"
+    },
+    {
+      "name": "Aho Yapfiriye"
+    },
+    {
+      "name": "Ibiro bitunganya dosiye"
+    },
+    {
+      "name": "Ibijyanye no gutunganya dosiye"
+    },
+    {
+      "name": "Indangamuntu"
+    },
+    {
+      "name": "Indangamuntu y'agateganyo"
+    }
+  ],
+  "applicationStatus": [
+    {
+      "name": "Dosiye itegereje kwishyura"
+    },
+    {
+      "name": "Yishyuwe"
+    },
+    {
+      "name": "Kwishyura byarengeje igihe"
+    },
+    {
+      "name": "Dosiye bayanze"
+    },
+    {
+      "name": "Dosiye yemewe"
+    },
+    {
+      "name": "Dosiye iracyategereje"
+    },
+    {
+      "name": "Dosiye yoherejwe bundi bushya"
+    },
+    {
+      "name": "Dosiye Itarangiye"
+    },
+    {
+      "name": "Igikorwa cyasabwe"
+    },
+    {
+      "name": "Dosiye yoherejwe ku rwego rwo hejuru"
+    },
+    {
+      "name": "Dosiye yoherejwe"
+    },
+    {
+      "name": "Hategerejwe kwemezwa mu butaka"
+    },
+    {
+      "name": "Yiyandikishije"
+    },
+    {
+      "name": "Yapimwe"
+    },
+    {
+      "name": "Byemewe"
+    },
+    {
+      "name": "Yafunzwe"
+    },
+    {
+      "name": "Hategerejwe kwemezwa muri NIDA"
+    },
+    {
+      "name": "Gutegereza icyemezo cya RIB"
+    },
+    {
+      "name": "Byoherejwe muri NIDA"
+    },
+    {
+      "name": "Awaiting embassy processing"
+    },
+    {
+      "name": "Recommended for approval"
+    },
+    {
+      "name": "Waiting DGIE Approval"
+    },
+    {
+      "name": "Rejected by DGIE"
+    },
+    {
+      "name": "Approved by DGIE"
+    },
+    {
+      "name": "Waiting NIDA NPR Approval"
+    },
+    {
+      "name": "NPR rejected by NIDA"
+    },
+    {
+      "name": "NPR approved by NIDA"
+    },
+    {
+      "name": "Waiting NIDA NID production"
+    },
+    {
+      "name": "NID rejected by NIDA"
+    },
+    {
+      "name": "NID produced by NIDA"
+    }
+  ],
+  "paymentTypes": [
+    {
+      "name": "Ubundi bwishyu"
+    },
+    {
+      "name": "Ikarita yo kwishyura"
+    }
+  ],
+  "slaTexts": [
+    {
+      "name": "Iminsi"
+    },
+    {
+      "name": "Dosiye yatinze kwemezwa"
+    },
+    {
+      "name": "Uyu munsi"
+    },
+    {
+      "name": "Umunsi"
+    }
+  ],
+  "validityTexts": [
+    {
+      "name": "Igihe icyangomwa kimara"
+    },
+    {
+      "name": "Icyangombwa cyataye agaciro"
+    },
+    {
+      "name": "Amezi"
+    },
+    {
+      "name": "Iminsi"
+    },
+    {
+      "name": "Uyu munsi"
+    }
+  ],
+  "frontMessages": [
+    {
+      "name": "Ijambo ry'ibanga ntirihuye"
+    },
+    {
+      "name": "Ijambo ry'ibanga siryo"
+    },
+    {
+      "name": "Usanzwe ufite konti"
+    },
+    {
+      "name": "Ntushobora gufungura iyi paji igiye winjiye ku rubuga"
+    },
+    {
+      "name": "Nomero y'usaba serivisi siyo"
+    },
+    {
+      "name": "Omekaho imigereka"
+    },
+    {
+      "name": "Serivisi ntigaragara kugirango ushobore kuyisaba"
+    },
+    {
+      "name": "Igikorwa cyagenze neza"
+    },
+    {
+      "name": "Dosiye yawe y'agateganyo yabitswe"
+    },
+    {
+      "name": "Dosiye yawe y'agateganyo yavuguruwe"
+    },
+    {
+      "name": "Umwana agomba kuba arengeje imyaka 16"
+    },
+    {
+      "name": "Umwe mu babyeyi agomba kuba afite indangamuntu"
+    },
+    {
+      "name": "Ntushobora gukoresha nomero y'indangamuntu yawe"
+    },
+    {
+      "name": "Ntushobora gukoresha nomero ya pasiporo yawe"
+    },
+    {
+      "name": "Usaba serivisi ntashobora kuba umutangabuhamya, uwo mu muryango, cyangwa uwapfuye"
+    },
+    {
+      "name": "Wowe cyangwa ababyeyi ntimushobora kuba umutangabuhamya"
+    },
+    {
+      "name": "Ntushobora kuba uwo mu muryango"
+    },
+    {
+      "name": "Ntushobora guhagararira umuryango"
+    },
+    {
+      "name": "Usaba serivisi ntashobora kuba umufatanyabikorwa"
+    },
+    {
+      "name": "Usaba serivisi ntashobora kuba yarapfuye"
+    },
+    {
+      "name": "Uwo mwashakanye ntashobora kugira igitsina kimwe n'usaba serivisi"
+    },
+    {
+      "name": "Ntushobora gukoresha indangamuntu yawe kabiri. Ongere urebe neza ahandi yakoreshejwe"
+    },
+    {
+      "name": "Umutangabuhamya arakenewei"
+    },
+    {
+      "name": "Kuramo umwe ubone kongeremo undi"
+    },
+    {
+      "name": "Nomero y’indangamuntu yashyizwemo kabiri"
+    },
+    {
+      "name": "Amutangabuhamya ni umwe gusa ku ba nyamahanga"
+    },
+    {
+      "name": "Uhagarariye umuryango arakenewe"
+    },
+    {
+      "name": "Uhagarariye umunyamahanga ni umwe gusa"
+    },
+    {
+      "name": "Ntushobora kuba umutangabuhamya n'Uhagarariye umuryango icyarimwe"
+    },
+    {
+      "name": "Nibura Umubyeyi umwe agomba kuba ari umunyarwanda"
+    },
+    {
+      "name": "Usaba serivisi natashobora kuba ari umubyeyi wawe"
+    },
+    {
+      "name": "Perezida w'inama ntashobora kuba umuzungura cyangwa usaba serivisi"
+    },
+    {
+      "name": "Hitamo ubwoko bwa raporo bubaho."
+    },
+    {
+      "name": "Hitamo ubwoko bwose bwa SLA."
+    },
+    {
+      "name": "Hitamo aho dosiye zisaba zose zigeze."
+    },
+    {
+      "name": "Hitamo foruma ya dosiye iboneye."
+    },
+    {
+      "name": "Uwo mwashakanye a gomba kuba yarashyingiwe"
+    },
+    {
+      "name": "Wasohowe ku  rubuga kubera kumara umwanya utarukoresha"
+    },
+    {
+      "name": "Dosiye igomba kubanza kwemezwa kugirango mukoze"
+    },
+    {
+      "name": "Nimero ya dosiye ntaho ihuriye n'ibisabwa"
+    },
+    {
+      "name": "Kopi ya UPI y'ikibanza: "
+    },
+    {
+      "name": "Amakuru aranga ubutaka ntaboneka"
+    },
+    {
+      "name": "Ntushobora guhuza ubutaka butari hamwe"
+    },
+    {
+      "name": "Ntushobora guhuza ubutaka budafite imikoreshereze imwe"
+    },
+    {
+      "name": "Ntushobora guhuza ubutaka butagengwa n'amategeko y'ubutaka amwe"
+    },
+    {
+      "name": "Ntushobora guhuza ubutaka butati ubwo umuntu umwe"
+    },
+    {
+      "name": "Ubutaka bwagenewe ubuhinzi n'ubwo gutura ntibushobora kuvangwa"
+    },
+    {
+      "name": "Ubutaka bwagenewe ubuhinzi butagejeje kuri hegitari ebyiri ntibushobora kugabanywa"
+    },
+    {
+      "name": "Iyo ubutaka bwagenewe ubuhinzi burengeje hegitari bugabanyijwe, buri gice kigomba kuba gifite byibuze hegitari imwe"
+    },
+    {
+      "name": "Ubu butaka ntiboshobora guhererekanywa kuko bugwatirije"
+    },
+    {
+      "name": "Usabirwa aracyari muzima"
+    },
+    {
+      "name": "Banyiri butaka bagomba kuba barenze umwe!"
+    },
+    {
+      "name": "The entered quantity exceeds the available quantity"
+    },
+    {
+      "name": "No such Gazette"
+    },
+    {
+      "name": "Imiterere y'umugereka ntiyemewe: "
+    },
+    {
+      "name": " Imiterere yemewe: "
+    },
+    {
+      "name": "Amakuru yo muri NIDA arerekana ko usaba serivisi ataruzuza imyaka 18, hitamo \"utaruzuza imyaka 18\" kugirango usabe"
+    },
+    {
+      "name": "Amakuru yo muri NIDA arerekana ko usaba serivisi arengeje imyaka 18, hitamo \"urengeje imyaka 18\" kugirango usabe"
+    },
+    {
+      "name": "Amakuru yo muri NIDA arerekana ko usaba serivisi arengeje imyaka 16, saba ukoresheje indangamuntu yawe"
+    },
+    {
+      "name": "Amakuru yo muri NIDA arerekana ko usaba serivisi ataruzuza imyaka 16, saba ukoresheje inomero yo gusaba"
+    },
+    {
+      "name": "Ifoto washyize muri dosiye yawe ntituma tumenya uwo uriwe. Shyiramo indi igaragara neza"
+    },
+    {
+      "name": "Ifoto washyize muri dosiye yawe irerekana abantu banyuranye. Shyiramo indi ikugaragaza neza"
+    },
+    {
+      "name": "Ifoto washyize muri dosiye ntigaragara neza. Shaka indi ifite foruma yisumbuye wongere uyishyiremo."
+    },
+    {
+      "name": "Amaso yawe arareba hasi cyane ku ifoto washyize muri dosiye. Shaka indi ifoto igaragaza neza amaso wongere uyishyiremo"
+    },
+    {
+      "name": "Amaso yawe ntareba neza muri kamera ku ifoto washyize muri dosiye. Shaka indi ifoto igaragaza amaso neza wongere uyishyiremo"
+    },
+    {
+      "name": "Ifoto wahyize muri dosiye yawe ntigaragara neza mu butambike. Shaka ifoto igaragara neza wongere uyishyiremo"
+    },
+    {
+      "name": "Ifoto washyize muri dosiye yawe ntigaragara neza mu buhagarike. Shaka ifoto igaragara neza wongere uyishyiremo"
+    },
+    {
+      "name": "Umubare ntarengwa w'abavugizi wuzuye, ntushobora kongeraho undi keretse ubanje ugakuraho umwe mubo wongeyemo."
+    },
+    {
+      "name": "Umuvugizi yongewemo, "
+    },
+    {
+      "name": " undi muvugizi/abandi bavugizi bagomba kongerwaho."
+    },
+    {
+      "name": "Ntushobora kongeraho umuvugizi incuro ebyiri."
+    },
+    {
+      "name": "Usabirwa yarapfuye"
+    },
+    {
+      "name": "Data na Mama ntibashobora kugira numero imwe y'irangamuntu."
+    },
+    {
+      "name": "Se agomba kuba igitsina gabo"
+    },
+    {
+      "name": "Nyina agomba kuba igitsina gore"
+    },
+    {
+      "name": "Usaba cyangwa Ababyeyi ntibashobora kuba Umumenyesha"
+    },
+    {
+      "name": "Enter parcel details"
+    },
+    {
+      "name": "Enter primary land owner"
+    },
+    {
+      "name": "Enter details of Owner"
+    }
+  ],
+  "dashboardTitles": [
+    {
+      "name": "Dosiye zose"
+    },
+    {
+      "name": "Ubushobozi"
+    }
+  ],
+  "userTypes": [
+    {
+      "name": "Umuturage"
+    },
+    {
+      "name": "Uhagarariye"
+    },
+    {
+      "name": "Umukozi ushinzwe irangamimerere"
+    },
+    {
+      "name": "Umunyamabanga Nshingwabikorwa"
+    },
+    {
+      "name": "Umuyobozi"
+    },
+    {
+      "name": "Anonymous User"
+    },
+    {
+      "name": "Uwungirije uhagarariye Irembo"
+    },
+    {
+      "name": "Uhagarariye Irembo wo mu rwego rwo hejuru"
+    },
+    {
+      "name": "Ufasha abatugana wo mu rwego rwa 1"
+    },
+    {
+      "name": "Ufasha abatugana wo mu rwego rwa 2"
+    },
+    {
+      "name": "Ufasha abatugana wo mu rwego rwa 3"
+    },
+    {
+      "name": "Rwiyemezamirimo ukorana n'Irembo"
+    },
+    {
+      "name": "Ukuriye Ikoranabuhanga ku Karere"
+    },
+    {
+      "name": "Uhagarariye Rwiyemezamirimo ukorana n'Irembo"
+    },
+    {
+      "name": "Uhagarariye abafasha abatugana"
+    },
+    {
+      "name": "Noteri"
+    },
+    {
+      "name": "Noteri w'ubutaka ubifitiye ububasha"
+    },
+    {
+      "name": "Umunyamabanga w'Ambasade"
+    },
+    {
+      "name": "Umukozi w'Ubushinjacyaha Bukuru "
+    },
+    {
+      "name": "Umuyobozi mu Bushinjacyaha Bukuru"
+    },
+    {
+      "name": "Umukozi w'Inama y'Igihugu y'Amashuri Makuru"
+    },
+    {
+      "name": "Umukozi wa MINALOC"
+    },
+    {
+      "name": "Umukozi ukuriye ba Rwiyemezamirimo bakorana n'Irembo"
+    },
+    {
+      "name": "Umukozi w'Inama Nkuru y'Itangazamakuru"
+    },
+    {
+      "name": "Umukozi wa RBC"
+    },
+    {
+      "name": "Umuyobozi w'abakozi ba RIB"
+    },
+    {
+      "name": "Umukozi wa RIB"
+    },
+    {
+      "name": "Umuyobozi mukuru w'Inama Nkuru y'itangazamakuru"
+    },
+    {
+      "name": "MHC OGS Officer"
+    },
+    {
+      "name": "Umuyobozi muri Polisi"
+    },
+    {
+      "name": "Umukozi wa Polisi"
+    },
+    {
+      "name": "Umuyobozi muri MINIJUST"
+    },
+    {
+      "name": "Umuyobozi w'Ubutaka mu Karere"
+    },
+    {
+      "name": "Umukozi wa NESA"
+    },
+    {
+      "name": "Umukozi w'Ingoro Ndangamurage y'u Rwanda"
+    },
+    {
+      "name": "Inararibonye muri RGB"
+    },
+    {
+      "name": "Umuyobozi w' Ishami muri RGB"
+    },
+    {
+      "name": "Umuyobozi wa Serivisi muri RGB"
+    },
+    {
+      "name": "Umuyobozi Mukuru wa RGB"
+    },
+    {
+      "name": "Ushinzwe gutanga impushya muri RURA"
+    },
+    {
+      "name": "Umuyobozi ushinzwe amategeko agenga ubwikorezi muri RURA"
+    },
+    {
+      "name": "Umukozi ushinzwe amategeko agenga ubwikorezi muri RURA"
+    },
+    {
+      "name": "Umukozi wakira abantu kuri Senteri yo gupima COVID 19 muri RBC"
+    },
+    {
+      "name": "Umuyobozi wa Senteri yo gupima COVID 19 muri RBC"
+    },
+    {
+      "name": "Umukozi w'Igazeti ya Leta"
+    },
+    {
+      "name": "Umuyobozi w'Igazeti ya Leta"
+    },
+    {
+      "name": "Abakozi b'ikibuga cy'indege"
+    },
+    {
+      "name": "Umukozi ushinzwe impushya muri RURA"
+    },
+    {
+      "name": "Umuyobozi w'abakozi muri RURA"
+    },
+    {
+      "name": "Umuyobozi muri RSSB"
+    },
+    {
+      "name": "Umukozi wa RSSB"
+    },
+    {
+      "name": "Inararibonye mu by'ubutaka"
+    },
+    {
+      "name": "Umwanditsi w'Ubutaka"
+    },
+    {
+      "name": "Land Processor"
+    },
+    {
+      "name": "Umuyobozi mu Butaka"
+    },
+    {
+      "name": "Umukozi wa NESA wo mu rwego rwa 2"
+    },
+    {
+      "name": "Ufasha abatugana wo hanze"
+    },
+    {
+      "name": "Embassy Admin"
+    }
+  ],
+  "serviceMetadataNames": [
+    {
+      "name": "Ndisabira"
+    },
+    {
+      "name": "Umwana"
+    },
+    {
+      "name": "Usaba"
+    },
+    {
+      "name": "Umuvandimwe"
+    },
+    {
+      "name": "Urusengero"
+    },
+    {
+      "name": "Soisiyete"
+    },
+    {
+      "name": "Umuryango utari uwa Leta"
+    },
+    {
+      "name": "Koperative"
+    },
+    {
+      "name": "Ishyirahamwe ry'umirimo"
+    },
+    {
+      "name": "Guverinoma"
+    },
+    {
+      "name": "Benshi"
+    },
+    {
+      "name": "Umwenegihugu"
+    },
+    {
+      "name": "Abanyarwanda baba mu mahanga"
+    },
+    {
+      "name": "Umunyamahanga"
+    },
+    {
+      "name": "Umunyamakuru w'u Rwanda"
+    },
+    {
+      "name": "Umunyamakuru wa EAC"
+    },
+    {
+      "name": "Umunyamakuru w’amahanga"
+    },
+    {
+      "name": "Abakuze"
+    }
+  ],
+  "serviceMetadataDescriptions": [
+    {
+      "name": "Kwisabira"
+    },
+    {
+      "name": "Gusabira umwana"
+    },
+    {
+      "name": "Gusabira umuvandimwe cyangwa uwo mu muryango"
+    }
+  ],
+  "staticText": {
+    "Language": "Kinyarwanda",
+    "TextLogin": "Injira",
+    "TextPhoneEmail": "Telefoni/imeli",
+    "PphoneEmail": "Telefoni/imeli",
+    "TextPassword": "Ijambo ry'ibanga",
+    "PEnterPassword": "Andika ijambo ry'ibanga",
+    "RegisterForgotPassword": "Wibagiwe ijambo ry'ibanga?",
+    "RegisterDontHaveAccount": "Nta konti ufite?",
+    "RegisterCreateOne": "Yifungure",
+    "BtnFindApplications": "Shaka dosiye",
+    "BtnSignUp": "Iyandikishe",
+    "BtnLogin": "Kwinjira",
+    "HeaderUserDropDownProfile": "Umwirondoro",
+    "HeaderUserDropDownApplication": "Dosiye zanjye",
+    "HeaderLogout": "Sohoka ku rubuga",
+    "PaymentTitlePart1": "Dosiye yawe isaba",
+    "PaymentTitlePart2": "Yakozwe neza",
+    "TextBillId": "Kode yo kwishyuriraho",
+    "TextLostBillId": "Kode yo kwishyuriraho yatakaye",
+    "TextNewBillId": "Kode yo kwishyuriraho nshya",
+    "TextApplicationType": "Ubwoko bwa Dosiye",
+    "PaymentBillIdMessage": "Koresha iyo kode wishyura serivisi",
+    "TextApplicationFor": "Dosiye yawe isaba",
+    "TextServiceFee": "Ikiguzi cya serivisi",
+    "TextAgentFee": "Amafaranga yishyurwa uhagarariye Irembo",
+    "TextFree": "Ntiyishyurwa",
+    "TextTotal": "Imbumbe",
+    "PaymentAskMethod": "Urifuza kwishyura ute?",
+    "PaymentTypes": "Ushobora kwishyura ukoresheje uburyo bukurikira:MTN(*182#), Airtel (*182#) cyangwa Tigo (*310#) cyangwa se ukajya ku ishami rya BK cyangwa uyihagarariye ukorera hafi yawe",
+    "BtnBackHome": "Subira inyuma",
+    "PaymentProceedToPayment": "Ishyura online",
+    "NotificationTitleMessage1": "Urifuza ko tukoherereza ubutumwa bujyanye na dosiye yawe",
+    "NotificationTitleMessage2": " Dukoresheje ubuhe buryo?",
+    "TextPhoneNumber": "Nomero ya telefoni (Rwanda)",
+    "TextEmailAddress": "Imeli",
+    "PEnterPhoneNumber": "Andika Nomero ya Telefoni",
+    "PEnterEmail": "Andika Aderesi Imeli",
+    "TextProcessingDetails": "Ibijyanye no gutunganya dosiye",
+    "TextFirstTimeApplying": "Gusaba bwa mbere",
+    "TextReasonForRequest": "Impamvu usaba serivisi",
+    "PselectReason": "Hitamo impamvu usaba icyi cyemezo",
+    "TextOtherReasonForRequest": "Andika indi mpamvu",
+    "POtherReason": "Andika impamvu usaba icyi cyemezo",
+    "TextCollectionIsInJail": "Usaba ari mu buroko?",
+    "TextPassportNumber": "Nomero ya pasiporo",
+    "PEnterPid": "Andika nomero ya pasiporo",
+    "TextFirstName": "Izina",
+    "PFname": "Andika izina",
+    "TextLastName": "Andi mazina",
+    "PLname": "Shyiramo andi mazina",
+    "TextGender": "Igitsina",
+    "TextCivilStatus": "Irangamimerere",
+    "PSelectCivilStatus": "Hitamo Irangamimerere",
+    "PSelectApplicationType": "Hitamo ubwoko bwa dosiye",
+    "TextFatherNames": "Amazina ya Se",
+    "PEnterFatherName": "Andika amazina ya So",
+    "TextMotherNames": "Amazina ya Nyoko ",
+    "PEnterMotherName": "Andika amazina ya Nyoko ",
+    "TextBirthLocation": "Aho wavukiye",
+    "PEnterBirthLocation": "Shyiramo aho wavukiye",
+    "TextBirthCountry": "Igihugu wavukiyemo",
+    "PSelectPlaceDate": "Hitamo aho wavukiye",
+    "TextBirthDate": "Itariki y'amavuko",
+    "PSelectBirthDate": "Hitamo itariki",
+    "BtnSave": "Bika by'agateganyo",
+    "BtnSaveInfo": "Bika",
+    "TextCountry": "Igihugu",
+    "PSelectCountry": "Hitamo igihugu",
+    "TextProvince": "Intara",
+    "PSelectProvince": "Hitamo Intara",
+    "TextDistrict": "Akarere",
+    "PSelectDistrict": "Hitamo Akarere",
+    "TextSector": "Umurenge",
+    "PSelectSector": "Hitamo Umurenge",
+    "TextCell": "Akagari",
+    "PSelectCell": "Hitamo Akagari",
+    "TextVillage": "Umudugudu",
+    "PSelectVillage": "Hitamo Umudugudu",
+    "AdditionalFatherDetails": "Umwirondoro wa So",
+    "AdditionalFatherBirthDate": "Itariki y'amavuko ya So",
+    "PSelectDate": "Hitamo Itariki",
+    "TextIdType": "Ubwoko bw'icyangombwa",
+    "PSelectIdType": "Hitamo ubwoko bw'icyangombwa",
+    "AdditionalFatherNID": "Nomero y'indangamuntu ya So",
+    "PFatherNid": "Andika nomero y'indangamuntu ya So",
+    "AdditionalFatherPassport": "Nomero ya pasiporo ya So",
+    "PfatherPid": "Pasiporo ya So",
+    "AdditionalFatherLive": "Atuye mu Rwanda?",
+    "AdditionalMotherDetails": "Umwirondoro wa Nyoko",
+    "OtherParentDetails": "Umwirondoro w'undi Mubyeyi",
+    "AdditionalMotherBirthDate": "Itariki y'amavuko ya Nyoko",
+    "AdditionalMotherNID": "Nomero y'indangamuntu ya Nyoko",
+    "PmotherNid": "Nomero y'indangamuntu ya Nyoko",
+    "AdditionalMotherPassport": "Nomero ya Pasiporo ya Nyoko",
+    "PmotherPid": "Pasiporo ya Nyoko",
+    "AdditionalMotherLive": "Atuye mu Rwanda?",
+    "TextAttachments": "Imigereka",
+    "TextOtherAttachments": "Indi Migereka",
+    "TextChooseAttachments": "Hitamo imigereka",
+    "ApplicationsApplicantInfo": "Dosiye ziri ku migereka",
+    "WitnessDetails": "Umwirondoro w'abahamya",
+    "WitnessNationality": "Ubwenegihugu bw'abahamya",
+    "PWitnessNationality": "Hitamo Ubwenegihugu bw'abahamya",
+    "WitnessNationalId": "Nomero y'indangamuntu y'umuhamya",
+    "PEnterNid": "Andika nomero y'indangamuntu",
+    "BtnAdd": "Ongeramo",
+    "WitnessNames": "Amazina y'umuhamya",
+    "PWitnessNames": "Andika amazina y'umuhamya",
+    "DeclarantNames": "Amazina y'umenyekanisha",
+    "PDeclarantNames": "Andika amazina y'umenyekanisha",
+    "WitnessPassportId": "Nomero ya Pasiporo y'umuhamya",
+    "PWitnessPid": "Andika nomero ya Pasiporo y'umuhamya",
+    "FamilyRepresentativesDetails": "Umwirondoro y'uhagarariye Umuryango",
+    "PrepresentativeNationality": "Hitamo ubwenegihugu bw'abahamya",
+    "FamilyRepresentativesNationalID": "Nomero y'indangamuntu y'uhagarariye Umuryango",
+    "PEnterRepresentatitivesID": "Andika nomero y'indangamuntu y'uhagarariye Umuryango",
+    "FamilyRepresentativesNames": "Amazina y'uhagarariye Umuryango",
+    "PForeignerRepreNames": "Andika amazina y'uhagarariye Umunyamahanga",
+    "FamilyRepresentativesPassport": "Pasiporo y'uhagarariye umunyamahanga",
+    "PReprePassportID": "Andika nomero ya pasiporo y'uhagarariye Umunyamahanga",
+    "WitnessInfo": "Amakuru ajyanye n'abahamya",
+    "TextNationalIdNumber": " Nomero y'indangamuntu",
+    "TextParentNationalIdNumber": "Inomero y'irangamuntu y'ababyeyi",
+    "TextGuardianNationalIdNumber": "Inomero y'indangamuntu",
+    "TextFatherNationalIdNumber": "Inomero y'irangamuntu ya Se",
+    "TextMotherNationalIdNumber": "Inomero y'irangamuntu ya nyina",
+    "TextNationality": "Ubwenegihugu ",
+    "TextNationalityType": "Ubwoko bw'ubwenegihugu ",
+    "FamilyRepresentativeInfo": "Amakuru ajyanye n'abahagarariye umuryango",
+    "BtnEdit": "HINDURA",
+    "BtnBack": "SUBIRA INYUMA",
+    "PlaceHolderFor": "kugirango",
+    "PlaceHolderApplicant": "Usaba",
+    "TextNationalIdNumberShort": "Nomero y'indangamuntu",
+    "TextIsRequired": "Irakenewe",
+    "TextMessageMustBe": "igomba",
+    "TextMessageShouldBe": "igomba kuba nibura",
+    "TextDigits": "kuba imibare",
+    "TextValidEmailMessage": "Imeli irimo ikosa",
+    "fetchusernational-title": "Nomero y'indangamuntu",
+    "FetchUserPassportTitle": "Nomero ya Pasiporo ",
+    "FetchUserChildIDTitle": "Nomero y'ifishi y'umwenegihugu",
+    "FetchUserChildID": "Nomero y'ifishi y'umwenegihugu",
+    "PEnterChildId": "Andika Nomero y'ifishi y'umwenegihugu",
+    "BtnFetch": "Kuzana",
+    "TextHome": "Ahabanza",
+    "TextApplications": "Serivisi Zasabwe",
+    "TextDashboard": "Imbonerahamwe",
+    "TextPending": "Iracyategereje",
+    "TextApproved": "Yemejwe",
+    "TextEscalated": "Yoherejwe ku rwego rwo hejuru",
+    "TextRejected": "Bayanze",
+    "TextScheduled": "Yahawe gahunda",
+    "TextNotes": "Ibyanditse",
+    "PNotes": "Ibyanditse",
+    "BtnSubmit": "Emeza",
+    "MessageForApproval": "Nibyo urashaka kwemeza iyi dosiye?",
+    "RIBMessageForApproval": "Mu kubyemeza, ndemeza ko amakuru yose yatanzwe ar'ayukuri kandi ari ku gihe.",
+    "BtnApprove": "Emeza",
+    "BtnTested": "Emeza ko Yapimwe",
+    "TextVerification": "Gusuzuma",
+    "MessageForAssistance": "Udashoboye guhamagara iyi telefone, wasaba umwe mu bahagarariye Irembo akagufasha",
+    "PClientPhoneNumber": "Andika nomero ya telefoni y'umukiriya",
+    "TextVerificationCode": "Kode yo gusuzuma",
+    "PVerificationHere": "Kode yo gusuzuma irimo hano",
+    "TextDidnotReceivedCode": "Nta Kode wabonye?",
+    "TextResendCode": "Ongera wohereze Kode",
+    "TextCertificateLanguage": "Ururimi Icyemezo cyanditswemo",
+    "PChoosePreferedLanguage": "Hitamo ururimi ushaka",
+    "BtnDownloadEcertificate": "Kuramo Icyemezo Koranabuhanga",
+    "BtnDownloadInvoice": "Kuramo inyemezabwishyu",
+    "BtnDownloadReceipt": "Kuramo igitansi",
+    "BtnSendCode": "Saba indi kode",
+    "TextChooseDate": "Hitamo itariki",
+    "PYear": "Umwaka ",
+    "PMonth": "Ukwezi",
+    "Pday": "Umunsi",
+    "PDownloadCert": "Kuramo Icyemezo",
+    "PPrintCert": "Sohora icyemezo",
+    "PDownlaodReceipt": "Kuramo igitansi",
+    "PDownloadInvoice": "Kuramo inyemezabwishyu",
+    "HomeServiceNotFound": "Ntakirimo",
+    "NotApplicationFound": "Nta dosiye irimo",
+    "TextSuggestion": "Ibitekerezo:",
+    "DatatableNotFoundCitizen": "Niba ushaka amakuru kuri dosiye banza urebe neza ko nomero ya dosiye ukoresha ariyo",
+    "DatatableNotFoundAGent": "Banza umenye niba warigeze gusabira undi muntu serivisi",
+    "DatatableNotFoundAgent": "Niba ushaka amakuru kuri dosiye banza urebe neza ko nomero ya dosiye  na nomero y'indangamuntu ukoresha arizo",
+    "DatatableNotFoundOfiicer": "Nta dosiye isaba iri kuri ibi biro",
+    "PSearchOptions": "Amahitamo yo gushakisha",
+    "PSearchApplications": "Gushakisha dosiye",
+    "BtnSearch": "Gushakisha",
+    "VerifyApplicantSelectService": "Banza uhitemo serivisi ubone gusaba",
+    "VerifyApplicantAbout": "Ibyerekeye Serivisi",
+    "TextProcessingTime": "Igihe dosiye imara",
+    "TextPrice": "Igiciro",
+    "TextProvidedBy": "Yatanzwe na",
+    "TextApplyingFor": "Urasabira nde?",
+    "TextRequiredAttachments": "Imigereka isabwa",
+    "TextShortNotes": "Icyitonderwa",
+    "VerifyApplicantShortNote": " Ntushobora kubona iyi serivisi utabanje kwinjira ku rubuga, kugirango bishoboke injira nk’udafite konti cyangwa ushyiremo konti yawe ubone gukomeza.",
+    "VerifyApplicantLoginAsGuest": "Injira nk'umushyitsi",
+    "VerifyApplicantLoginAccount": "Injira na konti",
+    "TextOTPVerify": "Gusuzuma ijambo ry'ibanga rikoreshwa rimwe",
+    "BtnCancel": "Hagarika",
+    "BtnCancelPassword": "Hagarika",
+    "BtnCloseApplication": "Funga idosiye",
+    "BtnApply": "Saba",
+    "PProvidepassword": "Shyiramo  ijambo ry'ibanga ",
+    "TextForgotPassword": "Wibagiwe ijambo ry'ibanga?",
+    "TextInfo": "Amakuru",
+    "TextFullNames": "Izina ryuzuye",
+    "PStartDate": "itariko byatangiriye",
+    "EndDate": "Itariki byarangiriye",
+    "TextApplicationNo": "Nomero ya dosiye",
+    "TextRequesterDetails": "Umwirondoro w'usaba serivisi",
+    "TextApplicantDetails": "Umwirondoro w'usaba serivisi",
+    "TextSpouseDetails": "Umwirondoro w'uwo mwashakanye",
+    "TextDeceasedDetails": "Umwirondoro w'uwitabye Imana",
+    "TextMarriageDetails": "Ibyereke ishyingirwa",
+    "TextDeathDetails": "Ibyerekeye kwitaba Imana",
+    "TextChairpersonDetails": "Umwirondoro wa Perezida w'Inama",
+    "TextHeadFamiltDetails": "Umwirondoro w'umukuru w'umuryango",
+    "TextApplicationReason": "Impamvu yo gusaba",
+    "TextFatherDetails": "Umwirondoro wa So",
+    "TextMotherDetails": "Umwirondoro wa Nyoko",
+    "TextIdentificationNumber": "No y'indangamuntu",
+    "TextName": "Izina",
+    "Representatives": "Abahagarariye Umuryango",
+    "TextFamilyMemberDetails": "Abagize Umuryango",
+    "TextRelationship": "Isano",
+    "POtp": "Ijambo ry'ibanga rikoreshwa rimwe",
+    "BtnVerify": "Suzuma",
+    "ServicePreviewSelectService": "Hitamo serivisi muri izi zikurikira ubone gusaba",
+    "ServicePreviewAboutService": "Ibyerekeye iyi serivisi",
+    "ServicePreviewApplyingFor": "Urasabira nde?",
+    "ServicePreviewLookingFor": "What are you looking for?",
+    "TextConditionalAttachments": "Indi migereka yasabwa",
+    "TextOptionalAttachments": "Umwe muri iyi migereka urakenewe",
+    "ServicePreviewLoggedInMessage": "Ntushobora gusaba iyi serivisi igihe winjiye ku rubuga",
+    "WelcomeToIremboMessage": "Murakaza neza",
+    "PSearchServices": "Gushakisha serivisi",
+    "RegisterNewAccountSetup": "Gufungura konti",
+    "RegisterNewAccountSetupSubtitle": "Kurikiza aya mabwiriza yo kwiyandikisha kugirango udufashe kugufungurira konti",
+    "RegisterStep1": "Ohereza amakuru asabwa",
+    "RegisterStep2": "Isuzuma rya konti",
+    "RegisterStep3": "Shyiramwo ijambo ry'ibanga ryawe",
+    "RegisterAccountSetup": "Fungura konti",
+    "BtnNext": "Ibikurikira",
+    "BtnRegister": "Iyandikishe",
+    "RegisterSuccessTitle": "Konti yawe yafunguwe neza",
+    "BtnLoginToYourAccount": "Injira muri konti yawe",
+    "HomeServiceNotFoundMessage": "Ishakisha ryawe nta konti nimwe bihuye",
+    "HomeServiceNotFoundHint": "Reba neza ko amagambo yose yanditse neza. Gerageza gukoresha amagambo-shingiro rusange. Gerageza gukoresha amagambo-shingiro make",
+    "ForgetPassword": "Wibagiwe ijambo ry'ibanga?",
+    "ForgetPasswordSubtitle": "Shyiramo  nomero ya telefoni cyangwa aderesi Imeli yanditse kuri konti no kuri kode byawe  ",
+    "ResetStep1": "Tanga nomero ya telefoni",
+    "ResetStep2": "Urohererezwa kode yo gusuzuma, hanyuma wohereze kugirango ushobore gusuzuma kode",
+    "ResetStep3": "Shyiramo ijambo ry'ibanga rishya hanyuma wemeze",
+    "PasswordResetTitle": "Guhindura Ijambo ry'ibanga",
+    "WhereToSendOtp": "Hitamo aho wohereza ijambo ry'ibanga",
+    "BtnResetpassword": "Hindura ijambo ry'ibanga",
+    "LinkcancelAction": "Hagarika iki gikorwa",
+    "ResetSuccessTitle": "Ijambo ry'ibanga ryongewemo neza",
+    "ResetSuccessSubtitle": "Ubu ushobora kwinjira muri konti yawe ukoresheke ijambo ryawe ry'ibanga rishyashya",
+    "SetNewPassword": "Shyiramo ijambo ry'ibanga rishya",
+    "TextNewPassword": "Ijambo ry'ibanga rishya",
+    "PNewPassword": "Ijambo ry'ibanga rishya",
+    "PPasswordPolicy": "Ijambo ry'ibanga rigomba kugira inyuguti 8, inkuru n'intoya, inyuguti zihariye ndetse n'imibare",
+    "TextConfirmPassword": "Emeza ijambo ry'ibanga rishya",
+    "PConfirmPassword": "Emeza ijambo ry'ibanga",
+    "BtnSubmitNewPassword": "Ohereza ijambo ry'ibanga rishya",
+    "TextSearchApplications": "Gushakisha dosiye",
+    "CertificateNotFound": "Bona idosiye yawe byihuse",
+    "DocumentNotFound": "Ibyo ushaka nta nyandiko nimwe bihuye",
+    "DocumentNotFOundMessage": "Reba neza ko nomero ya dosiye cyangwa nomero y'indangamuntu ariyo",
+    "TextService": "Serivisi",
+    "TextApplicationNumber": "Nomero ya dosiye",
+    "SubmittedOn": "Byoherejwe kuwa",
+    "TextParentDetails": "Umwirondoro w'ababyeyi",
+    "BtnRequestAction": "Igikorwa gisabwa",
+    "BtnReject": "Kwanga",
+    "BtnEscalate": "Kohereza dosiye ku rwego rwo hejuru",
+    "TextMyApplications": "Dosiye zanjye",
+    "TextPayments": "Kwishyura",
+    "TextProductivity": "Umusaruro",
+    "TextCommissions": "Komisiyo",
+    "TotalCommissions": "Komisiyo Zose",
+    "TotalTarrifCommissions": "Igiciro cya Komisiyo",
+    "IremboCommissions": "Komisiyo z'Irembo",
+    "AgentCommissions": "Komisiyo z'abahagarariye Irembo",
+    "TotalAgents": "Abahagarariye Irembo bose",
+    "ActiveAgents": "Abahagarariye Irembo bakora",
+    "MyCommissions": "Komisiyo Zanjye",
+    "TextPendingApplications": "Dosiye zitegereje gutunganywa",
+    "TextApprovedApplications": "Dosiye zemejwe",
+    "TextEscalatedApplications": "Dosiye zoherejwe ku rwego rwo hejuru",
+    "TextRejectedApplications": "Dosiye zanzwe",
+    "ServiceBirthGroupName": "Service z'Ivuka",
+    "TextApplicationStep1": "1. Dosiye isaba",
+    "PSelectRelationship": "Hitamo isano",
+    "BirthDetails": "ibyerekeye ivuka",
+    "BirthHospital": "Yavukiye ku bitaro?",
+    "TextMedicalCerticateIssuedAt": "Icyemezo cyatanzwe kuwa…",
+    "TextHealthEstablishment": "Ikigo Cyita ku Buzima",
+    "PSelectHealthEstablishement": "Hitamo Ikigo cyita ku Buzima",
+    "TextAuthorityName": "Izina ry'Umuyobozi",
+    "PSelectAuthorityNames": "Andika Izina ry'Umuyobozi",
+    "TextApplicationStep2": "2. Incamake",
+    "TextApplicationStep3": "3. Kwishyura",
+    "ServiceMarriageGroupName": "Serivisi z'ishyingirwa",
+    "TextSpouseNationality": "Ubwenegihugu bw'uwo mwashakanye",
+    "PSelectCitizenship": "Hitamo Ubwenegihugu",
+    "TextSpouseAlive": "Uwo mwashakanye ariho?",
+    "TextDeathDate": "Itariki y'urupfu",
+    "TextLegalMarriageDetails": "Ibyerekeye Gushyingirwa imbere y'amategeko",
+    "TextMarriageDate": "Itariki y'ishyingirwa",
+    "TextMarriageOfficiator": "Umukozi w'iranga mimerere wabashyingiye",
+    "POfficiatorNames": "Amazina y'abakozi b'irangamimerere bayoboye umuhango wo gushyingirwa",
+    "MarriageMatrimonialRegime": "Imicungire y'umutungo w'abashyingiranywe",
+    "PMatrimonialRegime": "Imicungire y'umutungo w'abashyingiranywe",
+    "TextMarriageLocation": "Aho washyingiriwe imbere y'amategeko",
+    "PMarrigePlace": "Aho washyingiriwe",
+    "TextMarriageDateDetails": "Itariki washyingiriwe imbere y'amategeko",
+    "MarriagereligoiusDetails": "Ibyerekeye gusezerana mu rusengero",
+    "MarriagereligoiusLocation": "Wasezeraniye mu rusengero?",
+    "MarriagereligoiusDate": "Itariki wasezeraniye mu rusengero",
+    "MarriagereligoiusOffiator": "Izina rw'uwatanze isakaramentu rwo gushyingirwa",
+    "MarriagereligoiusSameLocation": "Gushyingirwa imbere y'amategeko no gusezerana mu rusengero byabereye ahantu hamwe?",
+    "MarriagereligoiusTookPlaceInRwanda": "Gusezerana mu rusengero byabereye mu Rwanda?",
+    "ServiceDeathGroupName": "Serivisi zijyanye no kwitaba Imana",
+    "TextDeceasedNationality": "Ubwenegihugu bw'uwitabye Imana",
+    "DeceasedAbove16": "Uwitabye Imana yari arengeje imyaka 16?",
+    "TextDeceasedRelationship": "Isano n'Uwitabye Imana",
+    "TextRelationshipWithApplicant": "isano n'usaba serivisi",
+    "DeceasedHaveSpouse": "Uwitabye Imana yarafite uwo bashakanye?",
+    "DeceasedSpouseName": "izina ry'uwari yarashakanye n'uwitabye imana",
+    "PDeceasedSpouseName": "Andika izina ry'uwari warashakanye n'uwitabye Imana",
+    "TextDeathInformation": "Amakuru ajyanye n'urupfu",
+    "TextDeathCause": "Impamvu y'urupfu",
+    "PCauseOfDeath": "Impamvu y'urupfu",
+    "TextOtherCauseForRequest": "Andika indi mpamvu",
+    "POtherCauseOfDeath": "Andika impamvu y'urupfu",
+    "TextIndustries": "Ibyiciro by'imyuga",
+    "PSelectProfession": "Hitamo umwuga",
+    "TextProfession": "Umwuga",
+    "TextDeathLocation": "Aho yaguye",
+    "TextDeathOccurInHospital": "Yaguye mu bitaro?",
+    "TextAuthorityCerticateIssuedAt": "Icyemezo cyatangiwe..",
+    "TextDeathOccurInRwanda": "Yaguye mu Rwanda",
+    "TextOccupationDetails": "Ibijyanye n' icyo ukora",
+    "MarriageRegistrationLocation": "Aho wiyandikishije ngo ushyingirwe",
+    "IdentityLossFirstIssuance": "Ibyerekeye icyangombwa wahawe ubwa mbere",
+    "IdentityLossFirstIssuancePlace": "Aho waboneye indangamuntu ya mbere",
+    "TextAdditionalDetails": "Ibindi",
+    "DivorceCourtDate": "Itariki y'icyemezo cy'urukiko",
+    "DivorceFileNumber": "Nomero ya dosiye",
+    "PCourtFileNumber": "Andika nomero ya dosiye y'urubanza",
+    "TextGuardian": "Uri umwishingizi w'umwana?",
+    "ServiceGuardianshipGroupName": "Serivisi ry'ubwishingire",
+    "TextChildDetails": "Umwirondoro w'umwana",
+    "TextGuardianshipDetails": "Ibyerekeye ubwishingire",
+    "GuardianshipCouncilInfo": "Amakuru kuri Perezida no  ku Nama y'Ubwishingire",
+    "GuardianshipCouncilDate": "Itariki y'Inama y'Ubwishingire",
+    "GuardianshipWillInfo": "Amakuru kw' Izungura",
+    "GuardianshipWillOf": "Izungura rya",
+    "GuardianshipWillName": "Izina ry'umuzungura",
+    "PEnterWillOwner": "Andika amazina yose y'umuzungura",
+    "GuardianshipWillOwnerIdentificationNumber": "Nomero y'indangamuntu y'umuzungura",
+    "PWillOwnerIDNumber": "Andika nomero y'indangamuntu y'umuzungura",
+    "TextChildParentsDetails": "Umwirondoro w'ababyeyi by'umwana",
+    "TextSuccessors": "Abazungura ntibujuje imyaka y'ubukure cyngwa bari bafitanye amakimbirane?",
+    "TextFamilyMemberInfo": "Amakuru ku bagize umuryango",
+    "TextFamilyMemberNationality": "Ubwenegihugu bw'abagize umuryango",
+    "MemberPassport": "Nomero ya pasiporo y'abagize umuryango",
+    "PEnterPassportNumber": "Andika nomero ya pasiporo",
+    "MemberNames": "Amazina y'abagize umuryango",
+    "PMemberName": "Andika amazina y'abagize umuryango",
+    "PEnterFname": "Andika izina ryawe",
+    "PEnterLname": "Andika irindi zina hano",
+    "PEnterFatherNames": "Andika amazina ya So",
+    "PEnterMotherNames": "Andika amazina ya Nyoko ",
+    "TextPartnerDetails": "Umwirondoro w'uwo babyaranye",
+    "PLegalOfficiator": "Andika izina ry'umukozi w'irangamimerere  wayoboye umuhango wo gushyingirwa",
+    "MarriagelegalTookPlaceInRwanda": "Gushyingirwa imbere y'amategeko byabereye mu Rwanda?",
+    "ServiceRecognitionGroupName": "Serivisi zo kwemeza",
+    "TextSpouseResidence": "Aho uwo mwashakanye atuye",
+    "SpouseliveInRwanda": "Uwo mwashakanye atuye mu Rwanda?",
+    "ServiceAdoptionGroupName": "Serivisi zo kurera umwana utabyaye",
+    "AdoptionServiceHaveSpouse": "Ufite uwo mwashakanye?",
+    "AdotptionSpouseCitizenship": "Ubwenegihugu bw'uwo mwashakanye",
+    "AdotptionSpouseResidence": "Aho uwo mwashakanye atuye",
+    "AdotptionSpouseLive": "Uwo mwashakanye atuye mu Rwanda?",
+    "AdotptionHeadAndChildDetails": "Umwirondoro w'umukuru w'umuryango n'uw'umwana",
+    "AdotptionHeadFamilyDetails": "Umwirondoro w'umukuru w'umuryango",
+    "AdoptionHeadFamilyCitizenship": "Ubwenegihugu bw'umukuru w'umuryango",
+    "AdotptionHeadLive": "Umukuru w'umuryango atuye mu Rwanda?",
+    "TextChildFatherDetails": "Umwirondoro w'ababyeyi b'umwana",
+    "TextFatherAlive": "Se w'umwana ariho?",
+    "TextMotherAlive": "Nyina w'umwana ariho?",
+    "TextMyDocuments": "Dosiye zanjye",
+    "ProfileSettings": "Paji Yanjye",
+    "TextContactDetails": "Umwirondoro",
+    "TextChangePassword": "Hindura ijambo ry'ibanga",
+    "TextCurrentPassword": "ijambo ry'ibanga ukoresha ubu",
+    "TextDynamic": "Kirahinduka",
+    "FooterCopyRight": "Uburenganzira bw'Irembo ",
+    "FooterAllrightReserved": " burubahirizwa",
+    "FooterFollowUs": "Dukurikire kuri",
+    "FooterPrivacyStat0ement": "Kutamena amabanga",
+    "FootertTermOfUse": "Amabwiriza ku mikoreshereze",
+    "FooterSystemStatus": "Uko sisitemu ihagaze",
+    "FooterDisclaimer": "Icyitonderwa",
+    "TextfutureStep": "Dore intambwe zikurikira:",
+    "PAttachFiles": "Omekaho umugereka",
+    "FamilyRepresentativesCitizenship": "Ubwenegihugu bw'Uhagarariye",
+    "TextAppointments": "Gahunda",
+    "TextDocuments": "Dosiye Zanjye",
+    "TextBirthDocuments": "Birth Document",
+    "TextOtherDocuments": "Other Documents",
+    "TextServices": "Serivisi",
+    "TextGroups": "Amatsinda",
+    "TextCategories": "Ibyiciro",
+    "TextTags": "Itagi",
+    "TextReasons": "Impamvu",
+    "TextSteps": "Intambwe",
+    "TextServiceOwners": "Abagenewe serivisi",
+    "TextUserMessages": "Ubutumwa",
+    "TextTYpe": "Ubwoko",
+    "TextCategory": "Icyiciro",
+    "TextDlCategory": "Kategori",
+    "TextServiceProvider": "Abatanga serivisi",
+    "TextAccounts": "Konti",
+    "TextAccontType": "Ubwoko bwa Konti",
+    "TextRoleType": "Imiterere y'inshingano",
+    "PSelectRoleType": "Hitamo imiterere y'inshingano",
+    "TextPermissions": "Impushya",
+    "PDisablesService": "Kuramo",
+    "PPreviewService": "Imiterere ya mbere y'icapa",
+    "PupdateService": "Ivugurura",
+    "TextRefresh": "Injiza ibyahindutse",
+    "NotDataFound": "Ntakigaragara",
+    "DatatableDataNotFound": "Ntakigaragara kuri iyi dosiye",
+    "PFilterPayment": "Reba neza imyishyurire",
+    "BtnDeactivate": "Kuramo",
+    "ServicePreviewDeactivated": "Ntushobora kubona imiterere ya mbere y'icapa y'iyi serivisi igihe itagaragara",
+    "BtnActivate": "Erekana",
+    "BtnAactivate": "Hindura",
+    "HomeServiceTwoNotFound": "Serivisi ntiyabonetse",
+    "HomeServiceTwoNotFoundMessage": "Ishakisha ryawe nta serivisi n'imwe bihuye",
+    "TextSearchDocuments": "Shakisha inyandiko",
+    "TextCertificateNotFoundHint1": "Hitamo umwanya w'amashakiro uri ahabanza kugirango ushakishe inyandiko ijyanye na serivisi wasabye",
+    "TextCertificateNotFoundHint2": "",
+    "TextWorkDetails": "Ibyerekeye akazi",
+    "TextPersonalInfo": "Umwirondoro",
+    "TextServiceOwner": "Ugenewe serivisi",
+    "TextWorkEmailAddress": "Imeli y'akazi",
+    "TextAddress": "Aderesi",
+    "TextStreetNumber": "Nomero y'umuhanda",
+    "NoSupportingDocs": "Serivisi nta migereka ifite",
+    "TextSupportingDocs": "Imigereka",
+    "TextDeactivate": "Kuramo serivisi",
+    "DeactivateMessageForAssistance": "Nukuramo serivisi ntiyongera kugaragara ku rubuga irembo gov",
+    "ActivateMessageForAssistance": "Nushyiramo serivisi irahita igaragara ku rubuga irembo gov",
+    "TextSearchServices": "Gushakisha serivisi",
+    "TextRelationshipWithRequester": "Isano n'usaba serivisi",
+    "TextMarriageRegistered": "Ishyingirwa ryarandikishijwe?",
+    "POldPwd": "Ijambo ry'ibanga rya kera",
+    "PNewPwd": "Ijambo ry'ibanga ry'ubu",
+    "PConfirmPwd": "Emeza ijambo ry'ibanga",
+    "TextAboutThisService": "Ibyerekeye iyi serivisi",
+    "TextDrafts": "Dosiye Zitarangiye",
+    "TextAgentReminder": "Ugomba kuba warigeze gusabira umuntu serivisi",
+    "TextApplicantCitzenship": "Ubwenegihugu bw'usaba serivisi",
+    "PServiceOwner": "Ikigo gifite serivisi mu nshingano zacyo",
+    "TextSelectService": "Hitamo serivisi",
+    "TextRoles": "Inshingano",
+    "FetchedInfo": "Amakuru yakuwemo:",
+    "TextAge": "Imyaka",
+    "TextSex": "Igitsina",
+    "TextDescription": "Isobanuramiterere",
+    "PProcessingTime": "Igihe dosiye imara",
+    "TextProcessingPrice": "NA",
+    "PProcessingFee": "Amafaranga yishyurwa",
+    "TextDigitalCert": "Icyemezokoranabuhanga",
+    "TextpaperCert": "Icyemezo cyanditse ku rupapuro",
+    "PEnterServiceOwner": "Shyiramo Ikigo gifite serivisi mu nshingano zacyo",
+    "PAddDocument": "Ongeramo inyandiko",
+    "DeactivateMessageForAssistance1": "Nukuramo iyi serivisi",
+    "DeactivateMessageForAssistance2": "ntizongera kugaragara ku rubuga irembo gov",
+    "ActivateMessageForAssistance1": "Nushyiramo iyi serivisi ",
+    "ActivateMessageForAssistance2": "irahita igaragara ku rubuga irembo gov",
+    "TextSearchServicesOwners": "Gushakisha Ikigo gitanga serivisi",
+    "TextSearchServiceProviders": "Gushakisha ushinzwe gutanga serivisi",
+    "TextSearchUsers": "Gushakisha abakoresha serivisi",
+    "TextNewOffice": "Umukozi mushya ubishinzwe",
+    "TextSearchCategories": "Gushakisha ibyiciro",
+    "TextSearchTags": "Gushakisha itagi",
+    "TextSearchSteps": "Gushakisha intambwe",
+    "TextSearchReasons": "Gushakisha impamvu",
+    "TextDraftApplications": "Dosiye zitarangiye",
+    "TextCode": "Kode",
+    "TextMessage": "Ubutumwa",
+    "TextLocation": "Amerekezo",
+    "ServiceLandTransferGroupName": "Servisi zo guhererekanya ubutaka",
+    "ServiceLandEPaymentGroupName": "Kwishyura servisi z'ubutaka ukoresheje ikoranabuhanga",
+    "ServiceRegistrationForDrivingTestGroupName": "Kwiyandikisha mu kizamini cy'uruhushya rwo gutwara ikinyabiziga",
+    "ServiceApplicationForDrivingLicenseGroupName": "Application for Driving License",
+    "ServiceRenewalOfDrivingLicenseGroupName": "Gusaba uruhushya rwo gutwara ibinyabiziga",
+    "ServiceDuplicationOfDrivingLicenseGroupName": "Kopi y'uruhushya rwo gutwara ibinyabiziga",
+    "ServiceMotorVehicleInspectionGroupName": "Gusuzumisha ikinyabiziga",
+    "ServiceCheckExamResultGroupName": "Check Exam Results",
+    "TextDraft": "Ibitarangiye",
+    "TextUseApplicationNumber": "Ishyura ukoresheje mobile money",
+    "TextSuccessfullyPaid": "yishyuwe neza",
+    "TextAcknowledgement": "Nemeje ko amakuru yose natanze ahangaha ari ukuri kandi ajyanye n'igihe.",
+    "TextAboutThis": "Ibijyanye nibi",
+    "TextProfessions": "Imyuga",
+    "TextAssistant": "Ufasha",
+    "TextSettings": "Igenamiterere",
+    "TextResumeApplication": "Uzuza Dosiye",
+    "TextRefreshApplication": "Shyira ku gihe Dosiye",
+    "TextResendApplication": "Kongera kohereza ubutumwa bwo kwishyura",
+    "TextDeleteDraft": "Siba dosiye",
+    "TextPay": "Ishyura",
+    "TextRwandanCitizenOnly": "Iyi serivisi iahabwa abanyarwanda gusa",
+    "PselectLanguage": "Hitamo ururimi",
+    "TextNewOfficewr": "Ubishinzwe mushya",
+    "PSelectRoles": "Inshingano",
+    "PEnterCode": "Shyiramo Kode",
+    "PEnterMessage": "Shyiramo mesaje",
+    "PSelectMessageType": "Hitamo imiterere ya mesaje",
+    "PSelectCategory": "Hitamo icyiciro",
+    "TextNewService": "Serivisi nshya",
+    "TextNewServiceGroup": "Itsinda rishya rya serivisi",
+    "TextSearchMessage": "Gushakisha mesaje",
+    "PSelectUserType": "Hitamo imiterere y'ukoresha urubuga",
+    "TextNew": "Igishya",
+    "TextNewCategory": "Icyiciro gishya",
+    "TextNewTag": "Itagi nshya",
+    "TextNewStep": "Intambwe nshya",
+    "TextNewReason": "Impamvu nshya",
+    "TextNewRole": "Inshingano nshya",
+    "TextNewDocument": "Inyandiko nshya",
+    "TextSearchProfessions": "Shakisha imyuga",
+    "TextNewProfession": "Umwuga mushya",
+    "TextSearchIndustries": "Shakisha inzego z'imyuga",
+    "TextNewIndustry": "Urwego rw'umwuga rushya",
+    "TextBackList": "Subira kuri lisiti",
+    "TextReports": "Raporo",
+    "PDataType": "Ubwoko bw'inyandiko",
+    "PReportType": "Ubwoko bwa raporo",
+    "TextPreferedFileFormat": "Ubwoko bwa dosiye bwahiswemo",
+    "TextPDF": "PDF",
+    "TextEXCEL": "EXCEL",
+    "TextExportPeport": "Kuramo raporo",
+    "TextExportExcelReport": "Kuramo Raporo ya Excel",
+    "TextGAzettePurchaseDetails": "Ibijyanye n'Igazeti",
+    "TextGAzetteSubscribeDetails": "Ibijyanye n'ifatabuguzi ry'Igazeti",
+    "TextProductType": "Uburyo bwo kubona Igazeti",
+    "PselectProductType": "Hitamo uburyo bwo kubona Igazeti",
+    "TextGazetteYear": "Umwaka w'Igazeti",
+    "PselectGazetteYear": "Hitamo umwaka w'Igazeti",
+    "PEnterNames": "Shyiramo amazina",
+    "TextDeliveryType": "Uburyo bwo kohererezwa igazeti",
+    "PselectDelivery": "Hitamo uburyo bwo kohererezwa Igazeti",
+    "TextCountries": "Ibihugu",
+    "PselectCountryType": "Hitamo igihugu",
+    "TextDeliveryQuantityDetails": "ibijyanye no koherereza n'umubare",
+    "TextDeliveryAddress": "Aderesi yo koherezaho igazeti",
+    "PEnterAddress": "Shyiramwo aderesi yawe",
+    "TextQuantity": "Umubare wa kopi",
+    "PEnterQuantity": "Shyiramo umubare wa kopi",
+    "TextGazetteInfo": "Amakuru ajyanye n' igazeti",
+    "TextGazetteNumber": "Nomero y'igazeti",
+    "TextGazetteMonth": "Ukwezi igazeti yasohokeyemo",
+    "TextGazetteHeading": "Umutwe w'igazeti",
+    "TextRemainingQty": "Igazeti zisigaye",
+    "TextTotalAmount": "Igiteranyo cy'amafaranga yose yishyurwa",
+    "TextTotalAmountSummary": "Incamake y'amafaranga yose yishyurwa",
+    "TextPublishingDetails": "Ibijyanye no gusohora igazeti",
+    "TextCurrentFullName": "Izina ryuzuye",
+    "PEnterFName": "Shyiramwo izina ryuzuye",
+    "TextNewFullName": "Izina ryubu ryuzuye",
+    "PEnterNewFName": "Shyiramo izina ryishya ryuzuye",
+    "PselectCategory": "Hitamo icyiciro",
+    "TextNumberOfLines": "Umubare w'imirongo",
+    "PEnterNumberOfLines": "Shyiramo umubare w'imirongo",
+    "TextAddressDetails": "Aderesi",
+    "TextPOBox": "Agasanduku k'iposista",
+    "PEnterPBox": "Shyiramo agasanduku k'iposita",
+    "TextNumberOfPages": "Umubare w'amapaji",
+    "PEnterNumberOfPages": "Shyiramo umubare w'amapaji",
+    "TextPublishingInfo": "Ibijyanye no gusohora igazeti",
+    "TextBusinessName": "Inyito",
+    "TextCostPLine": "Igiciro cya buri murongo",
+    "TextCostPPage": "Igiciro cya buri paji",
+    "TextTotalFee": "Igiciro cyose",
+    "TextPartnerNationality": "Ubwenegihugu cy'umufatanyabikorwa",
+    "TextPartnerResidence": "Aho umufatanyabikorwa atuye",
+    "TextPartnerliveInRwanda": "Umufatanyabikorwa atuye mu Rwanda?",
+    "TextApplicantHealthDetails": "Umwirondoro w'usaba n'ibijyanye n'ikigo ndera Buzima",
+    "TextSpouseProfession": "Umwuga w'uwo mwashakanye",
+    "TextPersonalDetails": "Umwirondoro",
+    "TextSurname": "Izina",
+    "PEnterSurname": "Shyiramo izina",
+    "PSelectOtherName": "Shyramo andi mazina",
+    "TextBornInRwanda": "Wavkiye mu Rwanda?",
+    "TextFatherHasID": "So afite indangamuntu?",
+    "TextMotherHasID": "Nyoko afite indangamuntu?",
+    "TextTempIdCollection": "Gufata indangamuntu y'agateganyo",
+    "TextReasonForIDCorrection": "Impamvu yo gukosoza indangamuntu",
+    "TextOther": "Ibindi",
+    "TextOtherReason": "Indi mpamvu",
+    "PEnterOtherReason": "Shyirmo indi mpamvu",
+    "TextBiometricDataDetails": "ibijyanye no kwifotoza",
+    "TextInstitution": "Ikigo",
+    "TextBimetricDate": "Itariki yo kwifotorezaho",
+    "TextBimetricCenter": "Umurenge wo kwifotoreza",
+    "TextBiometricDataPlace": "Aho kwifotoreza",
+    "TextAdddMultipleApplicants": "Ongeramo abasaba benshi",
+    "TextApplicantType": "Ubwoko bw'usaba serivisi",
+    "PselectApplicant": "Hitamo ubwoko bw'usaba serivisi",
+    "TextTinumber": "Nomero TIN",
+    "PEnterTin": "Shyiramo Nomero TIN",
+    "PEnterGazette": "Shyiramo Nomero y'Igazeti",
+    "TextWithNid": "Ufite indangamuntu?",
+    "TextCompanyName": "Izina rya Sosiyete",
+    "PEnterCompanyName": "Shyiramo izina rya sosiyete",
+    "PEnterInstitutionName": "Shyiramo izina y'ikigo",
+    "TextDocumentDetails": "Ibijyanye n'inyandiko",
+    "TextSelectedDocuments": "Hitamo inyandiko",
+    "PselectDocumentType": "Hitamo ubwoko bw'inyandiko",
+    "TextNumberOfCopies": "Umubare wa kopi",
+    "PEnterCopyNumber": "Shyiramo umubare wa kopi",
+    "TextSelectBank": "Hitamo banki",
+    "PselectBank": "Hitamo banki",
+    "TextBankDocumentName": "Izina ry'inyandiko ya banki",
+    "PEnterBankName": "Shyiramo Izina ry'inyandiko ya banki",
+    "TextBankFee": "Umubare w'amafaranga banki ica",
+    "PSelectBankFee": "Shyiramo Umubare w'amafaranga banki ica",
+    "TextBankNumber": "Nomero ya telefoni ya banki",
+    "PBankNumber": "Shyiramo Nomero ya Telefoni ya banki",
+    "TextSelectAgency": "Hitamo Ikigo",
+    "TextSelectEmbassy": "Hitamo Ambasade",
+    "TextApprovingLocation": "Aho ikigo cyemeza giherereye",
+    "TextOtherNames": "Andi mazina",
+    "PselectInstitution": "Hitamo Ikigo",
+    "PselectCenter": "Hitamo aho uzifotoreza",
+    "TextApplicantNames": "Amazina y'usaba",
+    "TextServiceIsLoading": " iracyaza...",
+    "TextLoadingService": "Serivisi iracyaza...",
+    "TextDwonload": "Sohora",
+    "TextShare": "Oherereza abandi",
+    "TextFranchiseeType": "Ubwoko bwa Rwiyemezamirimo ukorana n'Irembo",
+    "PselectOrganizationType": "Hitamo ubwoko bw'ikigo",
+    "TextNewOfficer": "Umukozi ubushinzwe mushya",
+    "TextSubAgents": "Abungirije uhagarariye Irembo",
+    "TextAgents": "Abahagarariye Irembo",
+    "TextOfficers": "Abahagarariye Irembo bashinzwe gutanga serivisi",
+    "TextLanguage": "Ururimi",
+    "TextNewAgent": "Umu kozi mushya ushinzwe gutanga serivisi",
+    "TextNewPoliceAgent": "Umu kozi mushya wa polisi ushinzwe gutanga serivisi",
+    "TextNewFranchisee": "Umukozi mushya wa Rwiyemezamirimo ukorana n'Irembo",
+    "TextNewCustomerSupport": "Umukozi ushinzwe gufasha abakikiya",
+    "TextFranchiseeDetails": "Umwirondoro w'Uhagarariye Ikigo",
+    "TextRepresentativeDetails": "Uhagarariye undi",
+    "TextAccountDetails": "Ibyerekeye Konti",
+    "TextSearchRoles": "Shakisha inshingano",
+    "TextUpdateRole": "Vugurura inshingano",
+    "TextCreateRole": "Shyiramo inshingano nshya",
+    "TextRoleName": "Izina ry'inshingano",
+    "TextSearchAgent": "Shakisha abahagarariye Irembo",
+    "TextNewSubAgent": "Uwungirije uhagarariye Irembo",
+    "TextFindUserApplications": "Shakisha dosiye z'usaba serivisi",
+    "TextFindUserAccounts": "Shakisha konti z'usaba serivisi",
+    "TextRefNo": "Nomero iranga dosiye",
+    "TextPRefNo": "Shyiramo nomero iranga dosiye",
+    "TextParcelUPI": "UPI y'ikibanza",
+    "TextEnterParcelUPI": "Shyiramo UPI y'ikibanza",
+    "TextNidNote": "Ohereza indangamuntu niba uwitabye Imana ari umuntu mukuru, cyangwa nomero y'ifishi niba yarataruzuza imyaka 16",
+    "TextNidNoteGeneral": "Shyiramo nomero y'indangamuntu hanyuma ukande kuri buto yo gushakisha kugirango ubone ibjyanye nayo",
+    "TextNidNoteTitle": "Icyitonderwa",
+    "TextNewApplication": "Dosiye Nshya",
+    "TextSortBy": "Hitamo",
+    "TextSortType": "Ubwoko bwo gutoranya",
+    "TextViewDetails": "Reba dosiye yose",
+    "TextCash": "Kashi",
+    "TextCashless": "Ikoranabuhanga",
+    "TextCompleted": "Izemejwe",
+    "TextRFA": "Ibisabwa gukorwa",
+    "TextUncompleted": "Izanzwe",
+    "TextUsers": "Abakozi",
+    "TextServicePreviewRwandanOnly": "Iyi serivisi ihabwa abanyarwanda gusa",
+    "TextServicePreviewRoleAllowed": "Ntimwemerewe gusaba iyi serivisi.",
+    "TextServicePreviewNotLoggedInMessage": "Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+    "SelectPattachment": "Hitamo inyandiko iherekeza dosiye",
+    "TextBuyerDetails": "Umwirondoro y'ugura",
+    "TextChurchDetails": "Umwirondoro w'itorereo",
+    "TextCompanyDetails": "Umwirondoro wa Sosiyete",
+    "TextOrganisationDetails": "Amakuru ajyanye n'Umuryango",
+    "TextCooperativeDetails": "Umwirondoro wa Koperative",
+    "TextNGODetails": "Umwirondoro w'Umuryango utari uwa Leta",
+    "TextProfessionalAssociationDetails": "Umwirondoro w'Ishyirahamwe ry'Umurimoo",
+    "TextBeneficiaryDetails": "Umwirondoro y'uhabwa serivisi",
+    "TextSuccessorDetails": "Umwirondoro w'umuzungura",
+    "TextGovernmentDetails": "Umwirondoro wa Guverinoma",
+    "TextFBODetails": "Umwirondoro w'Umuryango Ushingiye ku Myemerere",
+    "TextLandOwnerDetails": "Umwirondoro wa nyir'ubutaka",
+    "TextOtherDetails": "Andi makuru",
+    "TextParcelDetails": "Ibiranga ubutaka",
+    "PSearchHere": "Shaka hano",
+    "TextClickToPreview": "Kanda kuri dosiye urebe ibirimo",
+    "TextSupportCenterTitle": "Ahatangirwa ubufasha",
+    "TextLegalInfoTitle": "Amakuru arebana n'amategeko",
+    "TextNewDit": "Ushinzwe ikoranabuhanga mushya ku Karere",
+    "TextGoToAccount": "Subira ahabanza",
+    "TextAdmind": "Admins",
+    "TextCustomerSupporters": "Abafasha abasaba seriivisi",
+    "TextFranchisee": "Ba Rwiyemezamirimo bakorana n'Irembo",
+    "PEnterTIn": "Shyiramo nomero ya TIN",
+    "PEnterBusinessName": "Shyirmo izina rya sosiyete",
+    "TextNewCsAdmin": "Ukuriye abafasha abatugana",
+    "TextDigitalCertificate": "Icyemezo Koranabuhanga",
+    "TextPaper": "Urupapuro",
+    "TextNotDivorced": "Ntushobora gusaba iyi serivisi niba utaratandukanye n'uwo mwashakanye, banza ukosore irangamimerere yawe",
+    "TextNotMarried": "Ntushobora gusaba iyi serivisi niba utarashyingiwe byemewe n'amategeko, banza ukosore irangamimerere yawe",
+    "TextNotSingle": "Ntushobora gusaba iyi serivisi niba utari ingaragu, banza ukosore irangamimerere yawe",
+    "TextNotWidow": "Ntushobora gusaba iyi serivisi niba utari umupfakazi, banza ukosore irangamimerere yawe",
+    "TextSelectApplicant": "Hitamo usaba serivisi",
+    "TextDIT": "Umukozi mushya ushinzwe ikoranabuhanga mu Karere",
+    "TextNPPAAdmin": "Umukozi mushya ushinzwe abandi muri NPPA",
+    "TextFranchiseeManager": "Umukozi mushya ugenga ba Rwiyemezamirimo",
+    "TextRIBAdmin": "RIB Officer Admin",
+    "TextPoliceAdmin": "Police Admin",
+    "TextCovid19Admin": "RBC COVID-19 Admin",
+    "TextNewFranchiseeAdmin": "Umukozi mushya uhagariye Rwiyemezamirimo",
+    "TextCustomerSupportAdmin": "Umukozi mushya ushinzwe gufasha abatugana",
+    "TextCustomerSupport": "Umukozi mushya ufasha abatugana",
+    "TextOtherRelationship": "Indi sano",
+    "TextPOtherRelationship": "Shyiramo indi sano",
+    "TextBookingDatails": "Ibyerekeye gusaba umwanya",
+    "TextBookingDateText": "Itariki wahawe",
+    "TextFranchiseeDashboard": "Imbonerahamwe ya Rwiyemezamirimo",
+    "TextHere": "Kanda hano",
+    "TextBookTestNow": "Andikisha ikizamini cyawe nonaha",
+    "TextNotSingleWidowDivorced": "You can not apply this service if you are not single, widow/widower or divorced, Please consider updating your marital status",
+    "TextChangeSector": "Hindura Umurenge",
+    "TextOnlyMaleApplicant": "Only male should apply this service",
+    "TextDistrictLevel": " (Ku rwego rw'akarere)",
+    "TextYes": "Yego",
+    "TextNo": "Oya",
+    "TextConfirmTitle": "Urifuza kureka iyi dosiye yo gusaba serivisi?",
+    "TextConfirmBody": "Niba ari yego, ushobora gutakaza amakuru watanze; yabike mbere yo kuva kuri iy paji.",
+    "TextConfirmDeleteTitle": "Urifuza gusiba iyi dosiye yo gusaba serivisi?",
+    "TextConfirmDeleteBody": "Niba ari yego, ushobora gutakaza amakuru watanze",
+    "TextGlobalErrorTitle": "Serivisi ntiziboneka",
+    "TextGlobalErrorMessage": "Habayemo ikosa muri sisitemu dosiye yawe ntiyashobora gutunganywa; reba ko wanditse neza (URL), cyangwa usubire ahabanza cyangwa ubaze ibisobanuro ababishinzwe",
+    "TextOr": "cyangwa",
+    "TextGoBack": "Subira inyuma",
+    "TextUsername": "Izina ry'ukoresha urubuga",
+    "TextLegalInformation": "Ibisobanuro birebana n'amategeko",
+    "TextResidenceDetails": "Amakuru ajyanye naho utuye",
+    "TextCity": "Umujyi",
+    "TextStateOrCity": "Intara / Umujyi",
+    "TextPCity": "Shyiramo umujyi",
+    "TextOtherPersonalInfo": "Andi makuru akuranga",
+    "TextProcessingEmbassy": "Ambasade ishinzwe gutunganya dosiye",
+    "TextEducationBackg": "Amashuri wize",
+    "TextEmbassy": "Ambasade",
+    "TextPEmbassy": "Hitamo Ambasade",
+    "TextOccupation": "Akazi ukora",
+    "PSelectOccupation": "Hitamo akazi ukora",
+    "TextResidenceCountry": "Igihugu Utuyemo",
+    "PSelectResidenceCountry": "Hitamo igihugu utuyemo",
+    "TextLock": "Funga konti",
+    "TextUnlock": "Fungura konti",
+    "BtnLock": "Funga",
+    "BtnUnlock": "Fungura",
+    "UnlockMessageForAssistance1": "Nufungura iyi konti,",
+    "UnlockMessageForAssistance2": "ukoresha urubuga irembo arashobora kurwinjiraho.",
+    "LockMessageForAssistance1": "Nufunga iyi konti,",
+    "LockMessageForAssistance2": "ukoresha urubuga irembo ntashobora kurwinjiraho.",
+    "TextChangeLanguage": "Hindura ururimi",
+    "TextValidCertificate": "Icyemezo gifite agaciro",
+    "TextInvalidCertificate": "Icyemezo cyataye agaciro",
+    "TextNotFoundCertificate": "Icyemezo nticyabonetse",
+    "TextCertificateVerification": "Gusuzuma Icyemezo",
+    "TextNotifier": "Gusaba kwipimisha COVID-19 biraboneka ku IremboGov.",
+    "TextOfficerServices": "Serivisi z'umukozi",
+    "TextAddServicesToOfficer": "Ongerera umukozi serivisi",
+    "TextOfficerLevel": "Dosiye igeze ku mukozi ubishinzwe",
+    "PSelectLevel": "Hitamo aho dosiye igeze",
+    "PSelectOffice": "Hitamo ibiro",
+    "TextQualificationDetails": "Ibijyanye n'impabumenyi",
+    "TextEducationLevel": "Icyiciro cy'impamyabumenyi",
+    "TextIssuingCountry": "Igihugu yatangiwemo",
+    "TextIssuanceDate": "Issuance Date",
+    "TextPassportExpiry": "Itariki Pasiporo izararangirira",
+    "TextPSelectExpiry": "Hitamo itariki pasiporo izarangirira",
+    "TextExpiryDate": "Itariki uruhushya ruzarangiriraho",
+    "TextDateOfArrival": "Itariko yo kwinjira mu gihugu",
+    "TextMediaHouse": "Sosiyete/ Ikigo cy'itangazamakuru",
+    "TextPSelectMedia": "Hitamo Ikigo cy'itangazamakuru",
+    "TextWebsite": "Urubuga rwa interineti",
+    "TextPEnterWebsite": "Shyiramo urubuga rwa interineti",
+    "TextStayDetails": "Ibijyanye naho ubarizwa ubu",
+    "TextOfficeDetails": "Ibijyanye n'ibiro ukoreramo",
+    "TextAccreditationTimeframe": "Igihe uburenganzira buzamara",
+    "TextContactPerson": "Umwirondoro w'uwakwishingiye",
+    "TextProjectDescription": "Ibisobanuro byumushinga",
+    "TextProjectActivities": "Ibikorwa byumushinga",
+    "TextEquipmentDetails": "Urutonde rw'ibikoresho",
+    "Text450Char": "Inyuguti 450",
+    "TextPMoreInfo": "Tanga amakuru arambuye",
+    "TextValidUrlMessage": "Tanga urubuga rwa interineti rubaho",
+    "TextInsuranceDetails": "Amakuru ajyana n'ubwishingizi",
+    "TextInsurancePeriod": "Igihe ubwishingizi buzamara",
+    "TextPaidAmount": "amafaranga yishyuwe",
+    "TextToBePaid": "Amafaranga yose",
+    "TextAmountToBePaid": "Amafaranga yo kwishyura",
+    "TextEquivalenceLevel": "Izina ryuzuye ry'impamyabushobozi",
+    "TextProgrammeOption": "Porogaramu y'amashuri",
+    "TextAdmissionYear": "Umwaka watangiriye iki cyiciro",
+    "TextCompletionYear": "Umwaka warangirije iki cyiciro",
+    "TextDurationProgrammeDuration": "Igihe progaramu y'iki cyiciro imara",
+    "TextStudyMode": "Uburyo wize iki cyiciro",
+    "TextQualificationLevel": "Agaciro cy'impamyabumenyi",
+    "TextSchoolFacilityDetails": "Amakuru ajyanye n'inyubako z'amashuri",
+    "TextRwWihoutID": "Umunyarwanda udafite indangamuntu",
+    "TextVacciDetails": "Amakuru ajyanye na gahunda",
+    "TextTimeSlot": "Igihe wahawe cyo kwikingiza",
+    "TextVacciType": "Ubwoko bw'urukingo",
+    "TextVacciCenter": "Ikigo gikingira",
+    "TextVacciDate": "Itariki yo gukingirwa",
+    "TextSlotType": "Ubwoko bw'igihe cyo gukingirwa",
+    "TextTime": "Isaha",
+    "TextRemaining": "Imyanya isigaye",
+    "TextApplicationLevel": "Aho dosiye igeze",
+    "TextPSPhase": "Hitamo aho dosiye igeze",
+    "TextDesiredName": "Ibijyanye n'izina wahisemo",
+    "TextWelcome": "Murakaza neza ku rubuga IremboGov",
+    "TextWelcomeBody": "Gukoresha urubuga bigiye kunozwa neza cyane",
+    "TextStart": "Tangira",
+    "TextApplicantConvicted": "Ese uwasabye serivisi yaba yarakatiwe n'inkiko zo mu Rwanda?",
+    "TextDcjNumber": "Nomero ya DCJ",
+    "TextCertificateNumber": "Nomero y'Icyemezo",
+    "TextGetHelp": "Saba ubufasha",
+    "TextCreateNewAcc": "Mwafungura konti ",
+    "TextHere2": "hano",
+    "TextUpdate": "Shyira kugira",
+    "TextUpdateCitizenInfo": "Shyira kugihe",
+    "TextEnterDCJNumber": "Shyiramo nomera ya DCJ",
+    "TextEnterCertificateNumber": "Shyiramo nomero y'icyemezo",
+    "TextOffenseName": "Izina ry'icyaha",
+    "TextOffenseCharMax": "Nturenze inyuguti 255",
+    "TextEnterOffenseName": "Shyiramo izina ry'icyaha",
+    "TextPenalty": "Igihano",
+    "TextEnterPenalty": "Shyiramo igihano",
+    "TextAddRow": "Ongeraho icyaha",
+    "TextResumeAssistance": "Urahita ujya kuri serivisi numara kuyikosora wibuke kongera kohereza.",
+    "TextLivingSince": "Utuye mu Rwanda guhera",
+    "TextSpouseName": "Amazina y'uwo mwashakanye",
+    "TextCertificateLanguageText": "Mwifuza ko icyemezo cyakwandikwa mu ruhe rurimi?",
+    "TextWhoCanApply": "Uwemerewe gusaba",
+    "TextEditInfo": "Hindura amakuru",
+    "TextInsCat": "Icyiciro cy'ubwishingizi",
+    "TextMaxAmount": "Umubare ntarengwa: ",
+    "TextApplicationDetails": "Umwirondoro wa dosiye",
+    "TextPreviousLicenseNumber": "Nomero y'uruhushya usanganywe",
+    "TextYellowFever": "Yellow Fever",
+    "TextMaxValue": "Umubare ntarengwa ni",
+    "TextRssbCat23": "Amafaranga yemewe kwishyurwa agomba kuba akubitse na 3000Rwf",
+    "TextRssbCat4": "Amafaranga yemewe kwishyurwa agomba kuba akubitse na 7000Rwf",
+    "TextOnHold": "Gutegereza",
+    "TextMore": "reba ibindi",
+    "TextNewNames": "Amazina mashya",
+    "TextUSDPrice": "Igiciro mu madorari",
+    "TextCoNType": "Uburyo bw'impinduka",
+    "TextHecNoNote": "Inomero ya terefone y'ishuri igomba gutangirana na + na kode yigihugu",
+    "TexNotaryChangeSector": "Ibiro bigomba kuba umurenge",
+    "TextHecModeNote": "HEC ishobora kuzabaka indi migereka, niba babona ko imigereka yometseho idahagije",
+    "TextHecEqNote": "Andika izina nyaryo ry'impamyabushobozi nkuko ryanditse kuri dipolome.",
+    "TextRegistrationCodeResult": "Amanota y'ikizamini",
+    "TextNationalId": "Indangamuntu",
+    "TextApplicantName": "Amazina y'usaba",
+    "TextTestType": "Ubwoko bw'ikizamini",
+    "TextCategoryAppliedFor": "Icyiciro wasabye",
+    "TextTestDate": "Itariki ikizamini kizakorerwaho",
+    "TextTestHour": "Isaha ikizamini kizakorerwaho",
+    "TextTestCenter": "Aho ikizamini kizakorerwa",
+    "TextTestDatePast": "Itariki ikizamini cyakoreweho",
+    "TextTestCenterPast": "Aho ikizamini cyakorewe",
+    "TextTestMode": "Uburyo bwo gukora ikizamini",
+    "TextTestLanguage": "Ururimi ikizamini gikorwamo",
+    "TextNoScheduleFound": "Nta matariki y'ibizami yabonetse",
+    "TextNoSeatsAvailable": "Nta mwanya usigaye muri gahunda y'ikizamini watoranije",
+    "TextMarks": "Amanota",
+    "TextPlateNo": "Nomero ya Pulaki",
+    "TextTinNo": "TIN",
+    "TextEnterRegistrationCode": "Andika kode yo kwiyandikisha",
+    "TextSelectADistrict": "Hitamo akarere",
+    "TextSelectAnHour": "Hitamo isaha",
+    "TextSelectAStation": "Hitamo sitasiyo",
+    "TextSelectAType": "Hitamo ubwoko",
+    "TextSelectAnInspectionCenter": "Hitamo aho gukorera isuzuma ry'ikinyabiziga",
+    "TextSelectADate": "Hitamo itariki",
+    "TextSelectAMode": "Hitamo uburyo",
+    "TextSelectALanguage": "Hitamo ururimi",
+    "TextSelectAnTestCenter": "Hitamo aho gukorera ikizamini",
+    "TextSelectACategory": "Hitamo icyiciro",
+    "TextEnterTicketNumber": "Shyiramo nomero ya tike",
+    "TextEnterPlateNumber": "Shyiramo nomero ya pulaki",
+    "TextEnterTinNo": "Shyiramo TIN",
+    "TextEnterCompanyCode": "Shyiramo kode ya sosiyete",
+    "TextDlNumber": "Shyiramo nomero ya perimi",
+    "TextOwnerNid": "Indangamuntu ya nyir'ikinyabiziga",
+    "TextAmount": "Umubare w'amafaranga",
+    "TextCompanyCode": "Kode",
+    "TextPCompanyName": "Izina",
+    "TextCompanyAddress": "Aderesi",
+    "TextBalance": "Asigaye",
+    "TextProvisionalExamType": "Ikizamini cyo gutwara ibinyabiziga - By'agateganyo",
+    "TextOtherExamType": "Ikizamini cyo gutwara ibinyabiziga - Burundu",
+    "TextTicketIssuanceDate": "Itariki yatangiweho",
+    "TextTicketValidityDate": "Kwishyurwa mbere ya",
+    "TextTicketAmount": "Amafaranga yo kwishyura konterevasiyo",
+    "TextTicketDescription": "Ibikubiye muri konterevasiyo",
+    "TextRegistrationDetails": "Ibijyanye no kwiyandikisha",
+    "TextTestDetails": "Ibijyanye n'ikizamini",
+    "TextProvisionalLicenseNumber": "Nomero y'uruhushya rw'agateganyo",
+    "TextCurrentLicenseNumber": "Nomero y'uruhushya usanganywe",
+    "TextDesiredLicenseCategory": "Icyiciro cy'uruhushya wifuza",
+    "TextTestDistrict": "Akarere ikizamini kizakorerwamo",
+    "TextRegistrationCode": "Kode yo kwiyandikisha",
+    "TextCollectionDistrict": "Akarere uzafatiraho uruhushya",
+    "TextPickupStation": "Sitasiyo ya polisi uzafatiraho uruhushya",
+    "TextCodeSentInSMS": "Ngiyi kode yo kwiyandikisha bakoherereje kuri SMS umaze kwiyandikisha gukora ikizamini.",
+    "TextDidNotGetCode": " niba utabonye kode.",
+    "TextWantTemporaryId": "Urashaka indangamuntu y'agateganyo",
+    "TextRwandaResidence": "Utuye mu Rwanda",
+    "TextVehicleDetails": "Ibiranga ikinyabiziga",
+    "TextVisitType": "Imiterere y'isuzumisha",
+    "TextDrivingLicenseType": "Ubwoko bw'uruhushya rwo gutwara ibinyabiziga",
+    "TextDrivingLicenseNumber": "Nomero y'uruhushya rwo gutwara ibinyabiziga",
+    "TextInspectionCenter": "Aho gukoresha isuzuma ry'ikinyabiziga",
+    "TextAppointmentDate": "Itariki yo kujyana ikinyabiziga",
+    "TextAmountToDeposit": "Amafaranga yo kubitsa",
+    "TextApplicantAndTicketDetails": "Umwirondoro w'usaba n'ibijyanye na tike",
+    "TextTicketDetails": "Ibijyanye na Tike",
+    "TextTicketNumber": "Nomero ya Tike",
+    "TextPass": "Watsinze",
+    "TextFail": "Watsinzwe",
+    "TextSetAppointment": "Set Appointment",
+    "TextPUpi": "UPI y'ikibanza",
+    "TextAttachmentMessage": "Imigereka yanditse muri PDF, JPG na PNG niyo yonyine yemewe",
+    "TextDisclaimerMHC": "Amategeko n'amabwiriza agenga ibijyanye no gufata amashusho n'amajwi ku nzibutso za Jenoside yakorewe abatutsi mu Rwanda",
+    "TextAgreeTo": "Ugomba kubanza ukemera",
+    "TextMHCDisclaimer1": "Kubaha imiterere yihariye y'inzibutso za Jenoside",
+    "TextMHCDisclaimer2": "Koresha inyito \"Jenoside yakorewe Abatutsi mu Rwanda muri 1994\" nk'uko bikubiye mu mwanzuro A / 72 / L.31 w'Inama Rusange 'Umuryango w'Abibumbye",
+    "TextMHCDisclaimer3": "Amashusho/amajwi yafashwe ntashobora gukoreshwa ku zindi mpamvu keretse izatangiwe uruhushya",
+    "TextMHCDisclaimer4": "Amashusho/amajwi yafashwe ntashobora gukoreshwa hagamijwe gupfobya cyangwa guhakana Jenoside yakorewe abatutsi",
+    "TextAgree": "Ndabyemeye",
+    "TextRequireAttachment": "Hakenewe umugereka?",
+    "TextMhcNoNote": "Inomero ya terefone igomba gutangirana na + na kode yigihugu",
+    "TextConNote": " Andika amazina mu buryo wifuza ko azakurikirana ku ndangamuntu",
+    "TextNote": "Icyitonderwa",
+    "TextParcelInfo": "Amakuru ajyanye n'ubutaka",
+    "TextPlotSize": "Ibipimo by'ubutaka",
+    "TextLandUse": "Imikoreshereze y'ubutaka",
+    "TextRightType": "Ubwoko nyabwo",
+    "TextOwnerId": "Indangamuntu ya nyir'ubutaka",
+    "TextLandMergingDetails": "Amakuru ajyanye n'ubutaka bugomba guhuzwa",
+    "TextSubDivDetails": "Amakuru ajyanye n'igabanyary'ubutaka",
+    "TextDesiredSub": "Umubare w'utubanza dute wifuza",
+    "TextPlot": "Ikibanza",
+    "TextCatedralFiche": "Erekana aho ukeneye ifishi y'ubutaka",
+    "TextPriceFiche": "5.000 FRW kuri buri fishi y'ubutaka",
+    "TextPriceSubdivion": "& 10.000 FRW kuri buri gice kiyongereho",
+    "TextAll": "Byose",
+    "TextOwners": "Ba nyir'ubutaka",
+    "TextSellerDetails": "Umworondoro w'ugurisha",
+    "TextExcuter": "Umwirondoro w'ushyira izungura mu bikorwa",
+    "TextSuccessee": "Umwirondoro w'uraga",
+    "TextEchangee": "Ugurana",
+    "TExtDonorDetails": "Umwirondoro w'utanga ubutaka",
+    "TextIECMNo": "Nomero ya dosiye y'urubanza",
+    "TextBuyerID": "Indangamuntu y'umuguzi",
+    "TextSuccessorID": "Indangamuntu y'umuzungura",
+    "TextBeneficiryID": "Indangamuntu y'uhabwa ubutaka",
+    "TextNidNoteSuccessor": "Ushobora gukoresha indangamuntu k'ubantu bakuru nomero y'icyangombwa ku bana bataruzuza imyaka y'ubukure",
+    "TextRepresentaID": "Indangamuntu y'umuvugizi",
+    "TextReasnOfTransfering": "Impamvu y'ihererekanya",
+    "TextDesiredLandUse": "Imikoreshereze y'ubutaka wifuza",
+    "TextPlotNumber": "Nomero y,ikibanza",
+    "TextPlotDetails": "Amakuru aranga ubutaka",
+    "TextWantaFiche": "Urashaka ifishi y'ubutaka?",
+    "TextValidUpiMessage": "Tanga UPI nyayo",
+    "TextApprovedDeenNote": "Aho buri butaka bugomba kugabanywa buherereye nkuko bigaragara ku gishushanyo mbonera",
+    "TextMemorandumNote": "Inyandiko y'ishyirahamwe yakorewe imbere ya Noteri yerekana imigabane ya buri munyamuryango niba mu bagomba kwandikwa ku butaka harimo abanyamahanga n'abanyarwanda babufatanyije cyangwa sosiyete y'ubucuruzi, ikigo cyangwa ishyirahamwe rifite ubuzima gatozi abanyamahanga bafitemo imigabane",
+    "TextCourtDecisionNote": "Icyemezo cy'urukiko cyangwa raporo y'umuhesha w'inkiko byerekana nomero y'ubutaka (niba nomero itazwi: igishushanyo mbonera cyemewe, agace ubutaka buherereyemo nkuko bigaragara ku gishushanyo mbonera na raporo iriho umukono w'umuhesha w'inkiko yemeza ko ibipimo  by'ubutaka byafashwe hakurikijwe imikirize y'urubanza)",
+    "TextAuthenticWill": "Inyandiko y'umurage yatanzwe n'Umunyamabanga Nhshingwabikorwa w'Umurenge cyangwa icyemezo cy'urukiko cyemeza abazungura n'uburenganzira bwa buri muzungura mu gihe hari amakimbirane yerekeye izungura ",
+    "TextProofoAquisition": "Inyandiko ihamya nyir'ubutaka iriho umukono w'abagize komite y'ubutaka mu Kagari kandi yemejwe n'Umunyamabanga Nshingwabikorwa w'Umurenge  ubutaka buherereyemo",
+    "TextAuthChange": "Icyemezo cyatanzwe n'umuyobozi w'Akarere cyangwa undi mukozi w'Akarere ubifitiye uburenganzira kikwemerera guhindura imikoreshereze y'ubutaka nkuko biteganywa n'igishushanyo mbonera.",
+    "TextSurveyReports": "Raporo yemeza  ibipimo by'ubutaka iriho umukono wa nyir'ubutaka, ba nyir'ubutaka b'ibibanza muhana imbibi n'uw'inzobere mu gupima ibibanza n'amasambu",
+    "TextBenefContact": "Aho uhabwa ubutaka abarizwa",
+    "TextNextStep": "Intambwe ikurikira",
+    "TextNextStepDescription": "Koresha iyi nomero y'ifishi kugirango ubone icyemezo cyuko wanditse mu gitabo cyandikwamo abaturage",
+    "TextNprApplicationNumber": "Nomero y'ifishi mu gitabo cyandikwamo abaturage",
+    "BtnGenerateEcertificate": "Generate eCertificate",
+    "TextServicesAllocation": "Services Allocation",
+    "TextOwnedServices": "Owned services",
+    "TextBtnAllocateServices": "Allocate Services",
+    "TextUnallocatedServices": "Unallocated services",
+    "TextAddAnotherParcel": "Ushobora kongeraho amakuru y'ikindi kibanza ukimara kubona ay'icyambere",
+    "TextApplicantRep18": "Usaba uburenganzira ku butaka cyangwa umuhagarariye agomba kuba arengeje imyaka 18 y'amavuko",
+    "TextEditOwnerTip": "Kanda kuri buto yo guhindura uhindure umwirondoro wa nyir'ubutaka",
+    "TextRemoveOwnerTip": "Kanda kuri buto yo gukuramo ukuremo umwirondoro wa nyir'ubutaka",
+    "TextOldForeName": "Irindi zina rya mbere",
+    "TextNewForeName": "Irindi zina ry'ubu",
+    "TextOldSurname": "Izina rya mbere",
+    "TextNewSurname": "Izina ry'ubu",
+    "TextSharePercentage": "Ijanisha ry'imigabane",
+    "TextReasonAddRemove": "Ubwoko bw'imigabane",
+    "TextReasonForModification": "Impamvu y'o guhindura",
+    "TextEPaymentGroup": "Urifuza kwishyura iyihe serivisi?",
+    "TextOtherBuyers": "Ongeramo undi muguzi",
+    "TextOtherOwner": "Ongeramo nyir'ubutaka wundi",
+    "TextFilterBy": "Hitamo ukurikije inshingano",
+    "TextApplyAs": "Gusaba nka",
+    "TextMinorCategory": "Icyiciro cy'umwana utaruzuza imyaka y'ubukure",
+    "TextGuardianship": "Ubwenegihugu bw'urera umwana",
+    "TextRequestType": "Ubwoko bwa dosiye isaba",
+    "TextIdentificationDetails": "Umwirondoro",
+    "TextPassportDetails": "Ibijyanye na Pasiporo",
+    "TextTravelDetails": "Ibijyanye n'urugendo",
+    "TextGuardianDetails": "Umwirondoro w'urera umwana",
+    "TextPurposeTravel": "Impamvu y'urugendo",
+    "TextDestinationCountry": "Igihugu ugiyemo",
+    "TextPassportType": "Ubwoko bwa pasiporo",
+    "TextPassportValidity": "Igihe pasiporo izamara",
+    "TextNewReport": "Raporo nshya",
+    "TextTestsReport": "Raporo y'Ibizamini",
+    "TextIssuanceSchool": "Ishuri impamyabumenyi yatangiwemo",
+    "TextIssuanceYear": "Umwaka impamyabumenyi yatangiwemo",
+    "PEnterIssuanceSchool": "Shyiramo Ishuri impamyabumenyi yatangiwemo",
+    "PEnterIssuanceYear": "Shyiramo Umwaka impamyabumenyi yatangiwemo",
+    "TextSubject": "Ibyo wize",
+    "TextGrade": "Icyiciro cy'amanota",
+    "TextCombination": "Combination",
+    "TextLPnumber": "Nomero y'urwandiko rw'inzira",
+    "TextIssuedDate": "Igihe rwatangiwe",
+    "TextDocType": "Ubwoko bw'urwandiko rw'inzira",
+    "TextdocumentNo": "Nomero y'urwandiko w'inzira",
+    "TextPLP": "Nomero y'urwandiko w'inzira usanganywe",
+    "TextFile": "Umugereka ",
+    "TextLargerThan": " nimunini kuruta ",
+    "TextHeadVillagePhone": "Telefoni y'umuyobozi w'umudugudu",
+    "TextAttachmentBinding": "Read more about this services's attachments, please click <a class=\"popover-link\" target=\"_blank\" href=\"http://support.irembo.gov.rw/support/solutions/articles/47001114500-how-to-apply-for-a-service-logged-in-\">here</a></p>",
+    "TextDownloadTransferFo": "Kuramo ifishi yo kwimuka",
+    "TextDownloadSalesFo": "Kuramo amasezerano y'ubugure ariho umukono wa Noteri",
+    "TextDemographicDetails": "Umwirondoro wuzuye",
+    "TextDesiredPermits": "Ibijyanye n'urugendo ukeneye",
+    "TextCurrentDocuments": "Ibijyanye urwandiko w'inzira usanganywe",
+    "TextClass": "Icyiciro",
+    "textTravelDocument": "Urwandiko w'inzira ukeneye",
+    "TextRequestTravel": "Ibijyanye na dosiye isaba n'urugendo",
+    "TextEmployer": "Umukoresha",
+    "TextHeight": "Uburebure",
+    "TextTicketPaid": "Tike yamaze kwishyurwa.",
+    "TextApplicantBelowSixteen": "Usaba ntaruzuza imyaka 15.",
+    "TextDuplicateApplicants": "Usaba agarutse bwa kabiri.",
+    "TextTotalNumberOfApplicants": "Umubare w'abasaba ntushobora kurenga 20.",
+    "TextApplicantHasNid": "Usaba afite indangamuntu.",
+    "TextBiometricCentersNote": "Iyi niyo mirenge yemerewe gufotora abasaba indangamuntu.",
+    "TextNamesAsOnAcademicDocs": "Please write names that are on your academic documents",
+    "TextInsuranceCompany": "Insurance Company",
+    "TextZoneDistrict": "Akarere k'aho ukorera",
+    "TextZoneName": "Aho ukorera",
+    "TextCooperativeName": "Izina rya Koperative",
+    "TextLicenseNumber": "Nomero y'uruhushya",
+    "TextCooperativeNumber": "Nomero ya Koperative",
+    "TextCompanyTin": "Company Tin",
+    "TextNumberOfVehicles": "Umubare w'ibinyabiziga",
+    "TextOperationalArea": "Agace ukoreramo",
+    "TextSuspendedLicense": "Uruhusya rwo gutwara abantu rwigeze guhagarikwa/bararukwimye?",
+    "TextLicencedinPublicTransport": "Wigeze kubona uburenganzirabwo gutwara abantu mu modoka zitwara abantu benshi?",
+    "TextPhoneNoNote": "Inomero ya terefone igomba gutangirana na + na kode yigihugu",
+    "TextVisitDetails": "Amakuru ajyanye no gusura",
+    "TextFacilityToVisit": "Ahantu wifuza gusura",
+    "TextSelectMuseum": "Hitamo aho gusura",
+    "TextVisitDate": "Itariki yo Gusura",
+    "TextVisitCategory": "Icyiciro cy'Usura",
+    "TextVisitorType": "Icyiciro",
+    "TextSelectCategory": "Hitamo icyiciro cy'usura",
+    "TextClassifyAs": "Icyiciro",
+    "TextSelectType": "Hitamo icyiciro",
+    "TextPassportNo": "Nomero ya pasiporo",
+    "TextEnterPassportNo": "Shyiramo nomero ya pasiporo",
+    "TextNames": "Amazina",
+    "TextEnterNames": "Shyiramo amazina",
+    "TextNumberOfAdults": "Umubare w'abakuru",
+    "TextEnterNumberOfAdults": "Shyiramo umubare w'abakuru",
+    "TextNumberOfStudents": "Umubare w'abanyeshuri",
+    "TextEnterNumberOfStudents": "Shyiramo umubare w'abanyeshuri",
+    "TextNumberOfChildren": "Umubare w'abana",
+    "TextEnterNumberOfChildren": "Shyiramo umubare w'abane",
+    "TextNumberOfChildrenUnderSix": "Umubare w'abana (munsi y'imyaka 6)",
+    "TextEnterNumberOfChildrenUnderSix": "Shyiramo umubare w'abana bari munsi y'imyaka 6",
+    "TextNumberOfMale": "Umubare w'igitsina gabo",
+    "TextEnterNumberOfMale": "Shyiramo umubare w'igitsina gabo",
+    "TextNumberOfFemale": "Umubare w'igitsina gore",
+    "TextEnterNumberOfFemale": "Shyiramo umubare w'igitsina gore",
+    "TextVisaType": "Ubwoko bwa Viza",
+    "TextPCategories": "Icyiciro cy'igihano",
+    "TextSubCategies": "Ikicyiciro kiri munsi",
+    "TextPermitType": "Ubwoko bw'uruhushya",
+    "TestVisaDetails": "Ibijyanye na Viza",
+    "TestArrivalDates": "Itariki yo Kugera mu Rwanda",
+    "TestDepartureDates": "Itariki yo Kuva mu Rwanda",
+    "TextPAppointment": "Aho uzafatira uruhushya/uzakorera?",
+    "TextDateAndTime": "Itariki n'Isaha",
+    "TextLeaveNote": "Ibyereke ikiruhuko",
+    "TextConfirm": "Emeza",
+    "TextScheduleNote": "Umunsi wo gufata icyangombwa umaze kwemezwa, usaba yohererezwa ubutumwa",
+    "TextPropAddressInRw": "Aderesi yaho wabarizwa mu Rwanda",
+    "TextPropArrivalDate": "Itariko wifuza kugerera mu Rwanda",
+    "TextPropDepartureDate": "Itariki wifuza kuvira mu Rwanda",
+    "TextEntryPoint": "Umupaka wifuza kwinjiriraho",
+    "TextPurposeOfVisit": "Impamvu y'urugendo",
+    "TextisitDetails": "Amakuru arambuye ajyanye n'urugendo",
+    "TextFirstInRw": "Kujya mu Rwanda ubwa mbere",
+    "TextLastVisitToRw": "Igihe uherukira mu Rwanda",
+    "TextStayDuration": "Wamaze igihe kingana iki mu Rwanda?",
+    "Text255Char": "Inyuguti 225",
+    "TextAuthorizationNumber": "Nomero y'uruhushya",
+    "TextCitizenshipCategory": "Icyiciro cy'ubwenegihugu",
+    "TextLicenseValidity": "License validity",
+    "TextOperatingZone": "Operating zone",
+    "TextInsuranceValidFrom": "Insurance valid from",
+    "TextInsuranceExpiryDate": "Insurance expiry date",
+    "TextOperatorCode": "Operator code",
+    "TextBankName": "Izina rya banki",
+    "TextAppointmentDetails": "Ibijyanye n'umunsi wo kujya gusuzumisha ikinyabiziga",
+    "TextLegalRepresentative": "Uhagarariye umuryango wemewe n'amategeko",
+    "TextBranch": "Ishami",
+    "TextActionPlan": "Igenamigambi",
+    "TextDependantDetails": "Umwirondoro wabo utunze",
+    "TextHaveDependant": "Ufite abo utunga?",
+    "TextLicenseDetails": "License Details",
+    "TextOtherNationality": "Ubundi bwenegihugu",
+    "TextShowApplications": "Erekana dosiye",
+    "TextGetApplications": "Zana dosiye",
+    "TextProposedName": "Izina ryatanzwe",
+    "TextEnterProposedName": "Shyiramo izina ryatanzwe",
+    "TextAbbreviation": "Izina mu magambo ahinnye",
+    "TextEnterAbbreviation": "Shyiramo izina mu magambo ahinnye",
+    "TextSectorsOfOperation": "Icyiciro umuryango ukoreramo",
+    "TextSelectSectorsOfOperation": "Hitamo icyiciro umuryango ukoreramo",
+    "TextClusterOfIntervention": "Amatsinda umuryango ukorana nayo",
+    "TextSelectClusterOfIntervention": "Hitamo amatsinda umuryango ukorana nayo",
+    "TextDenomination": "Idini",
+    "TextSelectDenomination": "Hitamo idini",
+    "TextOtherDenomination": "Irindi dini",
+    "TextEnterOtherDenomination": "Shyiramo irindi dini",
+    "TextSourcesOfFounding": "Aho amafaranga yo gukoresha ava",
+    "TextSelectSourcesOfFounding": "Hitamo Aho amafaranga yo gukoresha ava",
+    "TextSystemOfGovernance": "Uburyo bw'imitegekere",
+    "TextSelectSystemOfGovernance": "Hitamo uburyo bw'imitegekere",
+    "TextOtherSystemOfGovernance": "Ubundi buryo bw'imitegekere",
+    "TextEnterOtherSystemOfGovernance": "Shyiramo ubundi buryo bw'imitegekere",
+    "TextPreferredLanguage": "Ururimi ruhiswemo",
+    "TextSelectPreferredLanguage": "Hitamo ururirmi",
+    "TextPoBox": "Agasanduko k'i posita",
+    "TextEnterPoBox": "Shyiramo agasanduko k'i posita",
+    "TextOrganisationSupportingDocument": "Imigereka ijyanye n'imikorere y'Umuryango",
+    "TextStaffDetails": "Abakozi b'umuryango",
+    "TextVolunteerStaff": "Abakorera bushake",
+    "TextEnterVolunteerStaff": "Shyiramo umubare w'abakorera bushake",
+    "TextContractStaff": "Abafite amasezerano y'akazi",
+    "TextEnterContractStaff": "Shyiramo umubare w'abafite amasezerano y'akazi",
+    "TextOtherStaff": "Abandi bakozi",
+    "TextEnterOtherStaff": "Shyiramo umubare w'abandi bakozi",
+    "TextGeneralAssembly": "Inama Rusange",
+    "TextTotalMembers": "Abagize inama rusange bose",
+    "TextEnterTotalMembers": "Shyiramo umubare w'abagize inama rusange bose",
+    "TextFemaleMembers": "Abagore bagize imana rusange",
+    "TextEnterFemaleMembers": "Shyiramo umubare w'abagore bagize inama rusange",
+    "TextMaleMembers": "Abagabo bagize inama usange",
+    "TextEnterMaleMembers": "Shyiramo umubare w'abagabo bagize inama rusange",
+    "TextExecutiveCommittee": "Komite Nyobozi",
+    "TextExecutiveCommitteeMeeting": "Guhura kwa Komite Nyobozi",
+    "TextOrdinaryPerYear": "Guhura gusanzwe mu mwaka",
+    "TextExtraOrdinaryPerYear": "Guhura kudansanzwe mu mwaka",
+    "TextSelectFrequency": "Hitamo inshuro inama za komite nyobozi ziterana",
+    "TextHqBranchDetails": "Icyicaro gikuru n'amashami y'umuryango",
+    "TextHeadQuarters": "Icyicaro gikuru",
+    "TextBranches": "Amashami",
+    "TextAdd": "Ongeraho",
+    "TextLegalRepresentativeDetails": "Umwirondoro w'uhagarariye umuryango wemewe n'amategeko",
+    "TextSelectNationality": "Hitamo ubwenegihugu",
+    "TextTitle": "Umwanya afite",
+    "TextSelectTitle": "Hitamo umwanya afite",
+    "TextOtherTitle": "Undi mwanya",
+    "TextEnterOtherTitle": "Shyiramo umwanya",
+    "TextPreacher": "Umubwiriza",
+    "TextMandate": "Manda",
+    "TextInYears": "mu myaka",
+    "TextEnterMandate": "Shyiramo manda",
+    "TextWorkPermit": "Icyiciro cy'uruhushya rw'akazi",
+    "TextEnterWorkPermit": "Shyiramo ubwoko bw'uruhushya rwo gukora",
+    "TextSupportingDocument": "Imigereka",
+    "TextActionPlanDetails": "Ibjyanye n'igenamigambi",
+    "TextProjectName": "Izina ry'umushinga",
+    "TextEnterProjectName": "Shyiramo izina ry'umushinga",
+    "TextDomain": "Indangarugero",
+    "TextEnterDomain": "Shyiramo indangarugero",
+    "TextPlannedActivities": "Ibikorwa biteganyijwe",
+    "TextEnterActivity": "Shyiramo igikorwa",
+    "TextAddActivity": "Ongeraho igikorwa",
+    "TextPlannedBudget": "Ingengo y'imari iteganyijwe (FRw)",
+    "TextEnterPlannedBudget": "Shyiramo ingengo y'imari iteganyijwe",
+    "TextProjectTimelines": "Ingengabihe y'Umushinga",
+    "TextStartDate": "Itariki yo gutangira",
+    "TextEndDate": "Itariki yo gusoza",
+    "TextExpectedImpact": "Ingaruka Zitezwe",
+    "TextEnterImpact": "Shyiramo ingaruka",
+    "TextAddImpact": "Ongeraho ingaruka",
+    "TextEnterOrganisationTIN": "Shyiramo TIN y'umuryango",
+    "TextSearchOrganisation": "Shakisha umuryango",
+    "TextOperationalCertificate": "Nomero y'Icyemezo cyo Gukora",
+    "TextEnterOperationalCertificate": "Shyiramo nomero y'icyemezo cyo gukora",
+    "TextNumberOfStaff": "Umubare w'Abakozi",
+    "TextEnterNumberOfStaff": "Shyiramo umubare w'abakozi",
+    "TextBankAccount": "Konti ya Banki",
+    "TextEnterBankAccount": "Shyiramo konti ya banki",
+    "TextSelectCertificateLanguage": "Hitamo ururimi rw'icyemezo",
+    "TextOrganisationName": "Izina ry'Umuryango",
+    "TextEnterOrganisationName": "Shyiramo izina ry'umuryango",
+    "TextOtherNationalityPassport": "Indi pasiporo y'ubwenegihugu",
+    "TextHeadVillageName": "Amazina y'umuyobozi w'umudugudu",
+    "TextCityOfBirth": "Umujyi w'amavuko",
+    "TextAuthorizationDetails": "Authorization Details",
+    "TextOrganizationName": "Izina ry'umuryango",
+    "TextOrganizationNumber": "Organization Number",
+    "TextLicenseApplicationDetails": "License Application Details",
+    "PselectAuthorizationType": "Select Authorization Type",
+    "PselectInsurance": "Select Insurance",
+    "TextHouseNo": "Inomero yinzu",
+    "TextSpouseParent": "Ese uwo mwashakanye ni umubyeyi w'umwana",
+    "TextPlateNumberNotFound": "There is no Company License details found for the vehicle, Please apply with individual authorization type",
+    "TextReceiverType": "Ubwoko bw'uwakira",
+    "TextMinorRepresentative": "Uhagarariye umwana",
+    "TextRegistered": "Abiyandikishije",
+    "TextTested": "Abapimwe",
+    "TextEquivalenceQualif": "Impamyabumenyi ihuye mu Rwanda",
+    "TextMajOffice": "Ibiro bya MAJ",
+    "TextPSelectMaj": "Hitamo Ibiro bya MAJ",
+    "TextNppaOffice": "Ibiro bya NPPA",
+    "TextPSelectNppa": "Hitamo Ibiro bya NPPA",
+    "TextCollectionOffice": "Aho Gufatira Icyemezo",
+    "TextAlwaysGetCertificate": "Ushobora gukuramo icyemezo cyawe hano cyangwa ukacyakira kuri imeri yawe niba itanzwe ku ntambwe ikurikira.",
+    "TextApplicantAndRequestDetails": "Umwirondoro w'usaba n'ibiranga dosiye isaba serivisi",
+    "TextSearchByReleasePeriod": "Gushakisha igazeti hakurikijwe igihe yasohokeye?",
+    "TextDeliveryMode": "Uburyo bwo kuyigeza k'umuguzi",
+    "PselectDeliveryMode": "Hitamo uburyo bwo kuyikugezaho ",
+    "TextGazetteReleaseMonth": "Ukwezi yasohotsemo",
+    "PEnterReleaseMonth": "Hitamo ukwezi yasohotsemo",
+    "TextGazetteReleaseDate": "Itariki yasohokeye",
+    "TextGazetteSubscriptionYear": "Umwaka w'ifatabuguzi",
+    "PselectGazetteSubscriptionYear": "Hitamo umwaka w'ifatabuguzi",
+    "TextCurrentCountry": "Igihugu urimo ubu",
+    "TextCurrentAddress": "Aderesi ya none",
+    "TextOfficialGazettes": "Igazeti za Leta",
+    "TextNewOffialGazette": "Igazeti nshya",
+    "TextStatus": "Imiterere",
+    "TextActive": "Amafaranga y'uruhushya asonewe?",
+    "TextDisabled": "Irafunze",
+    "TextVehicleNotFoundInSchedule": "Gahunda yatoranijwe ntabwo ihuye n'icyiciro cy'imodoka yatanzwe",
+    "TextNotEnoughBalance": "Isosiyete ntabwo ifite amafaranga ahagije yo kohereza ubusabe.",
+    "TextGazetteApplicationType": "Ubwoko bwa dosiye isaba",
+    "PGazetteApplicationType": "Hitamo ubwoko bwa dosiye isaba",
+    "POrganizationName": "Andika izina ry'ikigo",
+    "TextOrganizationType": "Ubwoko bw'ikigo",
+    "TextFleetMismatch": "Fleet Mismatch",
+    "TextFleetSize": "Umubare ntarengwa wa moto ushobora kongerwamo Local (muri Kigali) ni 100, mukarere (hanze ya Kigali) ni 50",
+    "TextRenewal": "kongererwa igihe",
+    "TextClickToSelectGazette": "Click to select gazette to purchase",
+    "TextOutOfStock": "Out of stock",
+    "TextPaymentFree": "Wasonewe kwishyura amafaranga y'uruhushya?",
+    "TextOptionalAttachments2": "Imigereka y'ubushake",
+    "TextPlateNumberNotFounds": "plate number is not found",
+    "TextInsuranceNotFound": "Insurance detail is not found",
+    "TextRURAAdmin": "RURA Officer Admin",
+    "TextDynamicPassport": "Ikiguzi: kirahinduka bitewe n'icyiciro cya pasiporo koranabuhanga",
+    "TextWorkDays": "Iminsi yo gukora ",
+    "TextRepushPayment": "Ongera usunike Kwishura",
+    "TextCityOfResidence": "Umujyi utuyemo",
+    "TextEmbassyRegistration": "Nomero y'ikarita wahawe na Ambasade umaze kwiyandikisha",
+    "TextDynamicLaissez": "Igiciro: kirahindinduka bitewe n'icyiciro cy'urwandiko rw'inzira",
+    "TextOldPassportNumber": "Nomero y'urwandiko rw'inzira wari usanganywe",
+    "TextOwnerPhoneNumber": "Nomero ya telefoni ya nyir'ikinyabiziga",
+    "TextOwnerName": "Amazina ya nyir'ikinyabiziga",
+    "TextBirthLocation2": "Aho wavukiye",
+    "TextRegistrantManagement": "Registrant Management",
+    "TextCurrentRegistrants": "Current Registrants",
+    "TextRemove": "Remove",
+    "TextAddRegistrants": "Add Registrants",
+    "TextRegistrants": "Registrants",
+    "TextSelectRegistrants": "Select Registrants",
+    "TextUpdateBillId": "Kuvugurura kode yo kwishyuriraho",
+    "TextBillIdCancelled": "Kode yo kwishyuriraho yagaharitswe neza.",
+    "TextBillIdNotCancelled": "Kode yo kwishyuriraho ntiyahagaritswe.",
+    "TextCheckBillStatus": "Kureba sitati ya kode yo kwishyuriraho",
+    "TextBillIdPaid": "Kode yo kwishyuriraho yishyuwe.",
+    "TextEnterBillId": "Shyiramo kode yo kwishyuriraho",
+    "TextPushApplication": "Kohereza dosiye",
+    "TextLinkPdr": "Link personal data record",
+    "TextEnterApplicationNumber": "Shyiramo nomero ya dosiye",
+    "TextApplicationNotPaid": "Dosiye ntirishyurwa.",
+    "TextApplicationPushed": "Dosiye yoherejwe.",
+    "TextIdentifierUsed": "Urakoresha iki kiranga dosiye",
+    "TextChooseAppIdentifier": "Choose an application identifier",
+    "TextChooseUserIdentifier": "Choose a user identification type",
+    "TextTourismService": "ubone serivisi zose z'ubukerarugendo",
+    "BtnAcknowledge": "Yakiriwe neza",
+    "TextFilterApps": "Kurobanura dosiye",
+    "TextOn": "Ku",
+    "TextApprovedBy": "byemejwe na",
+    "TextHasChildId": "Has application number?",
+    "TextMissingData": "Missing Information",
+    "TextOtherProfession": "Undi mwuga",
+    "TextOtherOccupation": "Ibindi ukora",
+    "TextEnterOccupation": "Shyiramo umwuga wawe",
+    "TextEnterProfession": "Shyiramo icyo ukora",
+    "TexDestinationCity": "Umujyi ugiyemo",
+    "TextDgieAttachment1": "Passport photo and Signature have to be less than 200kb and allowed formats are jpeg and jpg. Other attachments are less than 500kb and pdf format only.",
+    "TextDgieAttachment2": "Ifoto igomba kuba iri munsi ya 200kb kandi iri mu bwoko bwemewe ari bwo jpeg na jpg. Indi migereka igomba kuba iri munsi ya 500kb kandi muri PDF gusa.",
+    "TextCurrency": "Ifaranga",
+    "TextMinValue": "Umubare ntugomba kuba munsi ",
+    "TextCatedralFicheNumber": "Tanga umubare wa fiche cadastral ushaka",
+    "TextCatedralFicheNumber2": "Umubare wa fiche cadastral",
+    "TextLandApplicationOffice": "Choose Application Office",
+    "TextPublicationType": "Publication Type",
+    "PPublicationType": "Enter Publication Type",
+    "TextParentNationality": "Ubwenegihugu bw' umubyeyi",
+    "TextMotherNationality": "Ubwenegihugu bw' Mama",
+    "TextFatherNationality": "Ubwenegihugu bw' Data",
+    "TextParentdDetails": "Umwirondoro w' umubyeyi",
+    "TextBy": "Na",
+    "TextHecPreviewMsg": "bizaterwa ni gihe igisubizo cya kaminuza kizabonekera.",
+    "TextPreviewCertificate": "Reba Icyemezo",
+    "TextClosePreview": "Funga Kureba Icyemezo",
+    "BtnAcknowledging": "Twemeje",
+    "TextAddedSubjects": "Added subjects",
+    "TextInsuranceValidTo": "Insurance valid to",
+    "TextNumber": "No.",
+    "TextHecEmailNote": "Imeli y'ishuri: ibiro y'umwanditsi mukuru w'ishuri cyangwa ibiro byandika abanyeshuri b'abanyamahanga",
+    "TextPendingAppointment": "Pending Appointment",
+    "TextIdentityDocument": "Inyandiko y'irangamuntu",
+    "TextOtherBank": "Indi banki",
+    "TextAttachmentValidation": "Sorry, your photo is not a compliant passport photo",
+    "TextAttachmentLink": "Please check this article on our knowledge base for more details ",
+    "TextFetchingInfo": "Retrieving ID info",
+    "TextOutOfService": "Urubuga rufite ibibazo tekiniki muri iki gihe",
+    "TextOutOfServiceMsg1": "Turabamenyesha ko twagize ikibazo tekinike. Turabasaba kutwihanganira mu gihe dukora ibishoboka kugirango iki kibazo gikemuke vuba.",
+    "TextOutOfServiceMsg2": "ukomeze kubona amakuru ajyanye nuko gukemura iki kibazo bihagaze. Murakoze!",
+    "TextAction": "Action",
+    "PSelectAction": "Select action",
+    "TextReasonForReplace": "Impamvu yo gusimburwa",
+    "TextUpdateDeathRecord": "Kuvugurura inyandiko y'urupfu",
+    "TextDeathRecordUpdated": "You have successfully updated death record.",
+    "TextUnpaidtrafficFinesMsg": "Ikinyabiziga cyawe gifite amande atarishyuwe turagusaba kubanza kuyishyura mbere yo gusaba umunsi wo kujya kugisuzumisha.",
+    "TextTrafficFinesPaymentMsg": "Ushobora kwishyura amande ukoresheje nomero ya tike wahawe ugahamagara kuri *909# cyangwa unyuze ku rubuga.",
+    "TextLevels": "Level(s)",
+    "TextLinkBillIds": "Ihuza rya kode yo kwishyuriraho yatakaye",
+    "TextNoFines": "Iki kinyabiziga nta konterevasiyo gifite",
+    "TextVisaFreeMsg": "Si ngombwa gusaba visa wifashishije ikoranabuhanga mbere yo kuza mu Rwanda: ushobora kubona viza ku buntu ukigera ku kibuga cy'indenge mu Rwanda",
+    "TextNoSpouseMessage": "Urabura izina ry'uwo mwashakanye muri NIDA. Vugurura amakuru yawe mbere yo gukomeza.",
+    "TextGetLinkedBillIds": "Get Linked bill IDs",
+    "TextMasterBillId": "Master Bill ID",
+    "TextLinkedBillId": "Linked Bill IDs",
+    "TextVisaInRwanda": "Icyitonderwa: niba wamaze kugera mu Rwanda ukaba wifuza kongera igihe cyo kuguma mu gihugu, ntusabe viza ahubwo saba kongeresha igihe cyayo cyangwa izindi \"mpushya\"",
+    "TextDgieRefenreceNumber": "Nomero ya dosiye yawe itangwa na DGIE",
+    "TextDgieHowToGetRefenreceNumber": "Jya kuri ambasade baguhe nomero ya dosiye yawe.",
+    "TextDocumentType": "Ubwoko bw'Icyangombwa",
+    "TextPDocumentType": "Hitamo Ubwoko bw'Icyangombwa",
+    "TextNationalIdNumberLong": "Nomero y'Indangamuntu",
+    "TextPNationalIdNumberLong": "Shyiramo Nomero y'Indangamuntu",
+    "TextNIN": "NIN",
+    "TextPNIN": "Shyiramo NIN",
+    "TextOverdue": "Dosiye yatinze kwemezwa",
+    "TextDeclarant": "Uwanditse icyemezo",
+    "TextDeclarantDetails": "Umwirondoro w'Uwanditse icyemezo",
+    "PEnterDescription": "Enter Description",
+    "TextPhone": "Nomero ya telefoni",
+    "TextForeignPhoneNumber": "Nomero za telefoni zo mu mahanga zigomba kugira kode y'icyo gihugu. Urugero:  01 555 5555 5555",
+    "TextEmbassySelection": "Niba uba mu mahanga, hitamo ambasade nk'Akarere kawe hanyuma ushyiremo ambasade ubarizwamo nk'Umurenge",
+    "TextPrimaryOwner": "I am primary Owner",
+    "TextFather": "Se",
+    "TextMother": "Nyina",
+    "TextCreatePassword": "Andika ijambo ry'ibanga",
+    "TextCreatePwdSubTitle": "Tanga ijambo ry'ibanga ryizewe uzakoresha kugirango winjire muri konti yawe",
+    "TextSuspendService": "Hagarika serivisi",
+    "TextServiceSuspensionMessageOne": "Ugiye guhagarika serivisi ya",
+    "TextServiceSuspensionMessageTwo": "Tanga ubutumwa ku bakoresha iyi serivisi hepfo hano",
+    "TextMessageCharacterLimit": "Ubutumwa bugomba kuba munsi y'inyuguti 150",
+    "TextConfirmSuspendService": "Uremeza ko ushaka guhagarika iyi serivisi?",
+    "TextConfirmSuspendServiceDetails": "Guhagarika serivisi birahita bigaragarira kurubuga IremboGov. Suzuma neza ko icyo ugiye gukora gikwiye!",
+    "TextEnterPassword": "Shyiramo ijambo ryibanga kugirango ukomeze",
+    "TextSuspend": "Hagarika",
+    "TextResumeService": "Subukura serivisi",
+    "TextConfirmResumeService": "Uremeza ko ushaka gusubukura iyi serivisi?",
+    "TextConfirmResumeServiceDetails": "Gusubukura serivisi birahita bigaragarira kurubuga rwa IremboGov.",
+    "TextResume": "Subukura",
+    "TextSuccessSuspendTitle": "Serivisi yahagaritswe neza",
+    "TextSuccessSuspendDetailsOne": "Ibikurikira byahagaritswe kur'iyi serivisi",
+    "TextSuccessSuspendDetailsTwo": "Ushobora guhindura ubutumwa bwo kumenyesha ku gice cyo guhagarika cya admin.",
+    "TextSuccessResumeTitle": "Serivisi yasubukuwe neza",
+    "TextSuccessResumeDetails": "Ubu abaturage bashobora gukoresha iyi serivisi ku rubuga rwa IremboGov.",
+    "TextSuspendApplications": "Hagarika gusaba iyi serivisi",
+    "TextSuspendOfficers": "Hagarika gutunganywa kw'iyi serivisi",
+    "TextOfficerProcessing": "Gutunganya dosiye kw'ababishinzwe",
+    "TextUnavailable": "Ntishoboye kuboneka",
+    "TextServiceSuspended": "Serivisi yahagaritswe",
+    "TextResumeApplications": "Subukura kwakira dosiye kur'iyi serivisi",
+    "TextResumeOfficers": "Subukura gutunganya dosiye kw'abayobozi kur'iyi serivisi",
+    "TextSuspended": "Yahagaritswe",
+    "TextAddressType": "",
+    "TextPreviousWork": "Akazi kashize",
+    "TextPreviousWorkSubtitle": "Ibikorwa byabanje ku Rwanda",
+    "TextPreviousWorkParagraph": "Wigeze ukora ibikorwa byerekeye u Rwanda?",
+    "TextPreviousWorkTitle": "Umutwe",
+    "TextPreviousWorkUrl": "URL",
+    "TextFirstTimeApplicant": "Ubusabe bwa mbere",
+    "TextCountryOfResidence": "Igihugu atuyemo",
+    "TextEditorDetails": "Editor Details",
+    "TextProjectDetails": "Ibisobanuro birambuye byumushinga",
+    "TextProjectItinerary": "Project Itinerary",
+    "TextStayAndContactDetail": "Séjour: Détails de l'adresse et de la personne de contact au Rwanda",
+    "TextPreviousWorkSample": "Link to previous work sample",
+    "PSelectAddressType": "Ubwoko bwa aderesi",
+    "TextDateOfDeparture": "Itariki yo kugenda",
+    "TextAccomodationType": "Ubwoko bw'Icumbi",
+    "TextHotelName": "Izina rya Hoteli",
+    "TextAnotherLink": "Ongeraho undi murongo",
+    "TextPProvisionalLicenseNumber": "Shyiramo nomero y'uruhushya rwo gutwara ibinyabiziga rw'agateganyo",
+    "TextValidProvisionalLicenseNumber": "Uruhushya rwo gutwara ibinyabiziga by'agateganyo rwemewe",
+    "TextInvalidProvisionalLicenseNumber": "Uruhushya rwo gutwara ibinyabiziga by'agateganyo ntirwemewe",
+    "TextTinOnLogbook": "TIN yawe iri muri karite jone",
+    "TextInstitutionEmail": "Imeri y' ikigo",
+    "PEnterInstitutionEmail": "Shyiramo Imeri y' ikigo",
+    "TextOtherTrade": "Other Trade",
+    "TextTradeName": "Trade name",
+    "PSTradeName": "Hitamo Trade name",
+    "TextAddAnotherSubject": "Ongeramo irindi somo",
+    "TextSubmittedTrade": "Submitted Trade",
+    "TextSubjectTaken": "Ibyo Wize",
+    "TextPhoneForContact": "Nomero ya telefone yo guhamagara",
+    "TextInvalidPhoneNumber": "Invalid phone number",
+    "TextSpouseNationalId": "Spouse's national ID[KIN]",
+    "TextFatherNationalId": "Father's national ID[KIN]",
+    "TextMotherNationalId": "Mother's national ID[KIN]",
+    "TextSpouseNames": "Spouse's names[KIN]",
+    "TextApplicantOtherNationality": "Applicant's other nationality[KIN]",
+    "TextHavePassport": "Do you have a passport?[KIN]",
+    "TextDateOfIssue": "Date of issue[KIN]",
+    "TextPlaceOfIssue": "Place of issue[KIN]",
+    "TextAttachmentNidDiasporaMessage": "Allowed file formats are PDF, JPG and PNG. <br> For any of the following, if you wish to attach more than one document, include them in a single file.[KIN]",
+    "TextAgeAbove": "Your Age must be Above 16[KIN]",
+    "TextFatherSurname": "Father Surname",
+    "TextFatherPostname": "Father Postname",
+    "TextMotherSurname": "Mother Surname",
+    "TextMotherPostname": "Mother Postname",
+    "TextPayIn": "Kwishura",
+    "TextPreviousCepglNumber": "Umubare wa CEPGL",
+    "TextGuardianPassportNumber": "Inomero ya Pasiporo",
+    "TextMotherPassportNumber": "Inomero ya Passeport ya Mama ",
+    "TextFatherPassportNumber": "Inomero ya Passeport ya So",
+    "TextParentPassportNumber": "Inomero ya Passeport",
+    "TextUpdateMarriageRecord": "Kuvugurura inyandiko y'ubukwe",
+    "TextMarriageRecordUpdated": "Wahinduye neza imicungire y'umutungo y'inyandiko y'ubukwe.",
+    "TextServicePayment": "Kwishyura serivisi",
+    "TextPaymentOptions": "Amahitamo yo kwishyura",
+    "TextLoadingPayments": "Ihangane mu gihe tukohereza amahitamo yo kwishyura",
+    "TextNinDescription": "NIN (Umubare Wihariye uranga Umuntu) ihabwa umuturarwanda iyo yanditse muri sisitemu ya CRVS.",
+    "TextChildIdDescription": "Indangamuntu y'umwana, ubundi izwi nka nomero y'ifishi y'umuturage NPR, igaragaza umunyarwanda mu gitabo cy'igihugu gishinzwe kwandika abaturage. Umuntu wese arayikeneye kugira ngo abashe gusaba indangamuntu.",
+    "TextDeceasedParentLastRecidenceDescription": "Iyo umubyeyi yitabye Imana, aderesi ye iheruka ishobora gutangazwa.",
+    "TextWitnessDescription": "Umuntu wese ufite imyaka 18 no hejuru yaba umuhamya ku nyandiko y'ivuka, gusa agomba kuba yemera kuba umuhamya. Ababyeyi b'usaba dosiye ntibemerewe kuba abahamya.",
+    "TextDeclarantDescription": "Umenyekanisha ni umuntu wese ugaragaza ukuri kuzuye ku makuru aba yatanzwe. Iyo usaba dosiye afite imyaka 18 no hejuru, ashobora kumenyekanisha inyandiko ye y'ivuka. Bitabaye ibyo, imenyekanisha rikorwa n'umubyeyi, umunyamuryango, cyangwa inshuti ya hafi ifite imyaka 18 no hejuru.",
+    "TextReasonForReplacement": "Impamvu yo Gusimburwa",
+    "TextNewCepglNotice": "Mu gihe urwandiko rw'inzira rwa CEPGL rwabuze, rwibwe, rwangijwe, cyangwa wifuje gusaba urundi, hitamo <b>Gusaba urundi rwandiko cyangwa Gusimbuza mu mwanya wo Gusaba urwandiko rushya.</b>",
+    "TextCepglReplacementNotice": "Mu gihe wifuje kuvugurura urwandiko rw'inzira rwa CEPGL, hitamo serivisi yo <b>Gusaba urundi rwandiko mu mwanya wa serivisi yo Gusimbuza.</b>",
+    "TextCepglRenewalNotice": "Mu gihe urwandiko rw'inzira rwa CEPGL rwabuze, rwibwe, cyangwa rwangijwe, hitamo serivisi yo <b>Gusimbuza mu mwanya wa serivisi yo Gusaba urundi rwandiko.</b>",
+    "TextDeclarantIsBelow18": "The Declarant is below 18 years old",
+    "TextWitnessIsBelow18": "The Witness is below 18 years old"
+  },
+  "httpErrorMessages": [
+    {
+      "name": "Ubusabe budatunganye"
+    },
+    {
+      "name": "Ntiwemerewe kubona aya makuru"
+    },
+    {
+      "name": "Ntiwemerewe kubona aya makuru"
+    },
+    {
+      "name": "Umenya ibyo ushaka bidashoboye kuboneka"
+    },
+    {
+      "name": "Habaye ikibazo cya tekiniki mugaruke nyuma"
+    }
+  ],
+  "notaryApplicants": [
+    {
+      "name": "Umunyarwanda"
+    },
+    {
+      "name": "Umunyamahanga"
+    },
+    {
+      "name": "Sosiyete"
+    },
+    {
+      "name": "Koperative"
+    },
+    {
+      "name": "Urusengero"
+    },
+    {
+      "name": "Ikigo gishingiye kuri Leta"
+    },
+    {
+      "name": "Ishyirahamwe ry'umurimo"
+    }
+  ],
+  "notaryApprovingLevel": [
+    {
+      "name": "Akarere"
+    },
+    {
+      "name": "Umurenge"
+    },
+    {
+      "name": "RDB"
+    },
+    {
+      "name": "MINIJUST"
+    },
+    {
+      "name": "RGB"
+    }
+  ],
+  "landEntityTypes": [
+    {
+      "name": "Umunyarwanda"
+    },
+    {
+      "name": "Umunyarwanda ufite pasiporo"
+    },
+    {
+      "name": "Umunyamahanga"
+    },
+    {
+      "name": "Urusengero"
+    },
+    {
+      "name": "Sosiyete"
+    },
+    {
+      "name": "Umuryango utari uwa Leta"
+    },
+    {
+      "name": "Koperative"
+    },
+    {
+      "name": "Ishyirahamwe ry'umurimo"
+    },
+    {
+      "name": "Ibindi"
+    }
+  ],
+  "deliveryModes": [
+    {
+      "name": "Gufata igazeti kuri MINIJUST"
+    },
+    {
+      "name": "Bayizane mu rugo"
+    }
+  ],
+  "deliveryTypes": [
+    {
+      "name": "Ibihugu byo k'umugabane wa Amerika na Aziya"
+    },
+    {
+      "name": "Ibihugu byo k'umugabane w'Uburayi"
+    },
+    {
+      "name": "Oseyaniya"
+    },
+    {
+      "name": "Ibindi bihugu by'Afurika"
+    },
+    {
+      "name": "Ibihugu bihana imbibi n'u Rwanda"
+    },
+    {
+      "name": "Muri Kigali"
+    },
+    {
+      "name": "Hanze ya Kigali"
+    },
+    {
+      "name": "Rwanda"
+    }
+  ],
+  "publishingCategories": [
+    {
+      "name": "Kohereza dosiye isaba guhindura izina"
+    },
+    {
+      "name": "Kwemeza guhindura izina"
+    },
+    {
+      "name": "Ikigo c'Igihugu cy'amakoperative - Koperative"
+    },
+    {
+      "name": "RGB - Umuryango utari uwa Leta n'Ushingiye kumyemerere"
+    },
+    {
+      "name": "Ibindi"
+    }
+  ],
+  "requestTypes": [
+    {
+      "name": "Guhindura izina"
+    },
+    {
+      "name": "Ubuzima gatozi"
+    },
+    {
+      "name": "Ibindi"
+    }
+  ],
+  "organizationCategories": [
+    {
+      "name": "Koperative"
+    },
+    {
+      "name": "NGO"
+    },
+    {
+      "name": "FBO"
+    }
+  ],
+  "drivingTestTypes": [
+    {
+      "name": "Kuri mudasobwa"
+    },
+    {
+      "name": "Ku rupapuro"
+    }
+  ],
+  "visitTypes": [
+    {
+      "name": "Gusuzumisha ikinyabiziga bwa mbere"
+    },
+    {
+      "name": "Gusuzumisha ikinyabiziga bwa kabiri"
+    }
+  ],
+  "drivingLicenseTypes": [
+    {
+      "name": "Uruhushya rwatangiwe mu mahanga"
+    },
+    {
+      "name": "Uruhushya rwatangiwe mu Rwanda"
+    }
+  ],
+  "sortTypes": [
+    {
+      "name": "Kumanuka"
+    },
+    {
+      "name": "Kuzamuka"
+    }
+  ],
+  "certificateVerificationTexts": [
+    {
+      "name": "Amazina"
+    },
+    {
+      "name": "Itariki y'amavuko"
+    },
+    {
+      "name": "Nomero ya dosiye"
+    },
+    {
+      "name": "Cyatanzwe kuwa"
+    },
+    {
+      "name": "Gifite agaciro kuva"
+    },
+    {
+      "name": "Cyashyizweho umukono na"
+    },
+    {
+      "name": "Biragaraga ko tudafite dosiye ihuye n'iki cyangombwa. Ibyangombwa byatanzwe n'IremboGov nibyo byonyine biba bifite agaciro.</br></br>Mwongere musuzume neza aho icyangombwa cyatangiwe cyangwa musabe icyangombwa gishya."
+    },
+    {
+      "name": "Biragaraga ko tudafite dosiye yemewe ihuye n'iki cyangombwa. Ibyangombwa byatanzwe n'IremboGov nibyo byonyine biba bifite agaciro.</br></br>Mwongere musuzume neza aho icyangombwa cyatangiwe cyangwa musabe icyangombwa gishya."
+    }
+  ],
+  "systemInfo": {
+    "legalInformationSummary": "Urubuga Irembo rwiyemeje kurinda ubusugire n'umutekano w'amakuru aranga abarukoresha. Twashyizeho ingamba n'amabwiriza ajyanye n'umutekano n'imikoreshereze ya serivisi dutanga binogeye abatugana.",
+    "termOfUseTitle": "Amabwiriza ku mikoreshereze y'urubuga",
+    "termsOfUse": "Murakaza neza. Turabashimiye gusura <b>Irembo</b>, urubuga rutangirwaho serivisi za Leta ukoresheje ikoranabuhanga(e-gov). Nkuko bisanzwe ku zindi mbuga nyinshi, uru rubuga rufite amategeko agenga imikoreshereze na serivisi zirutangirwaho. Ayo mategeko, twise \"amabwiriza ku mikoreshereze\", akubiye mu masezerano ku mikoreshereze y’urubuga. Niba ukoresheje uru rubuga, wiyemeje gukurikiza no kutarenga ku mabwiriza akurikira. Banza uyasome neza. Niba hari ibyo utemeye muri aya mabwiriza, reka  gukoresha uru rubuga.<br/><br/><b>Uru rubuga ni urwande, rukora rute?</b><br/><br/>Uru rubuga rukora nka sisitemu y'ikoranabuhanga itunganya uburyo bw’imitangire ya  serivisi hagati y'Ibigo bya Leta n'abarukoresha; imikoreshereze n'imitunganyirize y'urwo rubuga ikaba igengwa n’Ikigo cyigenga aricyo Irembo Ltd gifitanye amasezerano y'imikoranire y'imyaka 25 na Leta y’u Rwanda.<br/><br/>Leta ifatanyije n'ibigo biyishamikiyeho ifite inshingano zo gutegura no gutunganya amakuru agomba gushyirwa ku rubuga no guha Ikigo Irembo amakuru yose akenewe kandi ajyanye n'igihe kugirango abakeneye serivisi babashe kuzihabwa.<br/><br/><b>Uburenganzira bukomye</b><br/><br/>Irembo n’ikirangantego cyaryo bikingiwe n'uburenganzira bukomye bw’Ikigo Irembo Ltd, bikazasubizwa Leta aya masezerano arangiye.<br/><br/><b>Kwiyandikisha</b><br/><br/>Dushobora kugusaba gufungura konti ku rubuga Irembo kugirango ushobore kubona zimwe muri serivisi zirutangirwaho ariko ibi si ngombwa igihe ukoresha sisitemu ya USSD *909#. <br/><br/><b>Inshingano z'ukoresha urubuga</b><br/><br/>Ugomba gukoresha urubuga <a href=\"www.irembo.gov.rw\">www.irembo.gov.rw</a> na konti yawe ku mpanvu zubahiriza amategeko no mu buryo butabangamira undi muntu mu bijyanye n’uburenganzira bw'imikoreshereze n'ubwisanzure ku rubuga.<br/><br/><b>Uburenganzira bwo guhindura amabwiriza ku mikoreshereze y’Urubuga</b><br/><br/>Irembo rishobora kuvugurura amabwiriza ku mikoreshereze y’Urubuga igihe bibaye ngombwa. Iyo ivugurura ribaye, ibyavuguruwe nibyo bishyirwa ku rubuga. Turabamenyesha ko impinduka zikurikizwa iyo zamaze gushyirwa ku rubuga, musabwe rero guhora musoma ibiri ku rubuga kugirango mumenye ko hari impinduka zabaye. Igihe bibaye ngombwa, urubuga rwoherereza email cyangwa SMS uwiyandikishije rukamumenyesha impinduka zabaye.<br/><br/>Igihe ukomeje gukoresha urubuga Irembo nyuma y'uko impinduka zatangiye gukurikizwa, uba wiyemeje kubahiriza ayo mabwiriza yavuguruwe.<br/><br/><b>Kubahiriza amabwiriza</b><br/><br/>Urubuga Irembo ruhora rugenzura ko amabwiriza kubarukoresha yubahirizwa. Rwubahiriza n'andi mabwiriza agenga imikorere yarwo. Rukorana kandi n'ibindi bigo ngengamikorere hagamijwe gukemura ibibazo bishingiye ku makuru aranga abarukoresha rudashobora kwikemurira ubwarwo.<br/><br/>",
+    "disclaimerTitle": "Icyitonderwa",
+    "disclaimer": "<b>Amabwiriza ku bakoresha Urubuga Irembo</b><br/><br/>Abakoresha urubuga Irembo bose basabwa kubanza gusoma aya mabwiriza mbere yo kurukoresha kugirango babashe gusobanukirwa neza ibyo batagomba kurengaho n'inshingano z’Irembo zirebana n'ibivugwa muri iyi nyandiko.<br/><br/><b>Icyitonderwa muri rusange</b><br/><br/>Urubuga Irembo rwitwararika mu gushyira ku rubuga amakuru yizewe aturutse mu nzego za Leta zitandukanye ariko ntirushobora kwirengera amakosa, ibyibagiranye, cyangwa ingaruka zaterwa n'imikoreshereze y'ayo makuru.<br/><br/><b>Urubuga Irembo n'izindi mbuga</b><br/><br/>Urubuga Irembo ruhuzwa n’izindi sisitemu z’imbuga za Leta n’izibindi bigo biyishamikiyeho zidakontororwa n’Irembo. Ntabwo rero tugenga imiterere y'izo mbuga, ibizirimo ndetse n'uburyo zikora.<br/><br/>Ihuzwa ry' urubuga Irembo n'izindi mbuga za Leta bikorwa kugirango umuntu abashe kugera ku bikubiye muri izo mbuga ariko ntibivuga ko twishingiye amakuru aziriho.<br/><br/><b>Kwishyura</b><br/><br/>Kwishyura serivisi ku rubuga Irembo bishobora gukorwa hifashishijwe uburyo butandukanye aribwo telefoni igendanwa, ikarita yo kubitsa no kubikuza, na mVisa n'andi makarita akoreshwa mu ma banki dukorana. Umuyoboro wo kwishyura ukoresheje interineti washyizweho kugirango kwishyura serivisi bikorwe mu buryo bworoshye utagombye kujya kuri banki. Irembo ntirizigera ribazwa imikoreshereze mibi y'uwo muyoboro. Ugomba kumenya neza ko ibijyanye n'imyishyurire kuri interineti ari wowe bireba na banki mukorana gusa.<br/><br/>Amakuru ari ku ikarita yo kubitsa no kubikuza watanze kugirango ubashe gukoresha umuyoboro wo kwishyura agomba kuba atunganye, ari ukuri kandi ntugomba gukoresha ikarita utabonye mu buryo bwemewe n’amategeko.<br/><br/>Igihe ukoresheje urubuga Irembo wishyura serivisi, urubuga rusigarana inyandiko zerekana uwasabye iyo serivisi, igihe yayisabiye, umubare w’amafaranga yishyuye n’uburyo yakoreheje yishyura ariko ntiruzagumana nomero yawe ya PIN cyangwa ijambo ry’ibanga byakoreshejwe na sistemu zo kwishyura keretse ubitangiye uburenganzira mu nyandiko.<br/><br/><b>Gusubizwa amafaranga</b><br/><br/>Iyo Irembo rigejejweho ikibazo cyo gusubiza amafaranga rigasanga gifite ishingiro (cyangwa se gusubiza amafaranga uwasabye serivisi bikaba bikurikije amategeko akoreshwa), ryihutira gusubiza ayo mafaranga.<br/><br/>Nk'uko amategeko abiteganya, ibyo Irembo hamwe n'abafatanyabikorwa baryo basabwa bireba gusa umubare w'amafaranga yishyuwe serivisi (cyangwa se kongera guha serivisi uwayisabye bundi bushya).<br/><br/><b>Abafatanyabikorwa</b><br/><br/>Irembo rikorana n'ibigo binyuranye kugirango ribashe gutanga serivisi. Muri byo twavuga ibirihagarariye, ibitanga serivisi za interineti, n’amabanki. Usaba serivisi nta mafaranga y'ikirenga asabwa uretse ayagenwe kandi agaragara ku rubuga, kandi Irembo ntiribazwa imikoreshereze mibi, ibyatakaye cyangwa ibyangiritse, ibyangiritse mu buryo budasanzwe, bufite ingaruka, bugaragara cyangwa buhanirwa bitewe cyangwa bifitanye isano n'abafatanyabikorwa bacu. Ibi bisobanura neza aho inshingano zacu zigarukira ku byerekeye ibyangiritse byose harimo (ariko bitagarukira gusa) ku ngurane y' ibyangijwe mu buryo butaziguye, buziguye cyangwa bishobora kugira ingaruka, gutakaza amakuru, umutungo cyangwa inyungu, gutakaza cyangwa kwangirika k'umutungo n'ibindi abafatanyabikorwa bacu bashobora kwishyuza.<br/><br/><b>Kwirinda Virusi</b><br/><br/>Irembo rikora ibishoboka byose kugirango rigenzure kandi risuzume ibishyirwa ku rubuga ku nzego zose zo kubaka urubuga rwa interineti Leta itangiraho serivisi. Abakoresha urubuga Irembo bakwiye gukoresha porogaramu zo kwirinda virusi igihe bakoresha inyandiko bakuye kuri interineti.<br/><br/>Irembo ntirishobora kubazwa na rimwe ibyabuze, ibitagenda, cyangwa ibyangiritse birebana n'amakuru cyangwa sisitemu yawe igihe ukoresha ibyavuye kuri uru rubuga cyangwa izindi mbuga za Leta.<br/><br/>Dufata ingamba zihamye zidufasha gucunga umutekano w’amakuru dukusanyije, tukayabika mu ibanga, kandi agahorana ubusugire. Muri izo ngamba harimo uburyo bwo kurinda amakuru ari ku rubuga kugirango atabonwa n'utabifitiye uburenganzira, bityo tugashobora kuzuza inshingano zacu.<br/><br/>Dukoresha kandi n'ubundi buryo bw'ikoranabuhanga budufasha gucunga umutekano w'amakuru abitswe ku rubuga.<br/><br/><b>Amategeko akurikizwa</b><br/><br/>Aya mabwiriza n'izindi nshingano zidakubiye mu masezerano zituruka cyangwa zifitanye isano nayo bigengwa kandi bisobanurwa n'amategeko y'u Rwanda. Ibitazunvikanwaho bijyanye cyangwa birurutse kuri aya mabwiriza no ku zindi nshingano zidakubiye mu masezerano bizakemurwa n'inkiko z'u Rwanda.<br/><br/>",
+    "privacyStatementTitle": "Amabwiriza ajyanye n'amakuru aranga abakoresha urubuga",
+    "privacyStatement": "<b>Amakuru aranga abakoresha Urubuga</b><br/><br/>Aya mabwiriza agamije kubasobanurira uko urubuga Irembo rukoresha rukanarinda amakuru aranga abarukoresha. Kugirango dusobanukirwe neza aya mabwiriza, ayo makuru yahawe inyito “y' amakuru aranga abakoresha urubuga”, bikaba byubahirije Itegeko Nshinga rya Repubulika y'u Rwanda ryo mu 2015 nk'uko ryavuguruwe kugeza ubu (ingingo ya 23) rivuga ko imibereho bwite y'umuntu idashobora kuvogerwa.<br/><br/>Urubuga Irembo rutangirwaho serivisi za interineti ntirukoreshwa mu buryo bubonetse bwose. Ntabwo kandi rwiha amakuru aranga urukoresha, keretse iyo ayatanze kubushake.<br/><br/><b>Imikoreshereze y' amakuru urubuga Irembo rwakiriye</b><br/><br/>Muri rusange, urubuga Irembo ntirubika amakuru akuranga iyo urusuye, keretse ari wowe ubishatse. Gutanga amakuru akuranga ku rubuga bikorwa ku bushake. Iyo ubikoze, uba uduhaye uburenganzira bwo kuyakoresha kugirango uhabwe serivisi wifuza.<br/><br/>Urubuga irembo rwakira amakuru akuranga kugirango rugufashe kubona serivisi wifuza, harimo na serivisi zitangwa n'abandi bafatanyabikorwa bacu. Ayo makuru urubuga rushobora kuyahererekanya na Minisiteri n'ibigo bya Leta mu rwego rwo kuzuza inshingano zabyo no guha abaturage serivisi bifuza<br/><br/>Gutanga amakuru atari yo cyangwa y'ibinyoma uyanyujije ku rubuga <a href=\"www.irembo.gov.rw\">www.irembo.gov.rw</a> bifatwa kimwe no gutanga amakuru y'ibinyoma kw’ifishi cyangwa kuyatanga ubwawe kandi bishobora gutuma twanga kuguha serivisi, gukurikiranwa n'amategeko cyangwa guhanishwa gutanga ihazabu mu butabera.<br/><br/>Urubuga Irembo ntabwo rugurisha cyangwa ngo ruhe undi muntu amakuru ayo ariyo yose aranga urukoresha (yaba ukorera Leta cyangwa uwikorera)<br/><br/>Amakuru yose yatanzwe ku rubuga Irembo arindwa gutakara, gukoreshwa nabi, kubonwa cyangwa gutangazwa n'utabyemerewe, guhindurwa cyangwa kwangizwa<br/><br/><b>Imicungire y'amakuru asigara nyuma yo gusura urubuga</b><br/><br/>Amakuru asigara nyuma yo gusura urubuga ni amakuru yoherezwa na mugabuzi y'urubuga akabikwa muri mudasobwa y'urukoresha, kugirango azabashe kuyabona igihe ayakeneye cyangwa akaba yakoreshwa n'izindi mugabuzi. Amakuru asigara nyuma yo gusura urubuga, atuma ubasha kumenya amakuru ajyanye n'umwirondoro w'uwarusuye. Urubuga Irembo ntabwo rukoresha amakuru asigara kuri mudasobwa y'abarusuye rugamije kumenya imyirondoro yabo.<br/><br/>Ubusanzwe, amakuru asigara nyuma yo gusura urubuga agira ikimenyetso kigaragaza ko atekanye. Yitwa ko atekanye iyo yanditswe mu buryo bwa tekiniki buhisha imisomere yayo. Niba bigaragara ko ayo makuru adatekanye azoherezwa mu buryo bwa tekinike bwo guhisha imisomere yayo. Ayo makuru adatekanye aherekezwa n'uburyo bwihariye bufasha kuyasoma. Icyo abakoresha urubuga Irembo bagomba kumenya ni uko muri rusange amashusho yagenewe umutekano wayo.<br/><br/>Urubuga Irembo rwubatse ku buryo rudasigarana amakuru ajyanye n'imari y'urukoresha atabitangiye uburenganzira bwanditse.<br/><br/>Urubuga Irembo nirugusaba gutanga amakuru akuranga, ruzakumenyesha impamvu zihariye zitumye ruyagusaba, icyo ruzayakoresha n'impamvu ruzayamenyekanisha. Ayo makuru yose ntabwo ruyabika igihe kirenze icyateganyijwe, akurwaho iyo icyari kigamijwe cyakozwe. Ingamba nyazo zo gucunga umutekano w'amakuru zarafashwe mu rwego rwo kwirinda gutakaza, gukoresha nabi no kwangiza amakuru aranga ukoresha urubuga Irembo.<br/><br/><b>Ukeneye ibisobanuro, wadusanga aha hakurikira</b><br/><br/>Irembo Ltd.<br/>Kigali, Gasabo<br/>Tel: (+250)782003600<br/><a href=\"mailto:info@irmbo.com\">info@irembo.com</a><br/>Umurongo utishyurwa<br/>9099<br/>Ukora kuva kuwa mbere kugeza kuwa gatanu, guhera saa 7:00 za mu gitondo kugeza saa 7:00 za nimugoroba<br/>Isaha y'Afurika yo hagati<br/>Kuwa gatandatu no ku cyumweru guhera saa 10 :00 za mu gitondo kugeza saa 3 :00 za nimugoroba<br/><br/>"
+  },
+  "officerLevels": [
+    {
+      "name": "Urwego rwa 1"
+    },
+    {
+      "name": "Urwego rwa 2"
+    },
+    {
+      "name": "Urwego rwa 3"
+    },
+    {
+      "name": "Urwego rwa 4"
+    },
+    {
+      "name": "Urwego rwa 5"
+    }
+  ],
+  "educationBackground": [
+    {
+      "name": "Amashuri abanza"
+    },
+    {
+      "name": "Amashuri yisumbuye"
+    },
+    {
+      "name": "Impamyabumenyi y'ikiciro cya mbere"
+    },
+    {
+      "name": "Impamyabumenyi y'ikiciro ya kabiri"
+    },
+    {
+      "name": "Imapamyabumenyi yikirenga"
+    },
+    {
+      "name": "Icyemezo cy'mpamyabushobozi"
+    },
+    {
+      "name": "Icyemezo cy'Amashuri Makuru"
+    },
+    {
+      "name": "Impamyabumenyi y'Amashuri Makuru"
+    },
+    {
+      "name": "Impamyabumenyi"
+    },
+    {
+      "name": "Impamyabumenyi ihanitse"
+    },
+    {
+      "name": "Izindi"
+    }
+  ],
+  "studyMode": [
+    {
+      "name": "Igihe cyose"
+    },
+    {
+      "name": "Igihe gito"
+    },
+    {
+      "name": "Kwandikirana"
+    },
+    {
+      "name": "Ibindi"
+    }
+  ],
+  "metadataApplicationLevels": [
+    {
+      "name": "New Application"
+    },
+    {
+      "name": "Confirmation"
+    }
+  ],
+  "allowedServiceApplicants": [
+    {
+      "name": "Umunyarwanda"
+    },
+    {
+      "name": "Umunyarwanda uba mu mahanga"
+    },
+    {
+      "name": "Umunyamahanga uba / wabaye mu Rwanda"
+    },
+    {
+      "name": "Umunyamahanga utaba / utarabaye mu Rwanda"
+    },
+    {
+      "name": "Impunzi"
+    }
+  ],
+  "changeOfNameCategories": [
+    {
+      "name": "Kongeraho izina"
+    },
+    {
+      "name": "Gukuraho izina"
+    },
+    {
+      "name": "Gusimbuza izina"
+    }
+  ],
+  "landUses": [
+    {
+      "name": "Gutura"
+    },
+    {
+      "name": "Ubucuruzi"
+    },
+    {
+      "name": "Inganda"
+    },
+    {
+      "name": "Ubukerarugendo"
+    },
+    {
+      "name": "Ubumenyi n'ubushakashatsi"
+    },
+    {
+      "name": "Imibereho myiza n'umuco"
+    },
+    {
+      "name": "Ubukungu"
+    },
+    {
+      "name": "Ubuhinzi"
+    },
+    {
+      "name": "Amashyamba"
+    },
+    {
+      "name": "Ubworozi"
+    },
+    {
+      "name": "Ubworobyi"
+    },
+    {
+      "name": "Ubuyobozi"
+    }
+  ],
+  "landAddRemoveActions": [
+    {
+      "name": "Ongeraho nyir'ubutaka"
+    },
+    {
+      "name": "Kuraho nyir'ubutaka"
+    }
+  ],
+  "minorCategories": [
+    {
+      "name": "Umwana  ubana n'abamurera batari ababyeyi be (imfubyi)"
+    },
+    {
+      "name": "Umwana ubana n'abamurera batari ababyeyi be (ababyeyi bariho)"
+    },
+    {
+      "name": "Umwana ubana n'ababyeyi bombi (bashyingiranywe byemewe n'amategeko)"
+    },
+    {
+      "name": "Umwana ubana n'umubyeyi watandukanye n'uwo bashakanye"
+    },
+    {
+      "name": "Umwana ubana n'umubyeyi umwe (undi yaritabye Imana)"
+    },
+    {
+      "name": "Umwana ubana n'umubyeyi umwe (se)"
+    },
+    {
+      "name": "Umwana ubana n'umubyeyi umwe (nyina)"
+    },
+    {
+      "name": "Umwana ubana n'umubyeyi umwe"
+    }
+  ],
+  "passportTypes": [
+    {
+      "name": "Pasiporo isanzwe"
+    },
+    {
+      "name": "Pasiporo y'akazi"
+    },
+    {
+      "name": "Pasiporo y'abadipolomate"
+    }
+  ],
+  "dgieCitizenship": [
+    {
+      "name": "Kubona ubwenegihugu bishishingiye ku kuvukira mu Rwanda"
+    },
+    {
+      "name": "Kubona ubwenegihugu bishingiye ku ishyingirwa"
+    },
+    {
+      "name": "Kubona ubwenegihugu bishingiye ku kugirwa umunyarwanda"
+    },
+    {
+      "name": "Kureka ubwenegihugu Nyarwanda"
+    },
+    {
+      "name": "Kwiyandikisha usaba ubwenegihugu"
+    },
+    {
+      "name": "Indahiro y'uwahawe ubwenegihugu"
+    }
+  ],
+  "museumNames": [
+    {
+      "name": "Ingoro y' Ubuhanzi n' Ubugeni / Kigali - Kanombe"
+    },
+    {
+      "name": "Ingoro y'amateka y'urugamba rwo kuhora igihugu / Gicumbi - Mulindi"
+    },
+    {
+      "name": "Ingoro y'Umurage w’Amateka y’Imibereho y'Abanyarwanda / Huye"
+    },
+    {
+      "name": "Ingoro y'ibidukikije / Karongi"
+    },
+    {
+      "name": "Ingoro y'Amateka y’ Umwami / Nyanza - Rukari"
+    },
+    {
+      "name": "Ingoro yo Kwigira / Nyanza - Rwesero"
+    },
+    {
+      "name": "Ingoro y'Amateka yitiriwe Kandt / Kigali - Nyarugenge"
+    },
+    {
+      "name": "Ingoro y'amateka y'urugamba rwo guhagarika Jenoside / Kigali (Parliament)"
+    }
+  ],
+  "visitorCategories": [
+    {
+      "name": "Abanyarwanda"
+    },
+    {
+      "name": "Umwenegihugu wa EAC"
+    },
+    {
+      "name": "Umuturage wa EAC"
+    },
+    {
+      "name": "Umwenegihugu wa CEPGL"
+    },
+    {
+      "name": "Umunyamahanga utuye mu Rwanda"
+    },
+    {
+      "name": "Umushyitsi mpuzamahanga"
+    }
+  ],
+  "dgieApplicants": [
+    {
+      "name": "Hejuru ya 18"
+    },
+    {
+      "name": "Munsi ya 18"
+    }
+  ],
+  "travelDestination": [
+    {
+      "name": "Ubucuruzi"
+    },
+    {
+      "name": "Inama"
+    },
+    {
+      "name": "Inama"
+    },
+    {
+      "name": "Ikiruhuko"
+    },
+    {
+      "name": "Kuvura"
+    },
+    {
+      "name": "Ubutumwa bw'akazi"
+    },
+    {
+      "name": "Iyobokamana"
+    },
+    {
+      "name": "Gusura inshuti"
+    },
+    {
+      "name": "Akazi"
+    },
+    {
+      "name": "Kugaruka murugo"
+    },
+    {
+      "name": "Gushyingura"
+    },
+    {
+      "name": "Amarushanwa y'ishuri"
+    },
+    {
+      "name": "Koherezwa"
+    },
+    {
+      "name": "Gutwara"
+    },
+    {
+      "name": "Amahugurwa"
+    },
+    {
+      "name": "Ubukerarugendo"
+    },
+    {
+      "name": "Ubukwe"
+    },
+    {
+      "name": "Ibindi"
+    }
+  ],
+  "passportValidity": [
+    {
+      "name": "Imyaka 2"
+    },
+    {
+      "name": "Imyaka 5"
+    },
+    {
+      "name": "Imyaka 10"
+    }
+  ],
+  "visitorTypes": [
+    {
+      "name": "Umuntu ukuze"
+    },
+    {
+      "name": "Umunyeshuri"
+    },
+    {
+      "name": "Umwana"
+    },
+    {
+      "name": "Umwana uri munsi y'imyaka 6"
+    },
+    {
+      "name": "Itsinda"
+    }
+  ],
+  "dgieCollectionTypes": [
+    {
+      "name": "Icyicaro Gikuru cy'Abinjira n'Abasohoka mu Gihugu"
+    },
+    {
+      "name": "Icyicaro cy'Akarere utuyemo"
+    },
+    {
+      "name": "Igihugu utuyemo"
+    },
+    {
+      "name": "DGIE RDB Office"
+    }
+  ],
+  "travelDocuments": [
+    {
+      "name": "Pasiporo isanzwe"
+    },
+    {
+      "name": "Pasiporo y'akazi"
+    },
+    {
+      "name": "Pasiporo y'abadipolomate"
+    },
+    {
+      "name": "Urwandiko ruhabwa imunzi"
+    },
+    {
+      "name": "Pasiporo idasanzwe"
+    },
+    {
+      "name": "UN Laissez-Passez"
+    },
+    {
+      "name": "Izindi"
+    }
+  ],
+  "desiredDocuments": [
+    {
+      "name": "Urwandiko rw'inzira ruhabwa abanyamahanga mu buryo bwihuse"
+    },
+    {
+      "name": "Urwandiko rw'inzira rwemewe ruhabwa impunzi ruri mu mashini"
+    }
+  ],
+  "visaVisitPurpose": [
+    {
+      "name": "Ikiruhuko - Kwinjira rimwe"
+    },
+    {
+      "name": "Ikiruhuko - Kwinjira kenshi"
+    },
+    {
+      "name": "Umuryango - Kwinjira rimwe"
+    },
+    {
+      "name": "Umuryango - Kwinjira kenshi"
+    },
+    {
+      "name": "Ubukerarugendo"
+    },
+    {
+      "name": "Gusura inshuti cyangwa umuryango"
+    },
+    {
+      "name": "Inama"
+    },
+    {
+      "name": "Ubutumwa bw'akazi"
+    },
+    {
+      "name": "Viza yo gutambuka"
+    },
+    {
+      "name": "Ibindi"
+    }
+  ],
+  "clusterOfIntervention": [
+    {
+      "name": "Kwihaza mu bukungu"
+    },
+    {
+      "name": "Imiyoborere n'Ubutabera"
+    },
+    {
+      "name": "Imibereho myiza"
+    }
+  ],
+  "governanceSystem": [
+    {
+      "name": "Amatorero"
+    },
+    {
+      "name": "Sinodi y'abepiskopi"
+    },
+    {
+      "name": "Sinodi"
+    },
+    {
+      "name": "Ibindi"
+    }
+  ],
+  "denomination": [
+    {
+      "name": "Abadive"
+    },
+    {
+      "name": "Angilikani"
+    },
+    {
+      "name": "Intumwa"
+    },
+    {
+      "name": "Aba Batisite"
+    },
+    {
+      "name": "Itorero ry'abavutse ubwa kabiri"
+    },
+    {
+      "name": "Aba Gaturika"
+    },
+    {
+      "name": "Aba Metodiste"
+    },
+    {
+      "name": "Aba Pentekote"
+    },
+    {
+      "name": "Aba Peresibeteriyani"
+    },
+    {
+      "name": "Umuryango ry'Abasilamu mu Rwanda"
+    },
+    {
+      "name": "Ibindi"
+    }
+  ],
+  "representativeTitle": [
+    {
+      "name": "Musenyeri"
+    },
+    {
+      "name": "Intumwa"
+    },
+    {
+      "name": "Arikeyepisikopi"
+    },
+    {
+      "name": "Furere"
+    },
+    {
+      "name": "Karidinali"
+    },
+    {
+      "name": "Umuvugabutumwa"
+    },
+    {
+      "name": "Padiri"
+    },
+    {
+      "name": "Pasiteri"
+    },
+    {
+      "name": "Revera"
+    },
+    {
+      "name": "Shehi"
+    },
+    {
+      "name": "Umubikira"
+    },
+    {
+      "name": "Ibindi"
+    }
+  ],
+  "meetingFrequency": [
+    {
+      "name": "Buri mwaka"
+    },
+    {
+      "name": "Kabiri mu kwezi"
+    },
+    {
+      "name": "Kabiri mu gihembwe"
+    },
+    {
+      "name": "Kabiri mu cyumweu"
+    },
+    {
+      "name": "Kabiri mu mwaka"
+    },
+    {
+      "name": "Ubwisubire"
+    },
+    {
+      "name": "Buri kwezi"
+    },
+    {
+      "name": "Buri gihembwe"
+    },
+    {
+      "name": "Buri cyumweru"
+    }
+  ],
+  "dgieRelationship": [
+    {
+      "name": "Masenge"
+    },
+    {
+      "name": "Inshuti (umuhungu)"
+    },
+    {
+      "name": "Umuvandimwe (umuhungu)"
+    },
+    {
+      "name": "Muramu wanjye"
+    },
+    {
+      "name": "Mubyara wanjye"
+    },
+    {
+      "name": "Umukobwa wanjye"
+    },
+    {
+      "name": "Umukazana"
+    },
+    {
+      "name": "Data"
+    },
+    {
+      "name": "Databukwe"
+    },
+    {
+      "name": "Inshuti (umukobwa)"
+    },
+    {
+      "name": "Umwuzukuru (umukobwa)"
+    },
+    {
+      "name": "Sogokuru"
+    },
+    {
+      "name": "Nyogokuru"
+    },
+    {
+      "name": "Umwuzukuru (umuhungu)"
+    },
+    {
+      "name": "Umugabo wanjye"
+    },
+    {
+      "name": "Mama"
+    },
+    {
+      "name": "Mabukwe"
+    },
+    {
+      "name": "Umwishywa (umuhungu)"
+    },
+    {
+      "name": "Umwishywa (umukobwa)"
+    },
+    {
+      "name": "Mushiki wanjye"
+    },
+    {
+      "name": "Muramukazi wanjye"
+    },
+    {
+      "name": "Umuhungu wanjye"
+    },
+    {
+      "name": "Umukwe"
+    },
+    {
+      "name": "Umuvandi (duhuje umubeyi umwe)"
+    },
+    {
+      "name": "Umukobwa w'uwo twashakanye"
+    },
+    {
+      "name": "Uwashakanye na Mama"
+    },
+    {
+      "name": "Uwashakanye na Papa"
+    },
+    {
+      "name": "Umuvandimwe duhuje umubyeyi umwe (umukobwa)"
+    },
+    {
+      "name": "Umuhungu w'uwo twashakanye"
+    },
+    {
+      "name": "Marume"
+    },
+    {
+      "name": "Umugore wanjye"
+    }
+  ],
+  "nppaCollectionChoices": [
+    {
+      "name": "Ibiro bya MAJ"
+    },
+    {
+      "name": "Ibiro bya NPPA"
+    },
+    {
+      "name": "Nta na kimwe"
+    }
+  ],
+  "visaTypes": [
+    {
+      "name": "V1 - Ikiruhuko (Kwinjira incuro imwe)"
+    },
+    {
+      "name": "V1 - Ikiruhuko (Kwinjira incuro nyinshi)"
+    },
+    {
+      "name": "V2 - Umuryango (Kwinjira incuro imwe)"
+    },
+    {
+      "name": "V2 - Umuryango (Kwinjira incuro nyinshi)"
+    },
+    {
+      "name": "V3-2 Umudipolomate uhagarariye igihugu cy'igituranyi hamwe n'u Rwanda"
+    },
+    {
+      "name": "V5 - Viza yo kwitabira Inama"
+    },
+    {
+      "name": "V7 - Viza yo kwivuza"
+    },
+    {
+      "name": "V8 - Ubukerarugengo bukorwa mu matsinda"
+    },
+    {
+      "name": "V11 - Viza y'Afurika y'Uburasirazuba"
+    },
+    {
+      "name": "VT - Viza yo gutambuka"
+    },
+    {
+      "name": "V3-1 Official visit"
+    },
+    {
+      "name": "V5 - Viza yo kwitabira Inama (Kwinjira incuro nyinshi)"
+    }
+  ],
+  "documentTypes": [
+    {
+      "name": "Nomero y'Indangamuntu"
+    },
+    {
+      "name": "Nomero ya Dosiye"
+    },
+    {
+      "name": "Nomero y'icyangombwa"
+    }
+  ],
+  "billIDActionTypes": [
+    {
+      "name": "Kuvanaho"
+    },
+    {
+      "name": "Ntibyakuwemo"
+    }
+  ],
+  "requestStatus": [
+    {
+      "name": "Byoherejwe"
+    },
+    {
+      "name": "Biracyakorwa"
+    },
+    {
+      "name": "Byanze"
+    }
+  ]
+}
